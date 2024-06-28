@@ -1,0 +1,18 @@
+{
+  "id": "lyberrwinery_-1486,63,14734",
+  "name": "lyberrwinery",
+  "icon": "waypoint-normal.png",
+  "x": -1486,
+  "y": 63,
+  "z": 14734,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

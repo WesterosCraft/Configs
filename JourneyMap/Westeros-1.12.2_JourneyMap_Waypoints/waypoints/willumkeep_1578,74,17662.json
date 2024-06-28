@@ -1,0 +1,18 @@
+{
+  "id": "willumkeep_1578,74,17662",
+  "name": "willumkeep",
+  "icon": "waypoint-normal.png",
+  "x": 1578,
+  "y": 74,
+  "z": 17662,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

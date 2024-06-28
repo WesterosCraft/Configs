@@ -1,0 +1,18 @@
+{
+  "id": "sshf2_-9516,74,-7165",
+  "name": "sshf2",
+  "icon": "waypoint-normal.png",
+  "x": -9516,
+  "y": 74,
+  "z": -7165,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

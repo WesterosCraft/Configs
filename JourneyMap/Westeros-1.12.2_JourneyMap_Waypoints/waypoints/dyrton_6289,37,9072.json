@@ -1,0 +1,18 @@
+{
+  "id": "dyrton_6289,37,9072",
+  "name": "dyrton",
+  "icon": "waypoint-normal.png",
+  "x": 6289,
+  "y": 37,
+  "z": 9072,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

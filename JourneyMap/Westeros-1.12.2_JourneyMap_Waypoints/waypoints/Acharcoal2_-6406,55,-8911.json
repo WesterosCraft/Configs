@@ -1,0 +1,18 @@
+{
+  "id": "Acharcoal2_-6406,55,-8911",
+  "name": "Acharcoal2",
+  "icon": "waypoint-normal.png",
+  "x": -6406,
+  "y": 55,
+  "z": -8911,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

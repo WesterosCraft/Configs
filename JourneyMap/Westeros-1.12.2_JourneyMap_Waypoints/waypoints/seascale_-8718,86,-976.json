@@ -1,0 +1,18 @@
+{
+  "id": "seascale_-8718,86,-976",
+  "name": "seascale",
+  "icon": "waypoint-normal.png",
+  "x": -8718,
+  "y": 86,
+  "z": -976,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "woodswatch_3807,48,-16082",
+  "name": "woodswatch",
+  "icon": "waypoint-normal.png",
+  "x": 3807,
+  "y": 48,
+  "z": -16082,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

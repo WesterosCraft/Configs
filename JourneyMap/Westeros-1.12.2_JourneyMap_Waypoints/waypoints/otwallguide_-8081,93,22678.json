@@ -1,0 +1,18 @@
+{
+  "id": "otwallguide_-8081,93,22678",
+  "name": "otwallguide",
+  "icon": "waypoint-normal.png",
+  "x": -8081,
+  "y": 93,
+  "z": 22678,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

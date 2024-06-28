@@ -1,0 +1,18 @@
+{
+  "id": "stokeworth_4445,44,11697",
+  "name": "stokeworth",
+  "icon": "waypoint-normal.png",
+  "x": 4445,
+  "y": 44,
+  "z": 11697,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

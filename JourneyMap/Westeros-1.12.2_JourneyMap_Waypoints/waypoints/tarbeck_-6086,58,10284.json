@@ -1,0 +1,18 @@
+{
+  "id": "tarbeck_-6086,58,10284",
+  "name": "tarbeck",
+  "icon": "waypoint-normal.png",
+  "x": -6086,
+  "y": 58,
+  "z": 10284,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

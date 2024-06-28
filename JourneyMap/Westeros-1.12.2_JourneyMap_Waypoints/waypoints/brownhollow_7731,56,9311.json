@@ -1,0 +1,18 @@
+{
+  "id": "brownhollow_7731,56,9311",
+  "name": "brownhollow",
+  "icon": "waypoint-normal.png",
+  "x": 7731,
+  "y": 56,
+  "z": 9311,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

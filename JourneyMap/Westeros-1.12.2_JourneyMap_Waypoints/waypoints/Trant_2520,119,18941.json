@@ -1,0 +1,18 @@
+{
+  "id": "Trant_2520,119,18941",
+  "name": "Trant",
+  "icon": "waypoint-normal.png",
+  "x": 2520,
+  "y": 119,
+  "z": 18941,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

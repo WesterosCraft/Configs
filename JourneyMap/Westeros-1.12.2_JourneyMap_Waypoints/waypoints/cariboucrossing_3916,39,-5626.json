@@ -1,0 +1,18 @@
+{
+  "id": "cariboucrossing_3916,39,-5626",
+  "name": "cariboucrossing",
+  "icon": "waypoint-normal.png",
+  "x": 3916,
+  "y": 39,
+  "z": -5626,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

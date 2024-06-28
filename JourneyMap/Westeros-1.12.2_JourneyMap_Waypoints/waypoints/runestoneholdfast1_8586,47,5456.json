@@ -1,0 +1,18 @@
+{
+  "id": "runestoneholdfast1_8586,47,5456",
+  "name": "runestoneholdfast1",
+  "icon": "waypoint-normal.png",
+  "x": 8586,
+  "y": 47,
+  "z": 5456,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

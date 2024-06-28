@@ -1,0 +1,18 @@
+{
+  "id": "cassel_-1197,82,-8456",
+  "name": "cassel",
+  "icon": "waypoint-normal.png",
+  "x": -1197,
+  "y": 82,
+  "z": -8456,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

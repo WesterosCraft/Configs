@@ -1,0 +1,18 @@
+{
+  "id": "sfham3_-7165,91,11127",
+  "name": "sfham3",
+  "icon": "waypoint-normal.png",
+  "x": -7165,
+  "y": 91,
+  "z": 11127,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

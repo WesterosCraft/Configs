@@ -1,0 +1,18 @@
+{
+  "id": "bearpit_1864,45,9157",
+  "name": "bearpit",
+  "icon": "waypoint-normal.png",
+  "x": 1864,
+  "y": 45,
+  "z": 9157,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "hsham_-5208,54,19999",
+  "name": "hsham",
+  "icon": "waypoint-normal.png",
+  "x": -5208,
+  "y": 54,
+  "z": 19999,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ouch_-9113,201,21138",
+  "name": "ouch",
+  "icon": "waypoint-normal.png",
+  "x": -9113,
+  "y": 201,
+  "z": 21138,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

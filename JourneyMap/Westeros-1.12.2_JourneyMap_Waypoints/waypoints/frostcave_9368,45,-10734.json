@@ -1,0 +1,18 @@
+{
+  "id": "frostcave_9368,45,-10734",
+  "name": "frostcave",
+  "icon": "waypoint-normal.png",
+  "x": 9368,
+  "y": 45,
+  "z": -10734,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "hgh2_-201,78,5058",
+  "name": "hgh2",
+  "icon": "waypoint-normal.png",
+  "x": -201,
+  "y": 78,
+  "z": 5058,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

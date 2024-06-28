@@ -1,0 +1,18 @@
+{
+  "id": "dragonskulls_3403,117,13328",
+  "name": "dragonskulls",
+  "icon": "waypoint-normal.png",
+  "x": 3403,
+  "y": 117,
+  "z": 13328,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

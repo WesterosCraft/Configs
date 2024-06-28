@@ -1,0 +1,18 @@
+{
+  "id": "ormehf1_2768,47,14921",
+  "name": "ormehf1",
+  "icon": "waypoint-normal.png",
+  "x": 2768,
+  "y": 47,
+  "z": 14921,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

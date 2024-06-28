@@ -1,0 +1,18 @@
+{
+  "id": "thlandedknight_-6462,73,10298",
+  "name": "thlandedknight",
+  "icon": "waypoint-normal.png",
+  "x": -6462,
+  "y": 73,
+  "z": 10298,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

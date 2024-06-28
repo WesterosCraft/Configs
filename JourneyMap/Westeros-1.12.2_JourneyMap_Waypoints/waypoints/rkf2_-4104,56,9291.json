@@ -1,0 +1,18 @@
+{
+  "id": "rkf2_-4104,56,9291",
+  "name": "rkf2",
+  "icon": "waypoint-normal.png",
+  "x": -4104,
+  "y": 56,
+  "z": 9291,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

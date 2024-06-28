@@ -1,0 +1,18 @@
+{
+  "id": "briarhill_-4516,45,16039",
+  "name": "briarhill",
+  "icon": "waypoint-normal.png",
+  "x": -4516,
+  "y": 45,
+  "z": 16039,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "mh1_-5170,75,9519",
+  "name": "mh1",
+  "icon": "waypoint-normal.png",
+  "x": -5170,
+  "y": 75,
+  "z": 9519,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "steepstream_1296,49,5974",
+  "name": "steepstream",
+  "icon": "waypoint-normal.png",
+  "x": 1296,
+  "y": 49,
+  "z": 5974,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

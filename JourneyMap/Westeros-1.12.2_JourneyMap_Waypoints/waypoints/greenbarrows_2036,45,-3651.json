@@ -1,0 +1,18 @@
+{
+  "id": "greenbarrows_2036,45,-3651",
+  "name": "greenbarrows",
+  "icon": "waypoint-normal.png",
+  "x": 2036,
+  "y": 45,
+  "z": -3651,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

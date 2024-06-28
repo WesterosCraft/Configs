@@ -1,0 +1,18 @@
+{
+  "id": "arbormountaintest_-9250,107,26330",
+  "name": "arbormountaintest",
+  "icon": "waypoint-normal.png",
+  "x": -9250,
+  "y": 107,
+  "z": 26330,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

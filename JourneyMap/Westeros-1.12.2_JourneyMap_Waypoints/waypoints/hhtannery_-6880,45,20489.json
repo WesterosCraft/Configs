@@ -1,0 +1,18 @@
+{
+  "id": "hhtannery_-6880,45,20489",
+  "name": "hhtannery",
+  "icon": "waypoint-normal.png",
+  "x": -6880,
+  "y": 45,
+  "z": 20489,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

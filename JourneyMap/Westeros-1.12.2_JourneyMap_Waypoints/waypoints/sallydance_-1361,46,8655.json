@@ -1,0 +1,18 @@
+{
+  "id": "sallydance_-1361,46,8655",
+  "name": "sallydance",
+  "icon": "waypoint-normal.png",
+  "x": -1361,
+  "y": 46,
+  "z": 8655,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

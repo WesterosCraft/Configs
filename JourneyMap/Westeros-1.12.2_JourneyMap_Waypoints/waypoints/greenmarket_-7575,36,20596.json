@@ -1,0 +1,18 @@
+{
+  "id": "greenmarket_-7575,36,20596",
+  "name": "greenmarket",
+  "icon": "waypoint-normal.png",
+  "x": -7575,
+  "y": 36,
+  "z": 20596,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

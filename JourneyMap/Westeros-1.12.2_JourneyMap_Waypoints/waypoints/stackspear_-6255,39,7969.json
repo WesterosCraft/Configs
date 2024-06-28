@@ -1,0 +1,18 @@
+{
+  "id": "stackspear_-6255,39,7969",
+  "name": "stackspear",
+  "icon": "waypoint-normal.png",
+  "x": -6255,
+  "y": 39,
+  "z": 7969,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

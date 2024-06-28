@@ -1,0 +1,18 @@
+{
+  "id": "branch_-2376,50,-9373",
+  "name": "branch",
+  "icon": "waypoint-normal.png",
+  "x": -2376,
+  "y": 50,
+  "z": -9373,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

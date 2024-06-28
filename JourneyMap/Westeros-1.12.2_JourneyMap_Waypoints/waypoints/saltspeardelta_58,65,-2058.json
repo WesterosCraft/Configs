@@ -1,0 +1,18 @@
+{
+  "id": "saltspeardelta_58,65,-2058",
+  "name": "saltspeardelta",
+  "icon": "waypoint-normal.png",
+  "x": 58,
+  "y": 65,
+  "z": -2058,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

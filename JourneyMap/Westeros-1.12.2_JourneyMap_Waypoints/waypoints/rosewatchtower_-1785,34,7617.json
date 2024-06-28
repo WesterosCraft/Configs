@@ -1,0 +1,18 @@
+{
+  "id": "rosewatchtower_-1785,34,7617",
+  "name": "rosewatchtower",
+  "icon": "waypoint-normal.png",
+  "x": -1785,
+  "y": 34,
+  "z": 7617,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

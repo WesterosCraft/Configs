@@ -1,0 +1,18 @@
+{
+  "id": "wfkingsroadgate_-954,79,-8518",
+  "name": "wfkingsroadgate",
+  "icon": "waypoint-normal.png",
+  "x": -954,
+  "y": 79,
+  "z": -8518,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

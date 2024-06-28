@@ -1,0 +1,18 @@
+{
+  "id": "scarwood_6142,66,-5035",
+  "name": "scarwood",
+  "icon": "waypoint-normal.png",
+  "x": 6142,
+  "y": 66,
+  "z": -5035,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

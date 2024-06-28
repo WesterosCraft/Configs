@@ -1,0 +1,18 @@
+{
+  "id": "hornhillv7_-3559,153,19970",
+  "name": "hornhillv7",
+  "icon": "waypoint-normal.png",
+  "x": -3559,
+  "y": 153,
+  "z": 19970,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

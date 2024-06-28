@@ -1,0 +1,18 @@
+{
+  "id": "rosefield_-3188,60,16776",
+  "name": "rosefield",
+  "icon": "waypoint-normal.png",
+  "x": -3188,
+  "y": 60,
+  "z": 16776,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

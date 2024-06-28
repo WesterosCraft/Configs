@@ -1,0 +1,18 @@
+{
+  "id": "lonmouthhf1_3594,150,19105",
+  "name": "lonmouthhf1",
+  "icon": "waypoint-normal.png",
+  "x": 3594,
+  "y": 150,
+  "z": 19105,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "klquarry_2909,59,12138",
+  "name": "klquarry",
+  "icon": "waypoint-normal.png",
+  "x": 2909,
+  "y": 59,
+  "z": 12138,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "lordharrowaystown_1383,38,7835",
+  "name": "lordharrowaystown",
+  "icon": "waypoint-normal.png",
+  "x": 1383,
+  "y": 38,
+  "z": 7835,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

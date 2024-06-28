@@ -1,0 +1,18 @@
+{
+  "id": "gallowsgreyh2_2545,116,18452",
+  "name": "gallowsgreyh2",
+  "icon": "waypoint-normal.png",
+  "x": 2545,
+  "y": 116,
+  "z": 18452,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

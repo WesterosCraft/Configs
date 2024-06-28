@@ -1,0 +1,18 @@
+{
+  "id": "dorrenswatch_3214,69,-5387",
+  "name": "dorrenswatch",
+  "icon": "waypoint-normal.png",
+  "x": 3214,
+  "y": 69,
+  "z": -5387,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

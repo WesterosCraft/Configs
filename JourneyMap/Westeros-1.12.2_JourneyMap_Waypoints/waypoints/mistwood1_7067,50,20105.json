@@ -1,0 +1,18 @@
+{
+  "id": "mistwood1_7067,50,20105",
+  "name": "mistwood1",
+  "icon": "waypoint-normal.png",
+  "x": 7067,
+  "y": 50,
+  "z": 20105,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

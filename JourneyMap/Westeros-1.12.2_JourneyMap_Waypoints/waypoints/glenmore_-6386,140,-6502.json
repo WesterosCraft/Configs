@@ -1,0 +1,18 @@
+{
+  "id": "glenmore_-6386,140,-6502",
+  "name": "glenmore",
+  "icon": "waypoint-normal.png",
+  "x": -6386,
+  "y": 140,
+  "z": -6502,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

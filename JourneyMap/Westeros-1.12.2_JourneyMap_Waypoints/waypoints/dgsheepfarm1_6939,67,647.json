@@ -1,0 +1,18 @@
+{
+  "id": "dgsheepfarm1_6939,67,647",
+  "name": "dgsheepfarm1",
+  "icon": "waypoint-normal.png",
+  "x": 6939,
+  "y": 67,
+  "z": 647,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "redpool_-3675,83,8393",
+  "name": "redpool",
+  "icon": "waypoint-normal.png",
+  "x": -3675,
+  "y": 83,
+  "z": 8393,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

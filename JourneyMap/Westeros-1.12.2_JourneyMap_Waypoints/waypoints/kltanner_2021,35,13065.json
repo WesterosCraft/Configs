@@ -1,0 +1,18 @@
+{
+  "id": "kltanner_2021,35,13065",
+  "name": "kltanner",
+  "icon": "waypoint-normal.png",
+  "x": 2021,
+  "y": 35,
+  "z": 13065,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

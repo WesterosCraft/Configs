@@ -1,0 +1,18 @@
+{
+  "id": "honeyholtseptry_-6385,46,21244",
+  "name": "honeyholtseptry",
+  "icon": "waypoint-normal.png",
+  "x": -6385,
+  "y": 46,
+  "z": 21244,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

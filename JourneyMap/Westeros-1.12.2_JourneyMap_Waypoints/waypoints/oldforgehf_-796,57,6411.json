@@ -1,0 +1,18 @@
+{
+  "id": "oldforgehf_-796,57,6411",
+  "name": "oldforgehf",
+  "icon": "waypoint-normal.png",
+  "x": -796,
+  "y": 57,
+  "z": 6411,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

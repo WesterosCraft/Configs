@@ -1,0 +1,18 @@
+{
+  "id": "newkeepfarming_1838,57,1764",
+  "name": "newkeepfarming",
+  "icon": "waypoint-normal.png",
+  "x": 1838,
+  "y": 57,
+  "z": 1764,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

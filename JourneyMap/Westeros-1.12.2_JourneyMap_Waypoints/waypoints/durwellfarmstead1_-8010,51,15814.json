@@ -1,0 +1,18 @@
+{
+  "id": "durwellfarmstead1_-8010,51,15814",
+  "name": "durwellfarmstead1",
+  "icon": "waypoint-normal.png",
+  "x": -8010,
+  "y": 51,
+  "z": 15814,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

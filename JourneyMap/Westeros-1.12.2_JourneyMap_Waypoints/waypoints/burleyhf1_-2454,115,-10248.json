@@ -1,0 +1,18 @@
+{
+  "id": "burleyhf1_-2454,115,-10248",
+  "name": "burleyhf1",
+  "icon": "waypoint-normal.png",
+  "x": -2454,
+  "y": 115,
+  "z": -10248,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

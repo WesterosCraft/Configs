@@ -1,0 +1,18 @@
+{
+  "id": "WullCave_-1153,136,-13071",
+  "name": "WullCave",
+  "icon": "waypoint-normal.png",
+  "x": -1153,
+  "y": 136,
+  "z": -13071,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

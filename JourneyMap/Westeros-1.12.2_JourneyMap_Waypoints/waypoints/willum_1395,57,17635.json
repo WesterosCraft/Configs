@@ -1,0 +1,18 @@
+{
+  "id": "willum_1395,57,17635",
+  "name": "willum",
+  "icon": "waypoint-normal.png",
+  "x": 1395,
+  "y": 57,
+  "z": 17635,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

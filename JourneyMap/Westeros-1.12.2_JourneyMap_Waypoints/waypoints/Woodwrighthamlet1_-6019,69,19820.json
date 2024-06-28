@@ -1,0 +1,18 @@
+{
+  "id": "Woodwrighthamlet1_-6019,69,19820",
+  "name": "Woodwrighthamlet1",
+  "icon": "waypoint-normal.png",
+  "x": -6019,
+  "y": 69,
+  "z": 19820,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

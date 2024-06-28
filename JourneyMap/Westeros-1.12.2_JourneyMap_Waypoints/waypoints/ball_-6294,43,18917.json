@@ -1,0 +1,18 @@
+{
+  "id": "ball_-6294,43,18917",
+  "name": "ball",
+  "icon": "waypoint-normal.png",
+  "x": -6294,
+  "y": 43,
+  "z": 18917,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "springhamshire_1342,79,14929",
+  "name": "springhamshire",
+  "icon": "waypoint-normal.png",
+  "x": 1342,
+  "y": 79,
+  "z": 14929,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "romoquarry_-203,43,15681",
+  "name": "romoquarry",
+  "icon": "waypoint-normal.png",
+  "x": -203,
+  "y": 43,
+  "z": 15681,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

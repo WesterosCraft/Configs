@@ -1,0 +1,18 @@
+{
+  "id": "Hayford_1991,46,12367",
+  "name": "Hayford",
+  "icon": "waypoint-normal.png",
+  "x": 1991,
+  "y": 46,
+  "z": 12367,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

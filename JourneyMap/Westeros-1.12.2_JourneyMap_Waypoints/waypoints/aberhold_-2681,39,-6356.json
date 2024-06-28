@@ -1,0 +1,18 @@
+{
+  "id": "aberhold_-2681,39,-6356",
+  "name": "aberhold",
+  "icon": "waypoint-normal.png",
+  "x": -2681,
+  "y": 39,
+  "z": -6356,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

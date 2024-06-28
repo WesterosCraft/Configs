@@ -1,0 +1,18 @@
+{
+  "id": "hammertown_-6666,51,21009",
+  "name": "hammertown",
+  "icon": "waypoint-normal.png",
+  "x": -6666,
+  "y": 51,
+  "z": 21009,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

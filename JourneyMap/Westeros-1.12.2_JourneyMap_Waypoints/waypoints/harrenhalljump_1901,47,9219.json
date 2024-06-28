@@ -1,0 +1,18 @@
+{
+  "id": "harrenhalljump_1901,47,9219",
+  "name": "harrenhalljump",
+  "icon": "waypoint-normal.png",
+  "x": 1901,
+  "y": 47,
+  "z": 9219,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

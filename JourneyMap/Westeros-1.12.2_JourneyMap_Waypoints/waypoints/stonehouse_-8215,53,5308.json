@@ -1,0 +1,18 @@
+{
+  "id": "stonehouse_-8215,53,5308",
+  "name": "stonehouse",
+  "icon": "waypoint-normal.png",
+  "x": -8215,
+  "y": 53,
+  "z": 5308,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

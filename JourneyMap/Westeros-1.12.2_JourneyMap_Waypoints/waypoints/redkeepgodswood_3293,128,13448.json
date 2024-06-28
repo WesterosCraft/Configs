@@ -1,0 +1,18 @@
+{
+  "id": "redkeepgodswood_3293,128,13448",
+  "name": "redkeepgodswood",
+  "icon": "waypoint-normal.png",
+  "x": 3293,
+  "y": 128,
+  "z": 13448,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

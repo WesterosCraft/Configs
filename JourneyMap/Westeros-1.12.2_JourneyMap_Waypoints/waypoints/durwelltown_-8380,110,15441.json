@@ -1,0 +1,18 @@
+{
+  "id": "durwelltown_-8380,110,15441",
+  "name": "durwelltown",
+  "icon": "waypoint-normal.png",
+  "x": -8380,
+  "y": 110,
+  "z": 15441,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "mory_-135,36,7369",
+  "name": "mory",
+  "icon": "waypoint-normal.png",
+  "x": -135,
+  "y": 36,
+  "z": 7369,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

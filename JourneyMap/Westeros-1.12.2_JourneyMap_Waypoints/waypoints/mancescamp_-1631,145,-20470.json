@@ -1,0 +1,18 @@
+{
+  "id": "mancescamp_-1631,145,-20470",
+  "name": "mancescamp",
+  "icon": "waypoint-normal.png",
+  "x": -1631,
+  "y": 145,
+  "z": -20470,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ochold3_3972,50,-2348",
+  "name": "ochold3",
+  "icon": "waypoint-normal.png",
+  "x": 3972,
+  "y": 50,
+  "z": -2348,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "RIPSeals_-8877,35,4530",
+  "name": "RIPSeals",
+  "icon": "waypoint-normal.png",
+  "x": -8877,
+  "y": 35,
+  "z": 4530,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

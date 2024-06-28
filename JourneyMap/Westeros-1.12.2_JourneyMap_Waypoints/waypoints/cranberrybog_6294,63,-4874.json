@@ -1,0 +1,18 @@
+{
+  "id": "cranberrybog_6294,63,-4874",
+  "name": "cranberrybog",
+  "icon": "waypoint-normal.png",
+  "x": 6294,
+  "y": 63,
+  "z": -4874,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

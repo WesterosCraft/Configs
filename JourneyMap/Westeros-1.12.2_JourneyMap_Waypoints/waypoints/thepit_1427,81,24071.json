@@ -1,0 +1,18 @@
+{
+  "id": "thepit_1427,81,24071",
+  "name": "thepit",
+  "icon": "waypoint-normal.png",
+  "x": 1427,
+  "y": 81,
+  "z": 24071,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

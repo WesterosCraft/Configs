@@ -1,0 +1,18 @@
+{
+  "id": "snakewooddocks_6887,36,2140",
+  "name": "snakewooddocks",
+  "icon": "waypoint-normal.png",
+  "x": 6887,
+  "y": 36,
+  "z": 2140,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

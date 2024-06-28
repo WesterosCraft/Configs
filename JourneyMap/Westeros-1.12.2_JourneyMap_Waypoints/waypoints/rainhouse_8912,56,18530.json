@@ -1,0 +1,18 @@
+{
+  "id": "rainhouse_8912,56,18530",
+  "name": "rainhouse",
+  "icon": "waypoint-normal.png",
+  "x": 8912,
+  "y": 56,
+  "z": 18530,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

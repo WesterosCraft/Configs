@@ -1,0 +1,18 @@
+{
+  "id": "Dragonmont_8579,156,10197",
+  "name": "Dragonmont",
+  "icon": "waypoint-normal.png",
+  "x": 8579,
+  "y": 156,
+  "z": 10197,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

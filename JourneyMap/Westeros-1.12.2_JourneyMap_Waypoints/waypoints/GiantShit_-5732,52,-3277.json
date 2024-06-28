@@ -1,0 +1,18 @@
+{
+  "id": "GiantShit_-5732,52,-3277",
+  "name": "GiantShit",
+  "icon": "waypoint-normal.png",
+  "x": -5732,
+  "y": 52,
+  "z": -3277,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

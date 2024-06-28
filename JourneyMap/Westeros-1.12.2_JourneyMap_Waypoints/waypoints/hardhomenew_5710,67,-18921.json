@@ -1,0 +1,18 @@
+{
+  "id": "hardhomenew_5710,67,-18921",
+  "name": "hardhomenew",
+  "icon": "waypoint-normal.png",
+  "x": 5710,
+  "y": 67,
+  "z": -18921,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

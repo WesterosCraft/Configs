@@ -1,0 +1,18 @@
+{
+  "id": "northhall_6092,64,-11300",
+  "name": "northhall",
+  "icon": "waypoint-normal.png",
+  "x": 6092,
+  "y": 64,
+  "z": -11300,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

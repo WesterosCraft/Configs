@@ -1,0 +1,18 @@
+{
+  "id": "klmanse5_3726,41,13003",
+  "name": "klmanse5",
+  "icon": "waypoint-normal.png",
+  "x": 3726,
+  "y": 41,
+  "z": 13003,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

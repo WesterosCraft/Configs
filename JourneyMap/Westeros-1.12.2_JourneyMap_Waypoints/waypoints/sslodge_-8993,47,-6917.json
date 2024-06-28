@@ -1,0 +1,18 @@
+{
+  "id": "sslodge_-8993,47,-6917",
+  "name": "sslodge",
+  "icon": "waypoint-normal.png",
+  "x": -8993,
+  "y": 47,
+  "z": -6917,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "goodehf2_861,55,11782",
+  "name": "goodehf2",
+  "icon": "waypoint-normal.png",
+  "x": 861,
+  "y": 55,
+  "z": 11782,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

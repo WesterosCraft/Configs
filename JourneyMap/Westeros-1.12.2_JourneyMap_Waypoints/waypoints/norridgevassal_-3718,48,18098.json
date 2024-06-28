@@ -1,0 +1,18 @@
+{
+  "id": "norridgevassal_-3718,48,18098",
+  "name": "norridgevassal",
+  "icon": "waypoint-normal.png",
+  "x": -3718,
+  "y": 48,
+  "z": 18098,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

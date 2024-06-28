@@ -1,0 +1,18 @@
+{
+  "id": "ThreeTowers_-8983,86,23569",
+  "name": "ThreeTowers",
+  "icon": "waypoint-normal.png",
+  "x": -8983,
+  "y": 86,
+  "z": 23569,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

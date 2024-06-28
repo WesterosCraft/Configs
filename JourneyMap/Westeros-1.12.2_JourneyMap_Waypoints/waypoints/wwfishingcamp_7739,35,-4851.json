@@ -1,0 +1,18 @@
+{
+  "id": "wwfishingcamp_7739,35,-4851",
+  "name": "wwfishingcamp",
+  "icon": "waypoint-normal.png",
+  "x": 7739,
+  "y": 35,
+  "z": -4851,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

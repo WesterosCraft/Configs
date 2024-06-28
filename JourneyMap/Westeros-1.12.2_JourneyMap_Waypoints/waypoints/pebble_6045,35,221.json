@@ -1,0 +1,18 @@
+{
+  "id": "pebble_6045,35,221",
+  "name": "pebble",
+  "icon": "waypoint-normal.png",
+  "x": 6045,
+  "y": 35,
+  "z": 221,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

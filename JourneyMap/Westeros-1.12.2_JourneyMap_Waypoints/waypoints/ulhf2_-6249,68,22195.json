@@ -1,0 +1,18 @@
+{
+  "id": "ulhf2_-6249,68,22195",
+  "name": "ulhf2",
+  "icon": "waypoint-normal.png",
+  "x": -6249,
+  "y": 68,
+  "z": 22195,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

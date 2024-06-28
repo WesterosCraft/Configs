@@ -1,0 +1,18 @@
+{
+  "id": "sunseed_-5524,102,20625",
+  "name": "sunseed",
+  "icon": "waypoint-normal.png",
+  "x": -5524,
+  "y": 102,
+  "z": 20625,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

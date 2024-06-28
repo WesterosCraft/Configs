@@ -1,0 +1,18 @@
+{
+  "id": "dunaengus_-6688,93,1129",
+  "name": "dunaengus",
+  "icon": "waypoint-normal.png",
+  "x": -6688,
+  "y": 93,
+  "z": 1129,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

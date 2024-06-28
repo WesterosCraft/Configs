@@ -1,0 +1,18 @@
+{
+  "id": "hvmine_-4984,105,10847",
+  "name": "hvmine",
+  "icon": "waypoint-normal.png",
+  "x": -4984,
+  "y": 105,
+  "z": 10847,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "PartridgeGate_-8022,41,21723",
+  "name": "PartridgeGate",
+  "icon": "waypoint-normal.png",
+  "x": -8022,
+  "y": 41,
+  "z": 21723,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

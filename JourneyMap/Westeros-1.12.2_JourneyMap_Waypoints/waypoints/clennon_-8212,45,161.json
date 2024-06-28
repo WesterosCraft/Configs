@@ -1,0 +1,18 @@
+{
+  "id": "clennon_-8212,45,161",
+  "name": "clennon",
+  "icon": "waypoint-normal.png",
+  "x": -8212,
+  "y": 45,
+  "z": 161,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

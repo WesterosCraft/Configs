@@ -1,0 +1,18 @@
+{
+  "id": "snow_3819,154,5947",
+  "name": "snow",
+  "icon": "waypoint-normal.png",
+  "x": 3819,
+  "y": 154,
+  "z": 5947,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "TorMine1_5294,76,23475",
+  "name": "TorMine1",
+  "icon": "waypoint-normal.png",
+  "x": 5294,
+  "y": 76,
+  "z": 23475,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

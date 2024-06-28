@@ -1,0 +1,18 @@
+{
+  "id": "sflogging_-6592,56,10821",
+  "name": "sflogging",
+  "icon": "waypoint-normal.png",
+  "x": -6592,
+  "y": 56,
+  "z": 10821,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

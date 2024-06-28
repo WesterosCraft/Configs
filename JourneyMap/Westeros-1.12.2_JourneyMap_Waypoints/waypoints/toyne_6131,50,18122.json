@@ -1,0 +1,18 @@
+{
+  "id": "toyne_6131,50,18122",
+  "name": "toyne",
+  "icon": "waypoint-normal.png",
+  "x": 6131,
+  "y": 50,
+  "z": 18122,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

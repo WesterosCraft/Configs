@@ -1,0 +1,18 @@
+{
+  "id": "yelwt1_-5413,110,22629",
+  "name": "yelwt1",
+  "icon": "waypoint-normal.png",
+  "x": -5413,
+  "y": 110,
+  "z": 22629,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

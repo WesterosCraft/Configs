@@ -1,0 +1,18 @@
+{
+  "id": "hamellcastle_-3690,92,14542",
+  "name": "hamellcastle",
+  "icon": "waypoint-normal.png",
+  "x": -3690,
+  "y": 92,
+  "z": 14542,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

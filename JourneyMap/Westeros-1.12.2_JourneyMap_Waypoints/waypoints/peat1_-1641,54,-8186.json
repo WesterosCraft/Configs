@@ -1,0 +1,18 @@
+{
+  "id": "peat1_-1641,54,-8186",
+  "name": "peat1",
+  "icon": "waypoint-normal.png",
+  "x": -1641,
+  "y": 54,
+  "z": -8186,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

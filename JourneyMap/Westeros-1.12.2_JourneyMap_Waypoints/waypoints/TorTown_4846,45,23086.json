@@ -1,0 +1,18 @@
+{
+  "id": "TorTown_4846,45,23086",
+  "name": "TorTown",
+  "icon": "waypoint-normal.png",
+  "x": 4846,
+  "y": 45,
+  "z": 23086,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

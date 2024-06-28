@@ -1,0 +1,18 @@
+{
+  "id": "lpvineyard_-7088,55,11708",
+  "name": "lpvineyard",
+  "icon": "waypoint-normal.png",
+  "x": -7088,
+  "y": 55,
+  "z": 11708,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

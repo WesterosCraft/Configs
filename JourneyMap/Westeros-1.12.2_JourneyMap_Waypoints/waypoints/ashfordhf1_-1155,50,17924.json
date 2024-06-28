@@ -1,0 +1,18 @@
+{
+  "id": "ashfordhf1_-1155,50,17924",
+  "name": "ashfordhf1",
+  "icon": "waypoint-normal.png",
+  "x": -1155,
+  "y": 50,
+  "z": 17924,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

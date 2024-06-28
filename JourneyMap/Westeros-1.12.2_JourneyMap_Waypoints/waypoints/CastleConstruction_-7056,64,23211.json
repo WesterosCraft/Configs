@@ -1,0 +1,18 @@
+{
+  "id": "CastleConstruction_-7056,64,23211",
+  "name": "CastleConstruction",
+  "icon": "waypoint-normal.png",
+  "x": -7056,
+  "y": 64,
+  "z": 23211,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

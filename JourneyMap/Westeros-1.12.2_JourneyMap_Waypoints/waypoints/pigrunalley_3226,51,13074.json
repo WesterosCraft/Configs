@@ -1,0 +1,18 @@
+{
+  "id": "pigrunalley_3226,51,13074",
+  "name": "pigrunalley",
+  "icon": "waypoint-normal.png",
+  "x": 3226,
+  "y": 51,
+  "z": 13074,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

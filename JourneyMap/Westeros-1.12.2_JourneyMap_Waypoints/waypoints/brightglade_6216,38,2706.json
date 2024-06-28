@@ -1,0 +1,18 @@
+{
+  "id": "brightglade_6216,38,2706",
+  "name": "brightglade",
+  "icon": "waypoint-normal.png",
+  "x": 6216,
+  "y": 38,
+  "z": 2706,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

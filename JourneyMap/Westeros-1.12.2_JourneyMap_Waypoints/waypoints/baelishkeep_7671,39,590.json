@@ -1,0 +1,18 @@
+{
+  "id": "baelishkeep_7671,39,590",
+  "name": "baelishkeep",
+  "icon": "waypoint-normal.png",
+  "x": 7671,
+  "y": 39,
+  "z": 590,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

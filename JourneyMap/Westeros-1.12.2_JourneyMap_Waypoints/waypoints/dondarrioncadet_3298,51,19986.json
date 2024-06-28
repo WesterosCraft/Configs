@@ -1,0 +1,18 @@
+{
+  "id": "dondarrioncadet_3298,51,19986",
+  "name": "dondarrioncadet",
+  "icon": "waypoint-normal.png",
+  "x": 3298,
+  "y": 51,
+  "z": 19986,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "holyhallvillage2_-4002,39,17877",
+  "name": "holyhallvillage2",
+  "icon": "waypoint-normal.png",
+  "x": -4002,
+  "y": 39,
+  "z": 17877,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rkfcastle_-3649,67,9823",
+  "name": "rkfcastle",
+  "icon": "waypoint-normal.png",
+  "x": -3649,
+  "y": 67,
+  "z": 9823,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Broom_-5223,66,14682",
+  "name": "Broom",
+  "icon": "waypoint-normal.png",
+  "x": -5223,
+  "y": 66,
+  "z": 14682,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

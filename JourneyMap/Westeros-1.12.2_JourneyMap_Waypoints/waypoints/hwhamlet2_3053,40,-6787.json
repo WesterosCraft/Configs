@@ -1,0 +1,18 @@
+{
+  "id": "hwhamlet2_3053,40,-6787",
+  "name": "hwhamlet2",
+  "icon": "waypoint-normal.png",
+  "x": 3053,
+  "y": 40,
+  "z": -6787,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "thfarm2_-6327,60,10238",
+  "name": "thfarm2",
+  "icon": "waypoint-normal.png",
+  "x": -6327,
+  "y": 60,
+  "z": 10238,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

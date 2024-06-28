@@ -1,0 +1,18 @@
+{
+  "id": "sanguinegrove_-4544,72,-7997",
+  "name": "sanguinegrove",
+  "icon": "waypoint-normal.png",
+  "x": -4544,
+  "y": 72,
+  "z": -7997,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

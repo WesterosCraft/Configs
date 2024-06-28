@@ -1,0 +1,18 @@
+{
+  "id": "uffmander_-7086,41,18484",
+  "name": "uffmander",
+  "icon": "waypoint-normal.png",
+  "x": -7086,
+  "y": 41,
+  "z": 18484,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

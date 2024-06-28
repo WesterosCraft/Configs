@@ -1,0 +1,18 @@
+{
+  "id": "gotm_4198,28,6104",
+  "name": "gotm",
+  "icon": "waypoint-normal.png",
+  "x": 4198,
+  "y": 28,
+  "z": 6104,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

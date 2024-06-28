@@ -1,0 +1,18 @@
+{
+  "id": "ywmine1_-458,63,22081",
+  "name": "ywmine1",
+  "icon": "waypoint-normal.png",
+  "x": -458,
+  "y": 63,
+  "z": 22081,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

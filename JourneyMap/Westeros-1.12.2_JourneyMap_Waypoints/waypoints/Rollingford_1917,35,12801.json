@@ -1,0 +1,18 @@
+{
+  "id": "Rollingford_1917,35,12801",
+  "name": "Rollingford",
+  "icon": "waypoint-normal.png",
+  "x": 1917,
+  "y": 35,
+  "z": 12801,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

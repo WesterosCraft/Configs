@@ -1,0 +1,18 @@
+{
+  "id": "Trickledown_6153,55,9318",
+  "name": "Trickledown",
+  "icon": "waypoint-normal.png",
+  "x": 6153,
+  "y": 55,
+  "z": 9318,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

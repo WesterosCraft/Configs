@@ -1,0 +1,18 @@
+{
+  "id": "BlackhavenDock_2370,35,20059",
+  "name": "BlackhavenDock",
+  "icon": "waypoint-normal.png",
+  "x": 2370,
+  "y": 35,
+  "z": 20059,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ghosthillcastle_7120,100,23834",
+  "name": "ghosthillcastle",
+  "icon": "waypoint-normal.png",
+  "x": 7120,
+  "y": 100,
+  "z": 23834,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

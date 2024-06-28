@@ -1,0 +1,18 @@
+{
+  "id": "kingsmine_687,76,18127",
+  "name": "kingsmine",
+  "icon": "waypoint-normal.png",
+  "x": 687,
+  "y": 76,
+  "z": 18127,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

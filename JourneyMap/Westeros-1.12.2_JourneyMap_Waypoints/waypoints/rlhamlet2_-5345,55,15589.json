@@ -1,0 +1,18 @@
+{
+  "id": "rlhamlet2_-5345,55,15589",
+  "name": "rlhamlet2",
+  "icon": "waypoint-normal.png",
+  "x": -5345,
+  "y": 55,
+  "z": 15589,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

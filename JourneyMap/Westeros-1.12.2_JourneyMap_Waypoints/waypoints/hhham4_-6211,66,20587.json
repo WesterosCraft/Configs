@@ -1,0 +1,18 @@
+{
+  "id": "hhham4_-6211,66,20587",
+  "name": "hhham4",
+  "icon": "waypoint-normal.png",
+  "x": -6211,
+  "y": 66,
+  "z": 20587,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

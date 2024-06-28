@@ -1,0 +1,18 @@
+{
+  "id": "wullhamlet1_-1543,42,-14368",
+  "name": "wullhamlet1",
+  "icon": "waypoint-normal.png",
+  "x": -1543,
+  "y": 42,
+  "z": -14368,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

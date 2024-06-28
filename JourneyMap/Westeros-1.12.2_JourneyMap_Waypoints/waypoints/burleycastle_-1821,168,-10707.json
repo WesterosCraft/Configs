@@ -1,0 +1,18 @@
+{
+  "id": "burleycastle_-1821,168,-10707",
+  "name": "burleycastle",
+  "icon": "waypoint-normal.png",
+  "x": -1821,
+  "y": 168,
+  "z": -10707,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

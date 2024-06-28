@@ -1,0 +1,18 @@
+{
+  "id": "graveswatch_-8939,71,21332",
+  "name": "graveswatch",
+  "icon": "waypoint-normal.png",
+  "x": -8939,
+  "y": 71,
+  "z": 21332,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

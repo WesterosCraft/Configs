@@ -1,0 +1,18 @@
+{
+  "id": "Redwall_6877,35,3980",
+  "name": "Redwall",
+  "icon": "waypoint-normal.png",
+  "x": 6877,
+  "y": 35,
+  "z": 3980,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

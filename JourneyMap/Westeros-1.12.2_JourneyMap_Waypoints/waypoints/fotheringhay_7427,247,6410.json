@@ -1,0 +1,18 @@
+{
+  "id": "fotheringhay_7427,247,6410",
+  "name": "fotheringhay",
+  "icon": "waypoint-normal.png",
+  "x": 7427,
+  "y": 247,
+  "z": 6410,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

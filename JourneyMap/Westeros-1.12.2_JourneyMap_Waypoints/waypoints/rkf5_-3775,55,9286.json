@@ -1,0 +1,18 @@
+{
+  "id": "rkf5_-3775,55,9286",
+  "name": "rkf5",
+  "icon": "waypoint-normal.png",
+  "x": -3775,
+  "y": 55,
+  "z": 9286,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "coldwater_6577,45,1560",
+  "name": "coldwater",
+  "icon": "waypoint-normal.png",
+  "x": 6577,
+  "y": 45,
+  "z": 1560,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

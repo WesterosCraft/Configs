@@ -1,0 +1,18 @@
+{
+  "id": "princespass_-1798,64,21313",
+  "name": "princespass",
+  "icon": "waypoint-normal.png",
+  "x": -1798,
+  "y": 64,
+  "z": 21313,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ravenscar_-7394,69,-11827",
+  "name": "ravenscar",
+  "icon": "waypoint-normal.png",
+  "x": -7394,
+  "y": 69,
+  "z": -11827,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

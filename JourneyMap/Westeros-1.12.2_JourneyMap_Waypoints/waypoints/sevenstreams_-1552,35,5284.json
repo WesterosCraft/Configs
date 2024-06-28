@@ -1,0 +1,18 @@
+{
+  "id": "sevenstreams_-1552,35,5284",
+  "name": "sevenstreams",
+  "icon": "waypoint-normal.png",
+  "x": -1552,
+  "y": 35,
+  "z": 5284,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sapphoshire_-1791,38,15795",
+  "name": "sapphoshire",
+  "icon": "waypoint-normal.png",
+  "x": -1791,
+  "y": 38,
+  "z": 15795,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

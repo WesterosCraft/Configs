@@ -1,0 +1,18 @@
+{
+  "id": "VyprenHamlet4_100,47,5998",
+  "name": "VyprenHamlet4",
+  "icon": "waypoint-normal.png",
+  "x": 100,
+  "y": 47,
+  "z": 5998,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

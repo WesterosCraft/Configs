@@ -1,0 +1,18 @@
+{
+  "id": "peckledon_-2864,77,13963",
+  "name": "peckledon",
+  "icon": "waypoint-normal.png",
+  "x": -2864,
+  "y": 77,
+  "z": 13963,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

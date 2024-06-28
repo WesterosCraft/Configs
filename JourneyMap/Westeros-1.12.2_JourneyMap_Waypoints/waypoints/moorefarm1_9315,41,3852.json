@@ -1,0 +1,18 @@
+{
+  "id": "moorefarm1_9315,41,3852",
+  "name": "moorefarm1",
+  "icon": "waypoint-normal.png",
+  "x": 9315,
+  "y": 41,
+  "z": 3852,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

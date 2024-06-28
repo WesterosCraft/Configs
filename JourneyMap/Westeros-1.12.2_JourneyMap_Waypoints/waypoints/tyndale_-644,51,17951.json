@@ -1,0 +1,18 @@
+{
+  "id": "tyndale_-644,51,17951",
+  "name": "tyndale",
+  "icon": "waypoint-normal.png",
+  "x": -644,
+  "y": 51,
+  "z": 17951,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "yelham3_-5806,88,22919",
+  "name": "yelham3",
+  "icon": "waypoint-normal.png",
+  "x": -5806,
+  "y": 88,
+  "z": 22919,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

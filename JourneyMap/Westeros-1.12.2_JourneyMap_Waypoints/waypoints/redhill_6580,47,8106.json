@@ -1,0 +1,18 @@
+{
+  "id": "redhill_6580,47,8106",
+  "name": "redhill",
+  "icon": "waypoint-normal.png",
+  "x": 6580,
+  "y": 47,
+  "z": 8106,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

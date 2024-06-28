@@ -1,0 +1,18 @@
+{
+  "id": "sdham1_8362,60,12117",
+  "name": "sdham1",
+  "icon": "waypoint-normal.png",
+  "x": 8362,
+  "y": 60,
+  "z": 12117,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

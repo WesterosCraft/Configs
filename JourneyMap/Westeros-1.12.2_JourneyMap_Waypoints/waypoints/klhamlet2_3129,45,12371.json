@@ -1,0 +1,18 @@
+{
+  "id": "klhamlet2_3129,45,12371",
+  "name": "klhamlet2",
+  "icon": "waypoint-normal.png",
+  "x": 3129,
+  "y": 45,
+  "z": 12371,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

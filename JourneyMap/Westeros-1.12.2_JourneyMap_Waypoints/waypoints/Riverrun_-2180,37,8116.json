@@ -1,0 +1,18 @@
+{
+  "id": "Riverrun_-2180,37,8116",
+  "name": "Riverrun",
+  "icon": "waypoint-normal.png",
+  "x": -2180,
+  "y": 37,
+  "z": 8116,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

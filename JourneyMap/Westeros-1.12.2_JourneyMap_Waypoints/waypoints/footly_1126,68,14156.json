@@ -1,0 +1,18 @@
+{
+  "id": "footly_1126,68,14156",
+  "name": "footly",
+  "icon": "waypoint-normal.png",
+  "x": 1126,
+  "y": 68,
+  "z": 14156,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

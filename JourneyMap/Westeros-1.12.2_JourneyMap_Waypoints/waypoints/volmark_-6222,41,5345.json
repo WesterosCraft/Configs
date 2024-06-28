@@ -1,0 +1,18 @@
+{
+  "id": "volmark_-6222,41,5345",
+  "name": "volmark",
+  "icon": "waypoint-normal.png",
+  "x": -6222,
+  "y": 41,
+  "z": 5345,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

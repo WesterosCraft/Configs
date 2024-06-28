@@ -1,0 +1,18 @@
+{
+  "id": "plummhf2_-6918,60,14904",
+  "name": "plummhf2",
+  "icon": "waypoint-normal.png",
+  "x": -6918,
+  "y": 60,
+  "z": 14904,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

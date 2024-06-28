@@ -1,0 +1,18 @@
+{
+  "id": "preswell_-318,73,14665",
+  "name": "preswell",
+  "icon": "waypoint-normal.png",
+  "x": -318,
+  "y": 73,
+  "z": 14665,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

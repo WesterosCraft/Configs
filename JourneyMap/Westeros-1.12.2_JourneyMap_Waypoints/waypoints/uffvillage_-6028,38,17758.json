@@ -1,0 +1,18 @@
+{
+  "id": "uffvillage_-6028,38,17758",
+  "name": "uffvillage",
+  "icon": "waypoint-normal.png",
+  "x": -6028,
+  "y": 38,
+  "z": 17758,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

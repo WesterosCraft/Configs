@@ -1,0 +1,18 @@
+{
+  "id": "watermankeep_-3723,42,-2571",
+  "name": "watermankeep",
+  "icon": "waypoint-normal.png",
+  "x": -3723,
+  "y": 42,
+  "z": -2571,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

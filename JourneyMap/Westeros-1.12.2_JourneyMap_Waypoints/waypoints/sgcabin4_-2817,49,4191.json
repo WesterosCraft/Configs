@@ -1,0 +1,18 @@
+{
+  "id": "sgcabin4_-2817,49,4191",
+  "name": "sgcabin4",
+  "icon": "waypoint-normal.png",
+  "x": -2817,
+  "y": 49,
+  "z": 4191,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

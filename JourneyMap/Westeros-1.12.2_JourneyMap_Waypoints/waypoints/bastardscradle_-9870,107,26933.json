@@ -1,0 +1,18 @@
+{
+  "id": "bastardscradle_-9870,107,26933",
+  "name": "bastardscradle",
+  "icon": "waypoint-normal.png",
+  "x": -9870,
+  "y": 107,
+  "z": 26933,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

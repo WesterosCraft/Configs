@@ -1,0 +1,18 @@
+{
+  "id": "Westfield_-6261,50,14930",
+  "name": "Westfield",
+  "icon": "waypoint-normal.png",
+  "x": -6261,
+  "y": 50,
+  "z": 14930,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

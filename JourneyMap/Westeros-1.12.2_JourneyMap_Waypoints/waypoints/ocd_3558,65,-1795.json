@@ -1,0 +1,18 @@
+{
+  "id": "ocd_3558,65,-1795",
+  "name": "ocd",
+  "icon": "waypoint-normal.png",
+  "x": 3558,
+  "y": 65,
+  "z": -1795,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

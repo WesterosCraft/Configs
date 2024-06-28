@@ -1,0 +1,18 @@
+{
+  "id": "hgdocks_-4842,41,18332",
+  "name": "hgdocks",
+  "icon": "waypoint-normal.png",
+  "x": -4842,
+  "y": 41,
+  "z": 18332,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

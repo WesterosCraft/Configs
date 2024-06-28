@@ -1,0 +1,18 @@
+{
+  "id": "willumcastle_1476,69,17650",
+  "name": "willumcastle",
+  "icon": "waypoint-normal.png",
+  "x": 1476,
+  "y": 69,
+  "z": 17650,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

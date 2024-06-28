@@ -1,0 +1,18 @@
+{
+  "id": "kthamlet3_8280,42,19846",
+  "name": "kthamlet3",
+  "icon": "waypoint-normal.png",
+  "x": 8280,
+  "y": 42,
+  "z": 19846,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

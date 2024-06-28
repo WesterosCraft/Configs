@@ -1,0 +1,18 @@
+{
+  "id": "bhf1_-5782,68,18930",
+  "name": "bhf1",
+  "icon": "waypoint-normal.png",
+  "x": -5782,
+  "y": 68,
+  "z": 18930,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

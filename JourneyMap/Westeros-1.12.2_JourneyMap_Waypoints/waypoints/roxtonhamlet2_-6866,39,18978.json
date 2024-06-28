@@ -1,0 +1,18 @@
+{
+  "id": "roxtonhamlet2_-6866,39,18978",
+  "name": "roxtonhamlet2",
+  "icon": "waypoint-normal.png",
+  "x": -6866,
+  "y": 39,
+  "z": 18978,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "bandavassal2_-9182,54,20694",
+  "name": "bandavassal2",
+  "icon": "waypoint-normal.png",
+  "x": -9182,
+  "y": 54,
+  "z": 20694,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

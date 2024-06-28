@@ -1,0 +1,18 @@
+{
+  "id": "graveshamlet_-8459,54,20921",
+  "name": "graveshamlet",
+  "icon": "waypoint-normal.png",
+  "x": -8459,
+  "y": 54,
+  "z": 20921,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

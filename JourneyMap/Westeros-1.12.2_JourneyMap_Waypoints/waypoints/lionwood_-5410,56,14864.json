@@ -1,0 +1,18 @@
+{
+  "id": "lionwood_-5410,56,14864",
+  "name": "lionwood",
+  "icon": "waypoint-normal.png",
+  "x": -5410,
+  "y": 56,
+  "z": 14864,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

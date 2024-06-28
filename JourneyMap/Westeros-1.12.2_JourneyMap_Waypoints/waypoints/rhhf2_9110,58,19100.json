@@ -1,0 +1,18 @@
+{
+  "id": "rhhf2_9110,58,19100",
+  "name": "rhhf2",
+  "icon": "waypoint-normal.png",
+  "x": 9110,
+  "y": 58,
+  "z": 19100,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

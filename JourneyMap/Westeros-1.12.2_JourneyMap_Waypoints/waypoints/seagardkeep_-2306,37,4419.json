@@ -1,0 +1,18 @@
+{
+  "id": "seagardkeep_-2306,37,4419",
+  "name": "seagardkeep",
+  "icon": "waypoint-normal.png",
+  "x": -2306,
+  "y": 37,
+  "z": 4419,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

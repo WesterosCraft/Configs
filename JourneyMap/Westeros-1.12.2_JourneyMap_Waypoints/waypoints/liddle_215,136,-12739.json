@@ -1,0 +1,18 @@
+{
+  "id": "liddle_215,136,-12739",
+  "name": "liddle",
+  "icon": "waypoint-normal.png",
+  "x": 215,
+  "y": 136,
+  "z": -12739,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

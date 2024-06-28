@@ -1,0 +1,18 @@
+{
+  "id": "horpei2_4442,35,20524",
+  "name": "horpei2",
+  "icon": "waypoint-normal.png",
+  "x": 4442,
+  "y": 35,
+  "z": 20524,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

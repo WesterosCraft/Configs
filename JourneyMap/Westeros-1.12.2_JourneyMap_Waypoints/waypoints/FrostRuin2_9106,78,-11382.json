@@ -1,0 +1,18 @@
+{
+  "id": "FrostRuin2_9106,78,-11382",
+  "name": "FrostRuin2",
+  "icon": "waypoint-normal.png",
+  "x": 9106,
+  "y": 78,
+  "z": -11382,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

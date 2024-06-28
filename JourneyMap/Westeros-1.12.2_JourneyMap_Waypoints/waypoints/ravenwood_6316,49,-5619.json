@@ -1,0 +1,18 @@
+{
+  "id": "ravenwood_6316,49,-5619",
+  "name": "ravenwood",
+  "icon": "waypoint-normal.png",
+  "x": 6316,
+  "y": 49,
+  "z": -5619,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Pinkmaiden_-2442,45,9836",
+  "name": "Pinkmaiden",
+  "icon": "waypoint-normal.png",
+  "x": -2442,
+  "y": 45,
+  "z": 9836,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

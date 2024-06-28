@@ -1,0 +1,18 @@
+{
+  "id": "wwspiral_-4355,41,-23574",
+  "name": "wwspiral",
+  "icon": "waypoint-normal.png",
+  "x": -4355,
+  "y": 41,
+  "z": -23574,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

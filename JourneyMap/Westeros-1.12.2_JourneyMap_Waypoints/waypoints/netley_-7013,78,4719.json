@@ -1,0 +1,18 @@
+{
+  "id": "netley_-7013,78,4719",
+  "name": "netley",
+  "icon": "waypoint-normal.png",
+  "x": -7013,
+  "y": 78,
+  "z": 4719,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

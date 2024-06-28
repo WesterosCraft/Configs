@@ -1,0 +1,18 @@
+{
+  "id": "groost_6437,73,17633",
+  "name": "groost",
+  "icon": "waypoint-normal.png",
+  "x": 6437,
+  "y": 73,
+  "z": 17633,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

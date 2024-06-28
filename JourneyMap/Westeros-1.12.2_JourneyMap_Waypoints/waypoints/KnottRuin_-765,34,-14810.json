@@ -1,0 +1,18 @@
+{
+  "id": "KnottRuin_-765,34,-14810",
+  "name": "KnottRuin",
+  "icon": "waypoint-normal.png",
+  "x": -765,
+  "y": 34,
+  "z": -14810,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

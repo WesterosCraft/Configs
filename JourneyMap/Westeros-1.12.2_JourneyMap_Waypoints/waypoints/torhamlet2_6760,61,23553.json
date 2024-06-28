@@ -1,0 +1,18 @@
+{
+  "id": "torhamlet2_6760,61,23553",
+  "name": "torhamlet2",
+  "icon": "waypoint-normal.png",
+  "x": 6760,
+  "y": 61,
+  "z": 23553,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

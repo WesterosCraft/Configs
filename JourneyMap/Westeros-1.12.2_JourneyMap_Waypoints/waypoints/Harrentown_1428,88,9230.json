@@ -1,0 +1,18 @@
+{
+  "id": "Harrentown_1428,88,9230",
+  "name": "Harrentown",
+  "icon": "waypoint-normal.png",
+  "x": 1428,
+  "y": 88,
+  "z": 9230,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

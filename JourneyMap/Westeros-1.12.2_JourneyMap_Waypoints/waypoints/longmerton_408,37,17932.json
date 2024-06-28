@@ -1,0 +1,18 @@
+{
+  "id": "longmerton_408,37,17932",
+  "name": "longmerton",
+  "icon": "waypoint-normal.png",
+  "x": 408,
+  "y": 37,
+  "z": 17932,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

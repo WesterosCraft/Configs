@@ -1,0 +1,18 @@
+{
+  "id": "whitewalls_2262,46,9852",
+  "name": "whitewalls",
+  "icon": "waypoint-normal.png",
+  "x": 2262,
+  "y": 46,
+  "z": 9852,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

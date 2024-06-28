@@ -1,0 +1,18 @@
+{
+  "id": "lyberr_-1903,44,14878",
+  "name": "lyberr",
+  "icon": "waypoint-normal.png",
+  "x": -1903,
+  "y": 44,
+  "z": 14878,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ironoaksmine_5059,116,5342",
+  "name": "ironoaksmine",
+  "icon": "waypoint-normal.png",
+  "x": 5059,
+  "y": 116,
+  "z": 5342,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

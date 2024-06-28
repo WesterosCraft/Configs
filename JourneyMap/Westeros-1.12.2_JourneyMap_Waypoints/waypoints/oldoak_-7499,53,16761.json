@@ -1,0 +1,18 @@
+{
+  "id": "oldoak_-7499,53,16761",
+  "name": "oldoak",
+  "icon": "waypoint-normal.png",
+  "x": -7499,
+  "y": 53,
+  "z": 16761,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

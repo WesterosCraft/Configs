@@ -1,0 +1,18 @@
+{
+  "id": "hawthornehamlet1_-2385,57,12980",
+  "name": "hawthornehamlet1",
+  "icon": "waypoint-normal.png",
+  "x": -2385,
+  "y": 57,
+  "z": 12980,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "wfhuntersgate_-1357,58,-8487",
+  "name": "wfhuntersgate",
+  "icon": "waypoint-normal.png",
+  "x": -1357,
+  "y": 58,
+  "z": -8487,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

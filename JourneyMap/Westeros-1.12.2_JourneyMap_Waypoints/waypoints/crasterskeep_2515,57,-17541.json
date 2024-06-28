@@ -1,0 +1,18 @@
+{
+  "id": "crasterskeep_2515,57,-17541",
+  "name": "crasterskeep",
+  "icon": "waypoint-normal.png",
+  "x": 2515,
+  "y": 57,
+  "z": -17541,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

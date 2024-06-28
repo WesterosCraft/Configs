@@ -1,0 +1,18 @@
+{
+  "id": "bandavinyard2_-8568,50,20217",
+  "name": "bandavinyard2",
+  "icon": "waypoint-normal.png",
+  "x": -8568,
+  "y": 50,
+  "z": 20217,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

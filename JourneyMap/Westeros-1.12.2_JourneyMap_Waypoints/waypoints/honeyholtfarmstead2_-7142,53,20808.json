@@ -1,0 +1,18 @@
+{
+  "id": "honeyholtfarmstead2_-7142,53,20808",
+  "name": "honeyholtfarmstead2",
+  "icon": "waypoint-normal.png",
+  "x": -7142,
+  "y": 53,
+  "z": 20808,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

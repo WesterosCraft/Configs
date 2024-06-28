@@ -1,0 +1,18 @@
+{
+  "id": "foote_-4859,83,8192",
+  "name": "foote",
+  "icon": "waypoint-normal.png",
+  "x": -4859,
+  "y": 83,
+  "z": 8192,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

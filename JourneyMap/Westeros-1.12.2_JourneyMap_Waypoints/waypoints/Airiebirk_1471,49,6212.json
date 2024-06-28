@@ -1,0 +1,18 @@
+{
+  "id": "Airiebirk_1471,49,6212",
+  "name": "Airiebirk",
+  "icon": "waypoint-normal.png",
+  "x": 1471,
+  "y": 49,
+  "z": 6212,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

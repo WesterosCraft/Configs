@@ -1,0 +1,18 @@
+{
+  "id": "mooreseptry_8658,45,4225",
+  "name": "mooreseptry",
+  "icon": "waypoint-normal.png",
+  "x": 8658,
+  "y": 45,
+  "z": 4225,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "romolumber1_1019,45,15690",
+  "name": "romolumber1",
+  "icon": "waypoint-normal.png",
+  "x": 1019,
+  "y": 45,
+  "z": 15690,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

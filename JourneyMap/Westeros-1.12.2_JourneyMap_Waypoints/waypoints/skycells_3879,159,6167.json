@@ -1,0 +1,18 @@
+{
+  "id": "skycells_3879,159,6167",
+  "name": "skycells",
+  "icon": "waypoint-normal.png",
+  "x": 3879,
+  "y": 159,
+  "z": 6167,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

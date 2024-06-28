@@ -1,0 +1,18 @@
+{
+  "id": "hgcellar_-4649,20,18556",
+  "name": "hgcellar",
+  "icon": "waypoint-normal.png",
+  "x": -4649,
+  "y": 20,
+  "z": 18556,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

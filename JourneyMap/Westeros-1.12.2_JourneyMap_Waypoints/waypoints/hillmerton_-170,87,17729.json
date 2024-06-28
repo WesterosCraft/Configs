@@ -1,0 +1,18 @@
+{
+  "id": "hillmerton_-170,87,17729",
+  "name": "hillmerton",
+  "icon": "waypoint-normal.png",
+  "x": -170,
+  "y": 87,
+  "z": 17729,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

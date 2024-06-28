@@ -1,0 +1,18 @@
+{
+  "id": "wyndhall_-5524,97,8271",
+  "name": "wyndhall",
+  "icon": "waypoint-normal.png",
+  "x": -5524,
+  "y": 97,
+  "z": 8271,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

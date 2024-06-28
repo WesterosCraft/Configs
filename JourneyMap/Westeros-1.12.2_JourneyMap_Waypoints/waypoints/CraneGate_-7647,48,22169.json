@@ -1,0 +1,18 @@
+{
+  "id": "CraneGate_-7647,48,22169",
+  "name": "CraneGate",
+  "icon": "waypoint-normal.png",
+  "x": -7647,
+  "y": 48,
+  "z": 22169,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

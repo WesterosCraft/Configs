@@ -1,0 +1,18 @@
+{
+  "id": "highhermvillage2_-3364,66,22803",
+  "name": "highhermvillage2",
+  "icon": "waypoint-normal.png",
+  "x": -3364,
+  "y": 66,
+  "z": 22803,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

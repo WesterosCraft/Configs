@@ -1,0 +1,18 @@
+{
+  "id": "towerofthehand_3295,137,13393",
+  "name": "towerofthehand",
+  "icon": "waypoint-normal.png",
+  "x": 3295,
+  "y": 137,
+  "z": 13393,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

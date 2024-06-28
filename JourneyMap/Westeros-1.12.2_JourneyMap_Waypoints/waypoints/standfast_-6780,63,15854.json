@@ -1,0 +1,18 @@
+{
+  "id": "standfast_-6780,63,15854",
+  "name": "standfast",
+  "icon": "waypoint-normal.png",
+  "x": -6780,
+  "y": 63,
+  "z": 15854,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

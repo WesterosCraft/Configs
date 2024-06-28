@@ -1,0 +1,18 @@
+{
+  "id": "mmother_3749,109,17328",
+  "name": "mmother",
+  "icon": "waypoint-normal.png",
+  "x": 3749,
+  "y": 109,
+  "z": 17328,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

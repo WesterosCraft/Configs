@@ -1,0 +1,18 @@
+{
+  "id": "highgarden_-4410,46,18551",
+  "name": "highgarden",
+  "icon": "waypoint-normal.png",
+  "x": -4410,
+  "y": 46,
+  "z": 18551,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

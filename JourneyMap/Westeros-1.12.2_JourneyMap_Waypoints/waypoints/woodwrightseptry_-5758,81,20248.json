@@ -1,0 +1,18 @@
+{
+  "id": "woodwrightseptry_-5758,81,20248",
+  "name": "woodwrightseptry",
+  "icon": "waypoint-normal.png",
+  "x": -5758,
+  "y": 81,
+  "z": 20248,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

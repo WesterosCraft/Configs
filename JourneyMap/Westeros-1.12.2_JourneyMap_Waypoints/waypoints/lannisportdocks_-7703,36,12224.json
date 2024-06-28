@@ -1,0 +1,18 @@
+{
+  "id": "lannisportdocks_-7703,36,12224",
+  "name": "lannisportdocks",
+  "icon": "waypoint-normal.png",
+  "x": -7703,
+  "y": 36,
+  "z": 12224,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

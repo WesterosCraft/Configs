@@ -1,0 +1,18 @@
+{
+  "id": "runestone_8945,57,5133",
+  "name": "runestone",
+  "icon": "waypoint-normal.png",
+  "x": 8945,
+  "y": 57,
+  "z": 5133,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

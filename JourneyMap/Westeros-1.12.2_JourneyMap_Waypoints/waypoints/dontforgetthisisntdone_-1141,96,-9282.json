@@ -1,0 +1,18 @@
+{
+  "id": "dontforgetthisisntdone_-1141,96,-9282",
+  "name": "dontforgetthisisntdone",
+  "icon": "waypoint-normal.png",
+  "x": -1141,
+  "y": 96,
+  "z": -9282,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

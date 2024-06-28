@@ -1,0 +1,18 @@
+{
+  "id": "sunspear_9175,65,24804",
+  "name": "sunspear",
+  "icon": "waypoint-normal.png",
+  "x": 9175,
+  "y": 65,
+  "z": 24804,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

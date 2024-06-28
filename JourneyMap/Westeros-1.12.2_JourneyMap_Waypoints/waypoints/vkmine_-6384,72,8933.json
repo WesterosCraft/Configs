@@ -1,0 +1,18 @@
+{
+  "id": "vkmine_-6384,72,8933",
+  "name": "vkmine",
+  "icon": "waypoint-normal.png",
+  "x": -6384,
+  "y": 72,
+  "z": 8933,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

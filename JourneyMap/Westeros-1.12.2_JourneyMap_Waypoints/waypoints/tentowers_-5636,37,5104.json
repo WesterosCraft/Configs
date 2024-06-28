@@ -1,0 +1,18 @@
+{
+  "id": "tentowers_-5636,37,5104",
+  "name": "tentowers",
+  "icon": "waypoint-normal.png",
+  "x": -5636,
+  "y": 37,
+  "z": 5104,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

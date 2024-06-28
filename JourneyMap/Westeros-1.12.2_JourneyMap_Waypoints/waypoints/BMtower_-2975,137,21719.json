@@ -1,0 +1,18 @@
+{
+  "id": "BMtower_-2975,137,21719",
+  "name": "BMtower",
+  "icon": "waypoint-normal.png",
+  "x": -2975,
+  "y": 137,
+  "z": 21719,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

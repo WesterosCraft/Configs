@@ -1,0 +1,18 @@
+{
+  "id": "Sheepsglade_5058,46,-3429",
+  "name": "Sheepsglade",
+  "icon": "waypoint-normal.png",
+  "x": 5058,
+  "y": 46,
+  "z": -3429,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

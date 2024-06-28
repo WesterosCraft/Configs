@@ -1,0 +1,18 @@
+{
+  "id": "TorQuarry2_3319,51,22570",
+  "name": "TorQuarry2",
+  "icon": "waypoint-normal.png",
+  "x": 3319,
+  "y": 51,
+  "z": 22570,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

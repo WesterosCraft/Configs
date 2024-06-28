@@ -1,0 +1,18 @@
+{
+  "id": "icemark_1765,49,-16011",
+  "name": "icemark",
+  "icon": "waypoint-normal.png",
+  "x": 1765,
+  "y": 49,
+  "z": -16011,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "longbarrow_4526,63,-15974",
+  "name": "longbarrow",
+  "icon": "waypoint-normal.png",
+  "x": 4526,
+  "y": 63,
+  "z": -15974,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

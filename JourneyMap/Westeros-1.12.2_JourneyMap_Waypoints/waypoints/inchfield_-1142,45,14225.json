@@ -1,0 +1,18 @@
+{
+  "id": "inchfield_-1142,45,14225",
+  "name": "inchfield",
+  "icon": "waypoint-normal.png",
+  "x": -1142,
+  "y": 45,
+  "z": 14225,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

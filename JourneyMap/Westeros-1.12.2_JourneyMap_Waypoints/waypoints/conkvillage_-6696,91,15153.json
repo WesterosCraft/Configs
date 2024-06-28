@@ -1,0 +1,18 @@
+{
+  "id": "conkvillage_-6696,91,15153",
+  "name": "conkvillage",
+  "icon": "waypoint-normal.png",
+  "x": -6696,
+  "y": 91,
+  "z": 15153,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

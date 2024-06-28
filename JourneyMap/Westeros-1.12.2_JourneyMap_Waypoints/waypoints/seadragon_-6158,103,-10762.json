@@ -1,0 +1,18 @@
+{
+  "id": "seadragon_-6158,103,-10762",
+  "name": "seadragon",
+  "icon": "waypoint-normal.png",
+  "x": -6158,
+  "y": 103,
+  "z": -10762,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

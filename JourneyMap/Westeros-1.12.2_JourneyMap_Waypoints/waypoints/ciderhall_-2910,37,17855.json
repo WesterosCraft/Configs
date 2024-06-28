@@ -1,0 +1,18 @@
+{
+  "id": "ciderhall_-2910,37,17855",
+  "name": "ciderhall",
+  "icon": "waypoint-normal.png",
+  "x": -2910,
+  "y": 37,
+  "z": 17855,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

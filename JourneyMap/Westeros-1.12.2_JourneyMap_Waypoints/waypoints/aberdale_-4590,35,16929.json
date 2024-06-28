@@ -1,0 +1,18 @@
+{
+  "id": "aberdale_-4590,35,16929",
+  "name": "aberdale",
+  "icon": "waypoint-normal.png",
+  "x": -4590,
+  "y": 35,
+  "z": 16929,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

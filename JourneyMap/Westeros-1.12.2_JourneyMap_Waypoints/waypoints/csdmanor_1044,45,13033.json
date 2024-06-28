@@ -1,0 +1,18 @@
+{
+  "id": "csdmanor_1044,45,13033",
+  "name": "csdmanor",
+  "icon": "waypoint-normal.png",
+  "x": 1044,
+  "y": 45,
+  "z": 13033,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

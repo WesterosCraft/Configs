@@ -1,0 +1,18 @@
+{
+  "id": "whiterun_6594,45,-12215",
+  "name": "whiterun",
+  "icon": "waypoint-normal.png",
+  "x": 6594,
+  "y": 45,
+  "z": -12215,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "BlackhavenTown_2280,73,19612",
+  "name": "BlackhavenTown",
+  "icon": "waypoint-normal.png",
+  "x": 2280,
+  "y": 73,
+  "z": 19612,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

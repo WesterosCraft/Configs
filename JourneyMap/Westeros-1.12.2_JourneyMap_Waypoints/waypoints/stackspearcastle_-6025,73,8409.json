@@ -1,0 +1,18 @@
+{
+  "id": "stackspearcastle_-6025,73,8409",
+  "name": "stackspearcastle",
+  "icon": "waypoint-normal.png",
+  "x": -6025,
+  "y": 73,
+  "z": 8409,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

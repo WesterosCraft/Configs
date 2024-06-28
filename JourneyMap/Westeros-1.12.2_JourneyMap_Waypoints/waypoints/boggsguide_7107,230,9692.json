@@ -1,0 +1,18 @@
+{
+  "id": "boggsguide_7107,230,9692",
+  "name": "boggsguide",
+  "icon": "waypoint-normal.png",
+  "x": 7107,
+  "y": 230,
+  "z": 9692,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

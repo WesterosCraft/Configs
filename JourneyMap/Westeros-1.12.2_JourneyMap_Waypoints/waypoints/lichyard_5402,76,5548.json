@@ -1,0 +1,18 @@
+{
+  "id": "lichyard_5402,76,5548",
+  "name": "lichyard",
+  "icon": "waypoint-normal.png",
+  "x": 5402,
+  "y": 76,
+  "z": 5548,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

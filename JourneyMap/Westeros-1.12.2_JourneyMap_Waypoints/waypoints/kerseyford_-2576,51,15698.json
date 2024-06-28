@@ -1,0 +1,18 @@
+{
+  "id": "kerseyford_-2576,51,15698",
+  "name": "kerseyford",
+  "icon": "waypoint-normal.png",
+  "x": -2576,
+  "y": 51,
+  "z": 15698,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

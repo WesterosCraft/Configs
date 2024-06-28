@@ -1,0 +1,18 @@
+{
+  "id": "inchv3_-1019,41,14903",
+  "name": "inchv3",
+  "icon": "waypoint-normal.png",
+  "x": -1019,
+  "y": 41,
+  "z": 14903,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

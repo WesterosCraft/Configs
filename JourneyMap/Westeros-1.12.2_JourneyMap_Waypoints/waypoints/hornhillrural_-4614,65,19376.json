@@ -1,0 +1,18 @@
+{
+  "id": "hornhillrural_-4614,65,19376",
+  "name": "hornhillrural",
+  "icon": "waypoint-normal.png",
+  "x": -4614,
+  "y": 65,
+  "z": 19376,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "knottmine_-395,94,-14043",
+  "name": "knottmine",
+  "icon": "waypoint-normal.png",
+  "x": -395,
+  "y": 94,
+  "z": -14043,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

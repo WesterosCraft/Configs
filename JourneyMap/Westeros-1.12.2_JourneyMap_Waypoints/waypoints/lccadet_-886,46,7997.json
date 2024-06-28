@@ -1,0 +1,18 @@
+{
+  "id": "lccadet_-886,46,7997",
+  "name": "lccadet",
+  "icon": "waypoint-normal.png",
+  "x": -886,
+  "y": 46,
+  "z": 7997,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

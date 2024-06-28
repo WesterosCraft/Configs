@@ -1,0 +1,18 @@
+{
+  "id": "mpbarrow_3682,39,8802",
+  "name": "mpbarrow",
+  "icon": "waypoint-normal.png",
+  "x": 3682,
+  "y": 39,
+  "z": 8802,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cockshaw_-1526,144,18630",
+  "name": "cockshaw",
+  "icon": "waypoint-normal.png",
+  "x": -1526,
+  "y": 144,
+  "z": 18630,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

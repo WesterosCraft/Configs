@@ -1,0 +1,18 @@
+{
+  "id": "baratheon3_6743,64,16757",
+  "name": "baratheon3",
+  "icon": "waypoint-normal.png",
+  "x": 6743,
+  "y": 64,
+  "z": 16757,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "giftham4_3140,84,-14896",
+  "name": "giftham4",
+  "icon": "waypoint-normal.png",
+  "x": 3140,
+  "y": 84,
+  "z": -14896,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

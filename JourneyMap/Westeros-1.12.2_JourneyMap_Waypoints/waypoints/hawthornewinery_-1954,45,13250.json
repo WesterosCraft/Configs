@@ -1,0 +1,18 @@
+{
+  "id": "hawthornewinery_-1954,45,13250",
+  "name": "hawthornewinery",
+  "icon": "waypoint-normal.png",
+  "x": -1954,
+  "y": 45,
+  "z": 13250,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

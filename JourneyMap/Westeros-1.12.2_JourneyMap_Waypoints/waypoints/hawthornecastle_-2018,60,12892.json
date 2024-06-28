@@ -1,0 +1,18 @@
+{
+  "id": "hawthornecastle_-2018,60,12892",
+  "name": "hawthornecastle",
+  "icon": "waypoint-normal.png",
+  "x": -2018,
+  "y": 60,
+  "z": 12892,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "leygood_-1158,165,20008",
+  "name": "leygood",
+  "icon": "waypoint-normal.png",
+  "x": -1158,
+  "y": 165,
+  "z": 20008,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

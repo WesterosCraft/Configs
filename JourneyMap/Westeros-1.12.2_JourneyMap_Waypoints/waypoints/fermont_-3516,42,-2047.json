@@ -1,0 +1,18 @@
+{
+  "id": "fermont_-3516,42,-2047",
+  "name": "fermont",
+  "icon": "waypoint-normal.png",
+  "x": -3516,
+  "y": 42,
+  "z": -2047,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

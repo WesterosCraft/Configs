@@ -1,0 +1,18 @@
+{
+  "id": "sealgate_2026,38,-2388",
+  "name": "sealgate",
+  "icon": "waypoint-normal.png",
+  "x": 2026,
+  "y": 38,
+  "z": -2388,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

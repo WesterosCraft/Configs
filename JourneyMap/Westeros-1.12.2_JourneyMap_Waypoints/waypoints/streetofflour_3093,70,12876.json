@@ -1,0 +1,18 @@
+{
+  "id": "streetofflour_3093,70,12876",
+  "name": "streetofflour",
+  "icon": "waypoint-normal.png",
+  "x": 3093,
+  "y": 70,
+  "z": 12876,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

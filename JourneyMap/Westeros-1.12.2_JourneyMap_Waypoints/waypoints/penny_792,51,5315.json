@@ -1,0 +1,18 @@
+{
+  "id": "penny_792,51,5315",
+  "name": "penny",
+  "icon": "waypoint-normal.png",
+  "x": 792,
+  "y": 51,
+  "z": 5315,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

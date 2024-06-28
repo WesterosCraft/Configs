@@ -1,0 +1,18 @@
+{
+  "id": "bronzegate_6442,118,16281",
+  "name": "bronzegate",
+  "icon": "waypoint-normal.png",
+  "x": 6442,
+  "y": 118,
+  "z": 16281,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

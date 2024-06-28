@@ -1,0 +1,18 @@
+{
+  "id": "dyrham1_7283,72,8918",
+  "name": "dyrham1",
+  "icon": "waypoint-normal.png",
+  "x": 7283,
+  "y": 72,
+  "z": 8918,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "brightstone_6068,64,1349",
+  "name": "brightstone",
+  "icon": "waypoint-normal.png",
+  "x": 6068,
+  "y": 64,
+  "z": 1349,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "fmpro2_-974,39,6075",
+  "name": "fmpro2",
+  "icon": "waypoint-normal.png",
+  "x": -974,
+  "y": 39,
+  "z": 6075,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

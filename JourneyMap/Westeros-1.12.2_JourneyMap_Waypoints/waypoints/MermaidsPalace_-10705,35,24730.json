@@ -1,0 +1,18 @@
+{
+  "id": "MermaidsPalace_-10705,35,24730",
+  "name": "MermaidsPalace",
+  "icon": "waypoint-normal.png",
+  "x": -10705,
+  "y": 35,
+  "z": 24730,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

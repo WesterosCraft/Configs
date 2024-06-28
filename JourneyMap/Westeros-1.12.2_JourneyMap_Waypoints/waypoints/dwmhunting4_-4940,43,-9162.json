@@ -1,0 +1,18 @@
+{
+  "id": "dwmhunting4_-4940,43,-9162",
+  "name": "dwmhunting4",
+  "icon": "waypoint-normal.png",
+  "x": -4940,
+  "y": 43,
+  "z": -9162,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

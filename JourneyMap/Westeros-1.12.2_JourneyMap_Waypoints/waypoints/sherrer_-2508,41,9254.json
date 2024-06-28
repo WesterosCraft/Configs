@@ -1,0 +1,18 @@
+{
+  "id": "sherrer_-2508,41,9254",
+  "name": "sherrer",
+  "icon": "waypoint-normal.png",
+  "x": -2508,
+  "y": 41,
+  "z": 9254,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "violethall_-2416,62,15341",
+  "name": "violethall",
+  "icon": "waypoint-normal.png",
+  "x": -2416,
+  "y": 62,
+  "z": 15341,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

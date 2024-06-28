@@ -1,0 +1,18 @@
+{
+  "id": "kingsgrave_-1144,112,21517",
+  "name": "kingsgrave",
+  "icon": "waypoint-normal.png",
+  "x": -1144,
+  "y": 112,
+  "z": 21517,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

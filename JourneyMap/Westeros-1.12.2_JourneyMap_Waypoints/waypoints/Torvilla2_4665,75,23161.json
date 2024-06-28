@@ -1,0 +1,18 @@
+{
+  "id": "Torvilla2_4665,75,23161",
+  "name": "Torvilla2",
+  "icon": "waypoint-normal.png",
+  "x": 4665,
+  "y": 75,
+  "z": 23161,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

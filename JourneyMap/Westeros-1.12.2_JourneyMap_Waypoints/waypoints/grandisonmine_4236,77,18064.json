@@ -1,0 +1,18 @@
+{
+  "id": "grandisonmine_4236,77,18064",
+  "name": "grandisonmine",
+  "icon": "waypoint-normal.png",
+  "x": 4236,
+  "y": 77,
+  "z": 18064,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

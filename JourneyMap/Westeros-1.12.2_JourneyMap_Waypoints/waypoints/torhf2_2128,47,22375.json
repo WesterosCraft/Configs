@@ -1,0 +1,18 @@
+{
+  "id": "torhf2_2128,47,22375",
+  "name": "torhf2",
+  "icon": "waypoint-normal.png",
+  "x": 2128,
+  "y": 47,
+  "z": 22375,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

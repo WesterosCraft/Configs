@@ -1,0 +1,18 @@
+{
+  "id": "durwellhunt_-8194,61,15022",
+  "name": "durwellhunt",
+  "icon": "waypoint-normal.png",
+  "x": -8194,
+  "y": 61,
+  "z": 15022,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

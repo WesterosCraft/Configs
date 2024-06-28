@@ -1,0 +1,18 @@
+{
+  "id": "redlakevillage_-5517,137,15916",
+  "name": "redlakevillage",
+  "icon": "waypoint-normal.png",
+  "x": -5517,
+  "y": 137,
+  "z": 15916,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

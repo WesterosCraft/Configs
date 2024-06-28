@@ -1,0 +1,18 @@
+{
+  "id": "bigglestoneham1_1011,90,9524",
+  "name": "bigglestoneham1",
+  "icon": "waypoint-normal.png",
+  "x": 1011,
+  "y": 90,
+  "z": 9524,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

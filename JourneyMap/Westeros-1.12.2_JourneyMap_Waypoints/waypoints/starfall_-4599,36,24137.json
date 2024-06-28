@@ -1,0 +1,18 @@
+{
+  "id": "starfall_-4599,36,24137",
+  "name": "starfall",
+  "icon": "waypoint-normal.png",
+  "x": -4599,
+  "y": 36,
+  "z": 24137,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

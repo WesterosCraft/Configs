@@ -1,0 +1,18 @@
+{
+  "id": "eaglethicket_-2697,51,4000",
+  "name": "eaglethicket",
+  "icon": "waypoint-normal.png",
+  "x": -2697,
+  "y": 51,
+  "z": 4000,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

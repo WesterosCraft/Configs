@@ -1,0 +1,18 @@
+{
+  "id": "holbeton_-6390,44,-850",
+  "name": "holbeton",
+  "icon": "waypoint-normal.png",
+  "x": -6390,
+  "y": 44,
+  "z": -850,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

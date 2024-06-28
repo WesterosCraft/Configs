@@ -1,0 +1,18 @@
+{
+  "id": "watermancrypts_-3838,61,-2741",
+  "name": "watermancrypts",
+  "icon": "waypoint-normal.png",
+  "x": -3838,
+  "y": 61,
+  "z": -2741,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

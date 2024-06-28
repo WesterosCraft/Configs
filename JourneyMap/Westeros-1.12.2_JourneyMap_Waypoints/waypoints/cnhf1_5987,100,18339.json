@@ -1,0 +1,18 @@
+{
+  "id": "cnhf1_5987,100,18339",
+  "name": "cnhf1",
+  "icon": "waypoint-normal.png",
+  "x": 5987,
+  "y": 100,
+  "z": 18339,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

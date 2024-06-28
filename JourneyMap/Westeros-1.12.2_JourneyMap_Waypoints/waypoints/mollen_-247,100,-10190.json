@@ -1,0 +1,18 @@
+{
+  "id": "mollen_-247,100,-10190",
+  "name": "mollen",
+  "icon": "waypoint-normal.png",
+  "x": -247,
+  "y": 100,
+  "z": -10190,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "byrchcrossing_3412,45,12048",
+  "name": "byrchcrossing",
+  "icon": "waypoint-normal.png",
+  "x": 3412,
+  "y": 45,
+  "z": 12048,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

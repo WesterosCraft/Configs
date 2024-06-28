@@ -1,0 +1,18 @@
+{
+  "id": "delhamseptry_-3009,51,15614",
+  "name": "delhamseptry",
+  "icon": "waypoint-normal.png",
+  "x": -3009,
+  "y": 51,
+  "z": 15614,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

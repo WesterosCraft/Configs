@@ -1,0 +1,18 @@
+{
+  "id": "CastleDriftmark_7550,136,10680",
+  "name": "CastleDriftmark",
+  "icon": "waypoint-normal.png",
+  "x": 7550,
+  "y": 136,
+  "z": 10680,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

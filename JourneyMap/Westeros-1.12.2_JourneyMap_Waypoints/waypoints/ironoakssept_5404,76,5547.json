@@ -1,0 +1,18 @@
+{
+  "id": "ironoakssept_5404,76,5547",
+  "name": "ironoakssept",
+  "icon": "waypoint-normal.png",
+  "x": 5404,
+  "y": 76,
+  "z": 5547,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

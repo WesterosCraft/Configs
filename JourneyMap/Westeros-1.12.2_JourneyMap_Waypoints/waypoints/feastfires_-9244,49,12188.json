@@ -1,0 +1,18 @@
+{
+  "id": "feastfires_-9244,49,12188",
+  "name": "feastfires",
+  "icon": "waypoint-normal.png",
+  "x": -9244,
+  "y": 49,
+  "z": 12188,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

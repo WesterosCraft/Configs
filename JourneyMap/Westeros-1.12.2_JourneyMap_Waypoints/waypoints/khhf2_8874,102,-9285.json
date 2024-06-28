@@ -1,0 +1,18 @@
+{
+  "id": "khhf2_8874,102,-9285",
+  "name": "khhf2",
+  "icon": "waypoint-normal.png",
+  "x": 8874,
+  "y": 102,
+  "z": -9285,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

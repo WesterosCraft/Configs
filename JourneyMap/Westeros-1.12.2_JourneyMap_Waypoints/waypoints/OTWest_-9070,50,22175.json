@@ -1,0 +1,18 @@
+{
+  "id": "OTWest_-9070,50,22175",
+  "name": "OTWest",
+  "icon": "waypoint-normal.png",
+  "x": -9070,
+  "y": 50,
+  "z": 22175,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

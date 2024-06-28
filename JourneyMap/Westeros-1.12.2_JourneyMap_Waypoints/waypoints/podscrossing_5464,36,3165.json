@@ -1,0 +1,18 @@
+{
+  "id": "podscrossing_5464,36,3165",
+  "name": "podscrossing",
+  "icon": "waypoint-normal.png",
+  "x": 5464,
+  "y": 36,
+  "z": 3165,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sgmill1_-2215,79,4131",
+  "name": "sgmill1",
+  "icon": "waypoint-normal.png",
+  "x": -2215,
+  "y": 79,
+  "z": 4131,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

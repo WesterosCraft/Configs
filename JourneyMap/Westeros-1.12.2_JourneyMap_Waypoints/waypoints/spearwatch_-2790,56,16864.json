@@ -1,0 +1,18 @@
+{
+  "id": "spearwatch_-2790,56,16864",
+  "name": "spearwatch",
+  "icon": "waypoint-normal.png",
+  "x": -2790,
+  "y": 56,
+  "z": 16864,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

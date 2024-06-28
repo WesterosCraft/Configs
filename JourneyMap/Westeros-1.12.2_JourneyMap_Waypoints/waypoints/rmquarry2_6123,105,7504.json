@@ -1,0 +1,18 @@
+{
+  "id": "rmquarry2_6123,105,7504",
+  "name": "rmquarry2",
+  "icon": "waypoint-normal.png",
+  "x": 6123,
+  "y": 105,
+  "z": 7504,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

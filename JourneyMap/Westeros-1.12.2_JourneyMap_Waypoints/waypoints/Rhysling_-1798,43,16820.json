@@ -1,0 +1,18 @@
+{
+  "id": "Rhysling_-1798,43,16820",
+  "name": "Rhysling",
+  "icon": "waypoint-normal.png",
+  "x": -1798,
+  "y": 43,
+  "z": 16820,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "bushymill_-552,46,13041",
+  "name": "bushymill",
+  "icon": "waypoint-normal.png",
+  "x": -552,
+  "y": 46,
+  "z": 13041,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

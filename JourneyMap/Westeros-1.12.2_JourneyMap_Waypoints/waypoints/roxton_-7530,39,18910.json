@@ -1,0 +1,18 @@
+{
+  "id": "roxton_-7530,39,18910",
+  "name": "roxton",
+  "icon": "waypoint-normal.png",
+  "x": -7530,
+  "y": 39,
+  "z": 18910,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

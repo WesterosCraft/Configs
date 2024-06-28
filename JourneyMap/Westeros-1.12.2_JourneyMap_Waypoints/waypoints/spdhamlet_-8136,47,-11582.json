@@ -1,0 +1,18 @@
+{
+  "id": "spdhamlet_-8136,47,-11582",
+  "name": "spdhamlet",
+  "icon": "waypoint-normal.png",
+  "x": -8136,
+  "y": 47,
+  "z": -11582,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

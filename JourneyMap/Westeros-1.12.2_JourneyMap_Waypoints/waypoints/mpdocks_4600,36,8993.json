@@ -1,0 +1,18 @@
+{
+  "id": "mpdocks_4600,36,8993",
+  "name": "mpdocks",
+  "icon": "waypoint-normal.png",
+  "x": 4600,
+  "y": 36,
+  "z": 8993,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

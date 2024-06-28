@@ -1,0 +1,18 @@
+{
+  "id": "burleyham3_-1922,113,-11140",
+  "name": "burleyham3",
+  "icon": "waypoint-normal.png",
+  "x": -1922,
+  "y": 113,
+  "z": -11140,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

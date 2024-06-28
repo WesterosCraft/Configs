@@ -1,0 +1,18 @@
+{
+  "id": "hornhilltown2_-4533,93,19310",
+  "name": "hornhilltown2",
+  "icon": "waypoint-normal.png",
+  "x": -4533,
+  "y": 93,
+  "z": 19310,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "hammerhal_-6412,89,20647",
+  "name": "hammerhal",
+  "icon": "waypoint-normal.png",
+  "x": -6412,
+  "y": 89,
+  "z": 20647,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

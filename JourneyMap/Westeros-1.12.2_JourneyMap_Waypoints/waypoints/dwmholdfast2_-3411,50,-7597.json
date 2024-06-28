@@ -1,0 +1,18 @@
+{
+  "id": "dwmholdfast2_-3411,50,-7597",
+  "name": "dwmholdfast2",
+  "icon": "waypoint-normal.png",
+  "x": -3411,
+  "y": 50,
+  "z": -7597,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

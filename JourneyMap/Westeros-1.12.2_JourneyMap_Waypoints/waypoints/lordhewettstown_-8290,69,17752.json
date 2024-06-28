@@ -1,0 +1,18 @@
+{
+  "id": "lordhewettstown_-8290,69,17752",
+  "name": "lordhewettstown",
+  "icon": "waypoint-normal.png",
+  "x": -8290,
+  "y": 69,
+  "z": 17752,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

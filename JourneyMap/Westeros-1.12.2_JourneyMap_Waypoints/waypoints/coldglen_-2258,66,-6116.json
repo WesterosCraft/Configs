@@ -1,0 +1,18 @@
+{
+  "id": "coldglen_-2258,66,-6116",
+  "name": "coldglen",
+  "icon": "waypoint-normal.png",
+  "x": -2258,
+  "y": 66,
+  "z": -6116,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

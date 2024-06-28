@@ -1,0 +1,18 @@
+{
+  "id": "HayfordBrick2_2225,43,11880",
+  "name": "HayfordBrick2",
+  "icon": "waypoint-normal.png",
+  "x": 2225,
+  "y": 43,
+  "z": 11880,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

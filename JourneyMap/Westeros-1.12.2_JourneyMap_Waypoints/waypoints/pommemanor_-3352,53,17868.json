@@ -1,0 +1,18 @@
+{
+  "id": "pommemanor_-3352,53,17868",
+  "name": "pommemanor",
+  "icon": "waypoint-normal.png",
+  "x": -3352,
+  "y": 53,
+  "z": 17868,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

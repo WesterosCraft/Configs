@@ -1,0 +1,18 @@
+{
+  "id": "oceansquare_-7599,41,12282",
+  "name": "oceansquare",
+  "icon": "waypoint-normal.png",
+  "x": -7599,
+  "y": 41,
+  "z": 12282,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

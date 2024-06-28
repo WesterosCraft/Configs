@@ -1,0 +1,18 @@
+{
+  "id": "DM_6682,78,11174",
+  "name": "DM",
+  "icon": "waypoint-normal.png",
+  "x": 6682,
+  "y": 78,
+  "z": 11174,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

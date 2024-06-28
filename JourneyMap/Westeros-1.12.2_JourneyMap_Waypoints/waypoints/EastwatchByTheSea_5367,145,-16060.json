@@ -1,0 +1,18 @@
+{
+  "id": "EastwatchByTheSea_5367,145,-16060",
+  "name": "EastwatchByTheSea",
+  "icon": "waypoint-normal.png",
+  "x": 5367,
+  "y": 145,
+  "z": -16060,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

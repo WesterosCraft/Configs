@@ -1,0 +1,18 @@
+{
+  "id": "OtAuldwall_-8061,39,22479",
+  "name": "OtAuldwall",
+  "icon": "waypoint-normal.png",
+  "x": -8061,
+  "y": 39,
+  "z": 22479,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

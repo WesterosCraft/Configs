@@ -1,0 +1,18 @@
+{
+  "id": "knottpeak_140,253,-14008",
+  "name": "knottpeak",
+  "icon": "waypoint-normal.png",
+  "x": 140,
+  "y": 253,
+  "z": -14008,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

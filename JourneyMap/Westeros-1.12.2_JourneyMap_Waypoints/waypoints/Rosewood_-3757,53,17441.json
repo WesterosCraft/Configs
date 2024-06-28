@@ -1,0 +1,18 @@
+{
+  "id": "Rosewood_-3757,53,17441",
+  "name": "Rosewood",
+  "icon": "waypoint-normal.png",
+  "x": -3757,
+  "y": 53,
+  "z": 17441,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

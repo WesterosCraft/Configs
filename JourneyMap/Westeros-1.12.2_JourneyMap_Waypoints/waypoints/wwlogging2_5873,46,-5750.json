@@ -1,0 +1,18 @@
+{
+  "id": "wwlogging2_5873,46,-5750",
+  "name": "wwlogging2",
+  "icon": "waypoint-normal.png",
+  "x": 5873,
+  "y": 46,
+  "z": -5750,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "egenhall_3823,58,3977",
+  "name": "egenhall",
+  "icon": "waypoint-normal.png",
+  "x": 3823,
+  "y": 58,
+  "z": 3977,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

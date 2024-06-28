@@ -1,0 +1,18 @@
+{
+  "id": "nightfort_2119,61,-15845",
+  "name": "nightfort",
+  "icon": "waypoint-normal.png",
+  "x": 2119,
+  "y": 61,
+  "z": -15845,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

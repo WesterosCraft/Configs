@@ -1,0 +1,18 @@
+{
+  "id": "astberrymining_6161,59,7809",
+  "name": "astberrymining",
+  "icon": "waypoint-normal.png",
+  "x": 6161,
+  "y": 59,
+  "z": 7809,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

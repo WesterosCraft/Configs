@@ -1,0 +1,18 @@
+{
+  "id": "Amber_-6586,72,-8758",
+  "name": "Amber",
+  "icon": "waypoint-normal.png",
+  "x": -6586,
+  "y": 72,
+  "z": -8758,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

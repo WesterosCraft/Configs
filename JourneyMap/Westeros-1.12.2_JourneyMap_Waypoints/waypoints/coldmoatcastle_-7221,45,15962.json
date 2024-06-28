@@ -1,0 +1,18 @@
+{
+  "id": "coldmoatcastle_-7221,45,15962",
+  "name": "coldmoatcastle",
+  "icon": "waypoint-normal.png",
+  "x": -7221,
+  "y": 45,
+  "z": 15962,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

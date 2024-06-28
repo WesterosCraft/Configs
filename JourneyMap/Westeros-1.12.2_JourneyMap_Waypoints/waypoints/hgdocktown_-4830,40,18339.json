@@ -1,0 +1,18 @@
+{
+  "id": "hgdocktown_-4830,40,18339",
+  "name": "hgdocktown",
+  "icon": "waypoint-normal.png",
+  "x": -4830,
+  "y": 40,
+  "z": 18339,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

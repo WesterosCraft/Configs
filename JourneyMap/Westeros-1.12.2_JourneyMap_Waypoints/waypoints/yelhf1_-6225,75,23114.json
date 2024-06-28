@@ -1,0 +1,18 @@
+{
+  "id": "yelhf1_-6225,75,23114",
+  "name": "yelhf1",
+  "icon": "waypoint-normal.png",
+  "x": -6225,
+  "y": 75,
+  "z": 23114,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

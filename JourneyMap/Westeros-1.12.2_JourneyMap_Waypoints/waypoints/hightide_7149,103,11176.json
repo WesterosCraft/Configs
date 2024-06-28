@@ -1,0 +1,18 @@
+{
+  "id": "hightide_7149,103,11176",
+  "name": "hightide",
+  "icon": "waypoint-normal.png",
+  "x": 7149,
+  "y": 103,
+  "z": 11176,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

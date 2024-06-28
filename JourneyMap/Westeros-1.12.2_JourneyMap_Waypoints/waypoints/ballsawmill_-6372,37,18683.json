@@ -1,0 +1,18 @@
+{
+  "id": "ballsawmill_-6372,37,18683",
+  "name": "ballsawmill",
+  "icon": "waypoint-normal.png",
+  "x": -6372,
+  "y": 37,
+  "z": 18683,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

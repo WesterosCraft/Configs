@@ -1,0 +1,18 @@
+{
+  "id": "leuchtendencamp_6049,71,7857",
+  "name": "leuchtendencamp",
+  "icon": "waypoint-normal.png",
+  "x": 6049,
+  "y": 71,
+  "z": 7857,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "torcave_1442,48,22310",
+  "name": "torcave",
+  "icon": "waypoint-normal.png",
+  "x": 1442,
+  "y": 48,
+  "z": 22310,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

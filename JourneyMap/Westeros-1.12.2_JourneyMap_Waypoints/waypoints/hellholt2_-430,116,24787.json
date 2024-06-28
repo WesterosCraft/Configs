@@ -1,0 +1,18 @@
+{
+  "id": "hellholt2_-430,116,24787",
+  "name": "hellholt2",
+  "icon": "waypoint-normal.png",
+  "x": -430,
+  "y": 116,
+  "z": 24787,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

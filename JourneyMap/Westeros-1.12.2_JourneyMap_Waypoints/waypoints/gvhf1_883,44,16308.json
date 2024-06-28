@@ -1,0 +1,18 @@
+{
+  "id": "gvhf1_883,44,16308",
+  "name": "gvhf1",
+  "icon": "waypoint-normal.png",
+  "x": 883,
+  "y": 44,
+  "z": 16308,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

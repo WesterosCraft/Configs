@@ -1,0 +1,18 @@
+{
+  "id": "mittonquay_-8640,47,21402",
+  "name": "mittonquay",
+  "icon": "waypoint-normal.png",
+  "x": -8640,
+  "y": 47,
+  "z": 21402,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

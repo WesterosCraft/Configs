@@ -1,0 +1,18 @@
+{
+  "id": "cmham1_-7312,43,16106",
+  "name": "cmham1",
+  "icon": "waypoint-normal.png",
+  "x": -7312,
+  "y": 43,
+  "z": 16106,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

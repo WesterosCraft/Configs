@@ -1,0 +1,18 @@
+{
+  "id": "nightsong_-1378,128,20931",
+  "name": "nightsong",
+  "icon": "waypoint-normal.png",
+  "x": -1378,
+  "y": 128,
+  "z": 20931,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

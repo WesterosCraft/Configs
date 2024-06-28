@@ -1,0 +1,18 @@
+{
+  "id": "bandahermitage_-9395,35,19735",
+  "name": "bandahermitage",
+  "icon": "waypoint-normal.png",
+  "x": -9395,
+  "y": 35,
+  "z": 19735,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

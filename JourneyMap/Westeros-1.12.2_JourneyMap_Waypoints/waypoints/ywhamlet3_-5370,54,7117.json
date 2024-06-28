@@ -1,0 +1,18 @@
+{
+  "id": "ywhamlet3_-5370,54,7117",
+  "name": "ywhamlet3",
+  "icon": "waypoint-normal.png",
+  "x": -5370,
+  "y": 54,
+  "z": 7117,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

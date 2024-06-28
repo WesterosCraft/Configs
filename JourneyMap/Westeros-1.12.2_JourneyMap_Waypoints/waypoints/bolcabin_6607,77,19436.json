@@ -1,0 +1,18 @@
+{
+  "id": "bolcabin_6607,77,19436",
+  "name": "bolcabin",
+  "icon": "waypoint-normal.png",
+  "x": 6607,
+  "y": 77,
+  "z": 19436,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

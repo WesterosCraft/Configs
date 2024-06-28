@@ -1,0 +1,18 @@
+{
+  "id": "glkeep_-6398,84,-6373",
+  "name": "glkeep",
+  "icon": "waypoint-normal.png",
+  "x": -6398,
+  "y": 84,
+  "z": -6373,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

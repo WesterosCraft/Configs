@@ -1,0 +1,18 @@
+{
+  "id": "wendhamlet1_6399,36,13634",
+  "name": "wendhamlet1",
+  "icon": "waypoint-normal.png",
+  "x": 6399,
+  "y": 36,
+  "z": 13634,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

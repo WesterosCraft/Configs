@@ -1,0 +1,18 @@
+{
+  "id": "cuyhamlet2_-6644,85,24658",
+  "name": "cuyhamlet2",
+  "icon": "waypoint-normal.png",
+  "x": -6644,
+  "y": 85,
+  "z": 24658,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

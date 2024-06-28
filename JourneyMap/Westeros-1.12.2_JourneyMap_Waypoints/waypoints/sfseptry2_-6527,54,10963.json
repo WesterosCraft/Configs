@@ -1,0 +1,18 @@
+{
+  "id": "sfseptry2_-6527,54,10963",
+  "name": "sfseptry2",
+  "icon": "waypoint-normal.png",
+  "x": -6527,
+  "y": 54,
+  "z": 10963,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

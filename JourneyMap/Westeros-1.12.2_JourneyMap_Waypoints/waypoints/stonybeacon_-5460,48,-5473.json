@@ -1,0 +1,18 @@
+{
+  "id": "stonybeacon_-5460,48,-5473",
+  "name": "stonybeacon",
+  "icon": "waypoint-normal.png",
+  "x": -5460,
+  "y": 48,
+  "z": -5473,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

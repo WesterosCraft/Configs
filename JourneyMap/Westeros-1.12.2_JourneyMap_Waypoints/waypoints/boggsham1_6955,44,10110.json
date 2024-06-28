@@ -1,0 +1,18 @@
+{
+  "id": "boggsham1_6955,44,10110",
+  "name": "boggsham1",
+  "icon": "waypoint-normal.png",
+  "x": 6955,
+  "y": 44,
+  "z": 10110,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

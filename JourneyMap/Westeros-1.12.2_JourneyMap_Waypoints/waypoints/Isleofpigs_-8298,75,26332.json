@@ -1,0 +1,18 @@
+{
+  "id": "Isleofpigs_-8298,75,26332",
+  "name": "Isleofpigs",
+  "icon": "waypoint-normal.png",
+  "x": -8298,
+  "y": 75,
+  "z": 26332,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

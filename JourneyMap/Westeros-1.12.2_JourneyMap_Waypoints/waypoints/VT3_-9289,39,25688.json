@@ -1,0 +1,18 @@
+{
+  "id": "VT3_-9289,39,25688",
+  "name": "VT3",
+  "icon": "waypoint-normal.png",
+  "x": -9289,
+  "y": 39,
+  "z": 25688,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

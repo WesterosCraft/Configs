@@ -1,0 +1,18 @@
+{
+  "id": "klsmithsept_2466,66,13287",
+  "name": "klsmithsept",
+  "icon": "waypoint-normal.png",
+  "x": 2466,
+  "y": 66,
+  "z": 13287,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

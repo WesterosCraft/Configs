@@ -1,0 +1,18 @@
+{
+  "id": "westbrookdelta_-6575,55,17273",
+  "name": "westbrookdelta",
+  "icon": "waypoint-normal.png",
+  "x": -6575,
+  "y": 55,
+  "z": 17273,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

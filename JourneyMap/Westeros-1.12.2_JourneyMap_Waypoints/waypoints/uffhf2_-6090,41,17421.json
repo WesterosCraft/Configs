@@ -1,0 +1,18 @@
+{
+  "id": "uffhf2_-6090,41,17421",
+  "name": "uffhf2",
+  "icon": "waypoint-normal.png",
+  "x": -6090,
+  "y": 41,
+  "z": 17421,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

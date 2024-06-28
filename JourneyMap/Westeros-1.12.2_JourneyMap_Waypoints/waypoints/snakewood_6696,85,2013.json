@@ -1,0 +1,18 @@
+{
+  "id": "snakewood_6696,85,2013",
+  "name": "snakewood",
+  "icon": "waypoint-normal.png",
+  "x": 6696,
+  "y": 85,
+  "z": 2013,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

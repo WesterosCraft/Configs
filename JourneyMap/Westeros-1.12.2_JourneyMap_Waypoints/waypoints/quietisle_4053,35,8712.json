@@ -1,0 +1,18 @@
+{
+  "id": "quietisle_4053,35,8712",
+  "name": "quietisle",
+  "icon": "waypoint-normal.png",
+  "x": 4053,
+  "y": 35,
+  "z": 8712,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

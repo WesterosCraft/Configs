@@ -1,0 +1,18 @@
+{
+  "id": "fallowfell_2562,54,-4584",
+  "name": "fallowfell",
+  "icon": "waypoint-normal.png",
+  "x": 2562,
+  "y": 54,
+  "z": -4584,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

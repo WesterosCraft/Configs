@@ -1,0 +1,18 @@
+{
+  "id": "ghosthillquarry_7027,92,23909",
+  "name": "ghosthillquarry",
+  "icon": "waypoint-normal.png",
+  "x": 7027,
+  "y": 92,
+  "z": 23909,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

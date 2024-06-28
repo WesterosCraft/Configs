@@ -1,0 +1,18 @@
+{
+  "id": "went_5802,47,13798",
+  "name": "went",
+  "icon": "waypoint-normal.png",
+  "x": 5802,
+  "y": 47,
+  "z": 13798,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "BustardGate_-7882,44,22582",
+  "name": "BustardGate",
+  "icon": "waypoint-normal.png",
+  "x": -7882,
+  "y": 44,
+  "z": 22582,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

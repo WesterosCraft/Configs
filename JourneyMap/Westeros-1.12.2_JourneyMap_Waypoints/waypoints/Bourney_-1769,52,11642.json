@@ -1,0 +1,18 @@
+{
+  "id": "Bourney_-1769,52,11642",
+  "name": "Bourney",
+  "icon": "waypoint-normal.png",
+  "x": -1769,
+  "y": 52,
+  "z": 11642,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Rollingfordhamlet_1556,55,12152",
+  "name": "Rollingfordhamlet",
+  "icon": "waypoint-normal.png",
+  "x": 1556,
+  "y": 55,
+  "z": 12152,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

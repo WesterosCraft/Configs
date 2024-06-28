@@ -1,0 +1,18 @@
+{
+  "id": "chatayas_2996,62,12785",
+  "name": "chatayas",
+  "icon": "waypoint-normal.png",
+  "x": 2996,
+  "y": 62,
+  "z": 12785,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

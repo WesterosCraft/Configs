@@ -1,0 +1,18 @@
+{
+  "id": "nvhamlet2_-3546,42,17900",
+  "name": "nvhamlet2",
+  "icon": "waypoint-normal.png",
+  "x": -3546,
+  "y": 42,
+  "z": 17900,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

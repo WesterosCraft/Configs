@@ -1,0 +1,18 @@
+{
+  "id": "AcornHall_-1300,50,9476",
+  "name": "AcornHall",
+  "icon": "waypoint-normal.png",
+  "x": -1300,
+  "y": 50,
+  "z": 9476,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

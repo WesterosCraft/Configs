@@ -1,0 +1,18 @@
+{
+  "id": "tumblersfalls_-221,36,12023",
+  "name": "tumblersfalls",
+  "icon": "waypoint-normal.png",
+  "x": -221,
+  "y": 36,
+  "z": 12023,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

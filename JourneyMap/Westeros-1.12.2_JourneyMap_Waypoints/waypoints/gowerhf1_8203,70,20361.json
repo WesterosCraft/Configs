@@ -1,0 +1,18 @@
+{
+  "id": "gowerhf1_8203,70,20361",
+  "name": "gowerhf1",
+  "icon": "waypoint-normal.png",
+  "x": 8203,
+  "y": 70,
+  "z": 20361,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

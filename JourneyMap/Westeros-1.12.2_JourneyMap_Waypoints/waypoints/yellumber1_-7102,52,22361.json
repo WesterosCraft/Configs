@@ -1,0 +1,18 @@
+{
+  "id": "yellumber1_-7102,52,22361",
+  "name": "yellumber1",
+  "icon": "waypoint-normal.png",
+  "x": -7102,
+  "y": 52,
+  "z": 22361,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

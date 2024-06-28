@@ -1,0 +1,18 @@
+{
+  "id": "roxtonseptry_-6454,37,19072",
+  "name": "roxtonseptry",
+  "icon": "waypoint-normal.png",
+  "x": -6454,
+  "y": 37,
+  "z": 19072,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

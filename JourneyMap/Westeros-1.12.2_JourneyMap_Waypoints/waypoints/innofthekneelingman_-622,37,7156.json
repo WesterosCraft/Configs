@@ -1,0 +1,18 @@
+{
+  "id": "innofthekneelingman_-622,37,7156",
+  "name": "innofthekneelingman",
+  "icon": "waypoint-normal.png",
+  "x": -622,
+  "y": 37,
+  "z": 7156,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

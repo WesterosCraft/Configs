@@ -1,0 +1,18 @@
+{
+  "id": "Falwell_-4725,40,14411",
+  "name": "Falwell",
+  "icon": "waypoint-normal.png",
+  "x": -4725,
+  "y": 40,
+  "z": 14411,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

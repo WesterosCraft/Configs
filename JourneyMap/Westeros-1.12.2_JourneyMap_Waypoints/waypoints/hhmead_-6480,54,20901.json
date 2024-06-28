@@ -1,0 +1,18 @@
+{
+  "id": "hhmead_-6480,54,20901",
+  "name": "hhmead",
+  "icon": "waypoint-normal.png",
+  "x": -6480,
+  "y": 54,
+  "z": 20901,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

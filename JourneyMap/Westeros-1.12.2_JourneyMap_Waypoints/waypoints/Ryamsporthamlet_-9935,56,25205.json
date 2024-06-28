@@ -1,0 +1,18 @@
+{
+  "id": "Ryamsporthamlet_-9935,56,25205",
+  "name": "Ryamsporthamlet",
+  "icon": "waypoint-normal.png",
+  "x": -9935,
+  "y": 56,
+  "z": 25205,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

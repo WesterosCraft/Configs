@@ -1,0 +1,18 @@
+{
+  "id": "bostbie_-5999,87,-1025",
+  "name": "bostbie",
+  "icon": "waypoint-normal.png",
+  "x": -5999,
+  "y": 87,
+  "z": -1025,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

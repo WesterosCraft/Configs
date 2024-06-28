@@ -1,0 +1,18 @@
+{
+  "id": "goodbrook_-840,51,8696",
+  "name": "goodbrook",
+  "icon": "waypoint-normal.png",
+  "x": -840,
+  "y": 51,
+  "z": 8696,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

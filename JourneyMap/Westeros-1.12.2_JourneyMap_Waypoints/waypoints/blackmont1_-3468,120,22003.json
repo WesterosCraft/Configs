@@ -1,0 +1,18 @@
+{
+  "id": "blackmont1_-3468,120,22003",
+  "name": "blackmont1",
+  "icon": "waypoint-normal.png",
+  "x": -3468,
+  "y": 120,
+  "z": 22003,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

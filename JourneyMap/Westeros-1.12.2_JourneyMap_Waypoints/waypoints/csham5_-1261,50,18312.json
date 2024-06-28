@@ -1,0 +1,18 @@
+{
+  "id": "csham5_-1261,50,18312",
+  "name": "csham5",
+  "icon": "waypoint-normal.png",
+  "x": -1261,
+  "y": 50,
+  "z": 18312,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

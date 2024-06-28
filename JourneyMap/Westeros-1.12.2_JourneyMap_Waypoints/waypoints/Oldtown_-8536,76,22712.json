@@ -1,0 +1,18 @@
+{
+  "id": "Oldtown_-8536,76,22712",
+  "name": "Oldtown",
+  "icon": "waypoint-normal.png",
+  "x": -8536,
+  "y": 76,
+  "z": 22712,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

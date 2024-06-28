@@ -1,0 +1,18 @@
+{
+  "id": "boggs2_6292,101,9928",
+  "name": "boggs2",
+  "icon": "waypoint-normal.png",
+  "x": 6292,
+  "y": 101,
+  "z": 9928,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

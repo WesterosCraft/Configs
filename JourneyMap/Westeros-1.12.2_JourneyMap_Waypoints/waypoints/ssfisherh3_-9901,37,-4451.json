@@ -1,0 +1,18 @@
+{
+  "id": "ssfisherh3_-9901,37,-4451",
+  "name": "ssfisherh3",
+  "icon": "waypoint-normal.png",
+  "x": -9901,
+  "y": 37,
+  "z": -4451,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

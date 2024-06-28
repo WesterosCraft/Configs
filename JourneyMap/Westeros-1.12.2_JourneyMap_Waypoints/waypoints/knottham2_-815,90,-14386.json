@@ -1,0 +1,18 @@
+{
+  "id": "knottham2_-815,90,-14386",
+  "name": "knottham2",
+  "icon": "waypoint-normal.png",
+  "x": -815,
+  "y": 90,
+  "z": -14386,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "merkley_1764,59,14883",
+  "name": "merkley",
+  "icon": "waypoint-normal.png",
+  "x": 1764,
+  "y": 59,
+  "z": 14883,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

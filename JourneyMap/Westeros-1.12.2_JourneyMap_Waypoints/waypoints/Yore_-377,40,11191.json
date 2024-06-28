@@ -1,0 +1,18 @@
+{
+  "id": "Yore_-377,40,11191",
+  "name": "Yore",
+  "icon": "waypoint-normal.png",
+  "x": -377,
+  "y": 40,
+  "z": 11191,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

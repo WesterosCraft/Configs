@@ -1,0 +1,18 @@
+{
+  "id": "caveruin_5372,84,9485",
+  "name": "caveruin",
+  "icon": "waypoint-normal.png",
+  "x": 5372,
+  "y": 84,
+  "z": 9485,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

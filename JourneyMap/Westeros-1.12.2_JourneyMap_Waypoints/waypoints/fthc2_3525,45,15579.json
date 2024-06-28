@@ -1,0 +1,18 @@
+{
+  "id": "fthc2_3525,45,15579",
+  "name": "fthc2",
+  "icon": "waypoint-normal.png",
+  "x": 3525,
+  "y": 45,
+  "z": 15579,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

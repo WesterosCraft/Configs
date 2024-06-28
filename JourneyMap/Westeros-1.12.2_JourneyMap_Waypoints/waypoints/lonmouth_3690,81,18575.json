@@ -1,0 +1,18 @@
+{
+  "id": "lonmouth_3690,81,18575",
+  "name": "lonmouth",
+  "icon": "waypoint-normal.png",
+  "x": 3690,
+  "y": 81,
+  "z": 18575,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

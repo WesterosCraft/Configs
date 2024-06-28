@@ -1,0 +1,18 @@
+{
+  "id": "yelshire_-6542,103,22684",
+  "name": "yelshire",
+  "icon": "waypoint-normal.png",
+  "x": -6542,
+  "y": 103,
+  "z": 22684,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

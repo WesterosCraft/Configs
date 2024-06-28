@@ -1,0 +1,18 @@
+{
+  "id": "fishermansbasin_-3158,36,-5727",
+  "name": "fishermansbasin",
+  "icon": "waypoint-normal.png",
+  "x": -3158,
+  "y": 36,
+  "z": -5727,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

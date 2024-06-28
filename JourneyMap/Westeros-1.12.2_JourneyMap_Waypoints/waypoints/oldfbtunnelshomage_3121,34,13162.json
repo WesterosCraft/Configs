@@ -1,0 +1,18 @@
+{
+  "id": "oldfbtunnelshomage_3121,34,13162",
+  "name": "oldfbtunnelshomage",
+  "icon": "waypoint-normal.png",
+  "x": 3121,
+  "y": 34,
+  "z": 13162,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "baelishbrothel_2972,47,13389",
+  "name": "baelishbrothel",
+  "icon": "waypoint-normal.png",
+  "x": 2972,
+  "y": 47,
+  "z": 13389,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

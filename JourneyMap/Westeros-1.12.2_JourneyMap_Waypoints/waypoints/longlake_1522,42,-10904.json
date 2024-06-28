@@ -1,0 +1,18 @@
+{
+  "id": "longlake_1522,42,-10904",
+  "name": "longlake",
+  "icon": "waypoint-normal.png",
+  "x": 1522,
+  "y": 42,
+  "z": -10904,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

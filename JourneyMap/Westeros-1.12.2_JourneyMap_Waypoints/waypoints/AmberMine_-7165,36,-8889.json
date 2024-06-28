@@ -1,0 +1,18 @@
+{
+  "id": "AmberMine_-7165,36,-8889",
+  "name": "AmberMine",
+  "icon": "waypoint-normal.png",
+  "x": -7165,
+  "y": 36,
+  "z": -8889,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

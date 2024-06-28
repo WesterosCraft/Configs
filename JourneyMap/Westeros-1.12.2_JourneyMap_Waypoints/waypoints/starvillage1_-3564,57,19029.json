@@ -1,0 +1,18 @@
+{
+  "id": "starvillage1_-3564,57,19029",
+  "name": "starvillage1",
+  "icon": "waypoint-normal.png",
+  "x": -3564,
+  "y": 57,
+  "z": 19029,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

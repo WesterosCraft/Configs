@@ -1,0 +1,18 @@
+{
+  "id": "Ryamsport_-10248,64,25234",
+  "name": "Ryamsport",
+  "icon": "waypoint-normal.png",
+  "x": -10248,
+  "y": 64,
+  "z": 25234,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

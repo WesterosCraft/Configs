@@ -1,0 +1,18 @@
+{
+  "id": "bhmanse2_2282,83,19305",
+  "name": "bhmanse2",
+  "icon": "waypoint-normal.png",
+  "x": 2282,
+  "y": 83,
+  "z": 19305,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

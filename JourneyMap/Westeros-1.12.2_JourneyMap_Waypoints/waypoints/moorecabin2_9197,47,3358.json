@@ -1,0 +1,18 @@
+{
+  "id": "moorecabin2_9197,47,3358",
+  "name": "moorecabin2",
+  "icon": "waypoint-normal.png",
+  "x": 9197,
+  "y": 47,
+  "z": 3358,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

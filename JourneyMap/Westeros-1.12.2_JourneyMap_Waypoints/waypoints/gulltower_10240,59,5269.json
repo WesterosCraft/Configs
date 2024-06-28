@@ -1,0 +1,18 @@
+{
+  "id": "gulltower_10240,59,5269",
+  "name": "gulltower",
+  "icon": "waypoint-normal.png",
+  "x": 10240,
+  "y": 59,
+  "z": 5269,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "oalog_7473,57,4122",
+  "name": "oalog",
+  "icon": "waypoint-normal.png",
+  "x": 7473,
+  "y": 57,
+  "z": 4122,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

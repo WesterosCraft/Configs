@@ -1,0 +1,18 @@
+{
+  "id": "tobhomotts_2453,73,13169",
+  "name": "tobhomotts",
+  "icon": "waypoint-normal.png",
+  "x": 2453,
+  "y": 73,
+  "z": 13169,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "HGHF1_-5075,37,19018",
+  "name": "HGHF1",
+  "icon": "waypoint-normal.png",
+  "x": -5075,
+  "y": 37,
+  "z": 19018,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

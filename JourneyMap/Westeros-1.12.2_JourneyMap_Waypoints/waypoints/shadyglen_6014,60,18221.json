@@ -1,0 +1,18 @@
+{
+  "id": "shadyglen_6014,60,18221",
+  "name": "shadyglen",
+  "icon": "waypoint-normal.png",
+  "x": 6014,
+  "y": 60,
+  "z": 18221,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

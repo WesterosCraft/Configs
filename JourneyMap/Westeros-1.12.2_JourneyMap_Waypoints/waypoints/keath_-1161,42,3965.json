@@ -1,0 +1,18 @@
+{
+  "id": "keath_-1161,42,3965",
+  "name": "keath",
+  "icon": "waypoint-normal.png",
+  "x": -1161,
+  "y": 42,
+  "z": 3965,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

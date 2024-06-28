@@ -1,0 +1,18 @@
+{
+  "id": "lblc1_8288,57,3535",
+  "name": "lblc1",
+  "icon": "waypoint-normal.png",
+  "x": 8288,
+  "y": 57,
+  "z": 3535,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

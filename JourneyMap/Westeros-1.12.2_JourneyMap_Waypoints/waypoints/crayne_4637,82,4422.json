@@ -1,0 +1,18 @@
+{
+  "id": "crayne_4637,82,4422",
+  "name": "crayne",
+  "icon": "waypoint-normal.png",
+  "x": 4637,
+  "y": 82,
+  "z": 4422,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

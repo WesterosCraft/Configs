@@ -1,0 +1,18 @@
+{
+  "id": "oldblanetree_-3281,57,4500",
+  "name": "oldblanetree",
+  "icon": "waypoint-normal.png",
+  "x": -3281,
+  "y": 57,
+  "z": 4500,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "mpindustry_4900,34,9036",
+  "name": "mpindustry",
+  "icon": "waypoint-normal.png",
+  "x": 4900,
+  "y": 34,
+  "z": 9036,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "AmberVillage1_-6639,52,-8925",
+  "name": "AmberVillage1",
+  "icon": "waypoint-normal.png",
+  "x": -6639,
+  "y": 52,
+  "z": -8925,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

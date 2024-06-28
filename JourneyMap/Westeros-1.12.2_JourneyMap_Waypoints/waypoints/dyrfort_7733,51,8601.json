@@ -1,0 +1,18 @@
+{
+  "id": "dyrfort_7733,51,8601",
+  "name": "dyrfort",
+  "icon": "waypoint-normal.png",
+  "x": 7733,
+  "y": 51,
+  "z": 8601,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

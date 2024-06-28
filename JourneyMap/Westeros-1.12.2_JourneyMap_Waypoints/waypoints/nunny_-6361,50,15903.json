@@ -1,0 +1,18 @@
+{
+  "id": "nunny_-6361,50,15903",
+  "name": "nunny",
+  "icon": "waypoint-normal.png",
+  "x": -6361,
+  "y": 50,
+  "z": 15903,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

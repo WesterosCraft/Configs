@@ -1,0 +1,18 @@
+{
+  "id": "TheonsHunt_-1473,54,-8526",
+  "name": "TheonsHunt",
+  "icon": "waypoint-normal.png",
+  "x": -1473,
+  "y": 54,
+  "z": -8526,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

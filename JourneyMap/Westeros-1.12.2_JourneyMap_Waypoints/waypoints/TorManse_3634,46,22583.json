@@ -1,0 +1,18 @@
+{
+  "id": "TorManse_3634,46,22583",
+  "name": "TorManse",
+  "icon": "waypoint-normal.png",
+  "x": 3634,
+  "y": 46,
+  "z": 22583,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

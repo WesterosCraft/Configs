@@ -1,0 +1,18 @@
+{
+  "id": "horpe_4749,36,20117",
+  "name": "horpe",
+  "icon": "waypoint-normal.png",
+  "x": 4749,
+  "y": 36,
+  "z": 20117,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

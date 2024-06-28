@@ -1,0 +1,18 @@
+{
+  "id": "deeplake_2407,83,-16008",
+  "name": "deeplake",
+  "icon": "waypoint-normal.png",
+  "x": 2407,
+  "y": 83,
+  "z": -16008,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

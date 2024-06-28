@@ -1,0 +1,18 @@
+{
+  "id": "dargood_5157,44,11436",
+  "name": "dargood",
+  "icon": "waypoint-normal.png",
+  "x": 5157,
+  "y": 44,
+  "z": 11436,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "hwh1_-8409,37,19479",
+  "name": "hwh1",
+  "icon": "waypoint-normal.png",
+  "x": -8409,
+  "y": 37,
+  "z": 19479,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

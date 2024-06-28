@@ -1,0 +1,18 @@
+{
+  "id": "redkeep_3261,119,13279",
+  "name": "redkeep",
+  "icon": "waypoint-normal.png",
+  "x": 3261,
+  "y": 119,
+  "z": 13279,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

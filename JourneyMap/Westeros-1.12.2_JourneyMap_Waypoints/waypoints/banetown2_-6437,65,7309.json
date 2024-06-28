@@ -1,0 +1,18 @@
+{
+  "id": "banetown2_-6437,65,7309",
+  "name": "banetown2",
+  "icon": "waypoint-normal.png",
+  "x": -6437,
+  "y": 65,
+  "z": 7309,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

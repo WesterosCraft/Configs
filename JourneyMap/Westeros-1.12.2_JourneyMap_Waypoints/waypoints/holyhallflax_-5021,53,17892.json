@@ -1,0 +1,18 @@
+{
+  "id": "holyhallflax_-5021,53,17892",
+  "name": "holyhallflax",
+  "icon": "waypoint-normal.png",
+  "x": -5021,
+  "y": 53,
+  "z": 17892,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

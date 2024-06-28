@@ -1,0 +1,18 @@
+{
+  "id": "rillscabin2_-7197,41,-3039",
+  "name": "rillscabin2",
+  "icon": "waypoint-normal.png",
+  "x": -7197,
+  "y": 41,
+  "z": -3039,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

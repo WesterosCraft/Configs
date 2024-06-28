@@ -1,0 +1,18 @@
+{
+  "id": "hightower_-8499,48,22557",
+  "name": "hightower",
+  "icon": "waypoint-normal.png",
+  "x": -8499,
+  "y": 48,
+  "z": 22557,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

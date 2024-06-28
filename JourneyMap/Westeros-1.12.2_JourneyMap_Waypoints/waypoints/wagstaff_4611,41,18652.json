@@ -1,0 +1,18 @@
+{
+  "id": "wagstaff_4611,41,18652",
+  "name": "wagstaff",
+  "icon": "waypoint-normal.png",
+  "x": 4611,
+  "y": 41,
+  "z": 18652,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "chhamlet2_-7993,52,13724",
+  "name": "chhamlet2",
+  "icon": "waypoint-normal.png",
+  "x": -7993,
+  "y": 52,
+  "z": 13724,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

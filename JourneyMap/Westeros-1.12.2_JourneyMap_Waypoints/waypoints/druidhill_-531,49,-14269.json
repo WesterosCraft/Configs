@@ -1,0 +1,18 @@
+{
+  "id": "druidhill_-531,49,-14269",
+  "name": "druidhill",
+  "icon": "waypoint-normal.png",
+  "x": -531,
+  "y": 49,
+  "z": -14269,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

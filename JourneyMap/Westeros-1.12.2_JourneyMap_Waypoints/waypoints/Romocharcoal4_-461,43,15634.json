@@ -1,0 +1,18 @@
+{
+  "id": "Romocharcoal4_-461,43,15634",
+  "name": "Romocharcoal4",
+  "icon": "waypoint-normal.png",
+  "x": -461,
+  "y": 43,
+  "z": 15634,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

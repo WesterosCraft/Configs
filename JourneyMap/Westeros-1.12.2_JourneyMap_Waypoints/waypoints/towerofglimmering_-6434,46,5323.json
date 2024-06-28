@@ -1,0 +1,18 @@
+{
+  "id": "towerofglimmering_-6434,46,5323",
+  "name": "towerofglimmering",
+  "icon": "waypoint-normal.png",
+  "x": -6434,
+  "y": 46,
+  "z": 5323,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

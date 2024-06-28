@@ -1,0 +1,18 @@
+{
+  "id": "winchdown_3187,53,-16132",
+  "name": "winchdown",
+  "icon": "waypoint-normal.png",
+  "x": 3187,
+  "y": 53,
+  "z": -16132,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

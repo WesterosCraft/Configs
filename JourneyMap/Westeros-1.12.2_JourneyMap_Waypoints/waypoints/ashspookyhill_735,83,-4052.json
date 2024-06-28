@@ -1,0 +1,18 @@
+{
+  "id": "ashspookyhill_735,83,-4052",
+  "name": "ashspookyhill",
+  "icon": "waypoint-normal.png",
+  "x": 735,
+  "y": 83,
+  "z": -4052,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

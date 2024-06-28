@@ -1,0 +1,18 @@
+{
+  "id": "albator_4837,51,23071",
+  "name": "albator",
+  "icon": "waypoint-normal.png",
+  "x": 4837,
+  "y": 51,
+  "z": 23071,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "chlumber_-7866,44,13946",
+  "name": "chlumber",
+  "icon": "waypoint-normal.png",
+  "x": -7866,
+  "y": 44,
+  "z": 13946,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

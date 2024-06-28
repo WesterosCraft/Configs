@@ -1,0 +1,18 @@
+{
+  "id": "condon_572,43,-5831",
+  "name": "condon",
+  "icon": "waypoint-normal.png",
+  "x": 572,
+  "y": 43,
+  "z": -5831,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

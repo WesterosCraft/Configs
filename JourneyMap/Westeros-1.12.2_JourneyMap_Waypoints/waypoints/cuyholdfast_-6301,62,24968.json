@@ -1,0 +1,18 @@
+{
+  "id": "cuyholdfast_-6301,62,24968",
+  "name": "cuyholdfast",
+  "icon": "waypoint-normal.png",
+  "x": -6301,
+  "y": 62,
+  "z": 24968,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

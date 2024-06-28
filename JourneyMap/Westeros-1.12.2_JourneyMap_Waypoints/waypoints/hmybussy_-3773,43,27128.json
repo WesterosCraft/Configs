@@ -1,0 +1,18 @@
+{
+  "id": "hmybussy_-3773,43,27128",
+  "name": "hmybussy",
+  "icon": "waypoint-normal.png",
+  "x": -3773,
+  "y": 43,
+  "z": 27128,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

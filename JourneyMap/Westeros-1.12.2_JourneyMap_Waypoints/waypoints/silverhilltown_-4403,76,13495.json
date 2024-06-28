@@ -1,0 +1,18 @@
+{
+  "id": "silverhilltown_-4403,76,13495",
+  "name": "silverhilltown",
+  "icon": "waypoint-normal.png",
+  "x": -4403,
+  "y": 76,
+  "z": 13495,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

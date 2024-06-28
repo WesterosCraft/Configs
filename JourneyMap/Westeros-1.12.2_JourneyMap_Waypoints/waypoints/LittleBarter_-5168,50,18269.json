@@ -1,0 +1,18 @@
+{
+  "id": "LittleBarter_-5168,50,18269",
+  "name": "LittleBarter",
+  "icon": "waypoint-normal.png",
+  "x": -5168,
+  "y": 50,
+  "z": 18269,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "BustardCisterns_-7920,43,22504",
+  "name": "BustardCisterns",
+  "icon": "waypoint-normal.png",
+  "x": -7920,
+  "y": 43,
+  "z": 22504,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

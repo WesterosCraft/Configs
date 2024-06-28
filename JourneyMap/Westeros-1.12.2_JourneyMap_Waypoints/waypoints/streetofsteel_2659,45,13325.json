@@ -1,0 +1,18 @@
+{
+  "id": "streetofsteel_2659,45,13325",
+  "name": "streetofsteel",
+  "icon": "waypoint-normal.png",
+  "x": 2659,
+  "y": 45,
+  "z": 13325,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

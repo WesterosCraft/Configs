@@ -1,0 +1,18 @@
+{
+  "id": "BroomHF1_-5276,58,15004",
+  "name": "BroomHF1",
+  "icon": "waypoint-normal.png",
+  "x": -5276,
+  "y": 58,
+  "z": 15004,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

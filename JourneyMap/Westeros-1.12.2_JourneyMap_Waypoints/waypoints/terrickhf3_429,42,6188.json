@@ -1,0 +1,18 @@
+{
+  "id": "terrickhf3_429,42,6188",
+  "name": "terrickhf3",
+  "icon": "waypoint-normal.png",
+  "x": 429,
+  "y": 42,
+  "z": 6188,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

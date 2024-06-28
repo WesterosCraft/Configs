@@ -1,0 +1,18 @@
+{
+  "id": "sthquarry_-6507,59,16313",
+  "name": "sthquarry",
+  "icon": "waypoint-normal.png",
+  "x": -6507,
+  "y": 59,
+  "z": 16313,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

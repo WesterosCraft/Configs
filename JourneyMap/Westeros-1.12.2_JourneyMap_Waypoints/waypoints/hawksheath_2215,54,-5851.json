@@ -1,0 +1,18 @@
+{
+  "id": "hawksheath_2215,54,-5851",
+  "name": "hawksheath",
+  "icon": "waypoint-normal.png",
+  "x": 2215,
+  "y": 54,
+  "z": -5851,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

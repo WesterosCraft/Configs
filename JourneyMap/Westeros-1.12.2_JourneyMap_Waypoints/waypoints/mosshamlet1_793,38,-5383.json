@@ -1,0 +1,18 @@
+{
+  "id": "mosshamlet1_793,38,-5383",
+  "name": "mosshamlet1",
+  "icon": "waypoint-normal.png",
+  "x": 793,
+  "y": 38,
+  "z": -5383,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

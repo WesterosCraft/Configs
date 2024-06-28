@@ -1,0 +1,18 @@
+{
+  "id": "stonemill_-2156,36,8510",
+  "name": "stonemill",
+  "icon": "waypoint-normal.png",
+  "x": -2156,
+  "y": 36,
+  "z": 8510,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

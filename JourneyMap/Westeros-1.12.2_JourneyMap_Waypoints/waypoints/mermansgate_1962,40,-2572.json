@@ -1,0 +1,18 @@
+{
+  "id": "mermansgate_1962,40,-2572",
+  "name": "mermansgate",
+  "icon": "waypoint-normal.png",
+  "x": 1962,
+  "y": 40,
+  "z": -2572,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

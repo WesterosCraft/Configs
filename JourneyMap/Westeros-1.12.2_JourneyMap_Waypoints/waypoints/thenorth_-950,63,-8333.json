@@ -1,0 +1,18 @@
+{
+  "id": "thenorth_-950,63,-8333",
+  "name": "thenorth",
+  "icon": "waypoint-normal.png",
+  "x": -950,
+  "y": 63,
+  "z": -8333,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

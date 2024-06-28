@@ -1,0 +1,18 @@
+{
+  "id": "inchfa3_-1217,51,13752",
+  "name": "inchfa3",
+  "icon": "waypoint-normal.png",
+  "x": -1217,
+  "y": 51,
+  "z": 13752,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "DMtest_4118,211,18540",
+  "name": "DMtest",
+  "icon": "waypoint-normal.png",
+  "x": 4118,
+  "y": 211,
+  "z": 18540,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

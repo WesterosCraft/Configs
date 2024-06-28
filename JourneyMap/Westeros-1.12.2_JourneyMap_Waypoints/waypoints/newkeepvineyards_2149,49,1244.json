@@ -1,0 +1,18 @@
+{
+  "id": "newkeepvineyards_2149,49,1244",
+  "name": "newkeepvineyards",
+  "icon": "waypoint-normal.png",
+  "x": 2149,
+  "y": 49,
+  "z": 1244,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sfinn_-7092,45,11388",
+  "name": "sfinn",
+  "icon": "waypoint-normal.png",
+  "x": -7092,
+  "y": 45,
+  "z": 11388,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "holt_2363,48,-3361",
+  "name": "holt",
+  "icon": "waypoint-normal.png",
+  "x": 2363,
+  "y": 48,
+  "z": -3361,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

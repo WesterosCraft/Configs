@@ -1,0 +1,18 @@
+{
+  "id": "mourningwood_-2259,66,-6118",
+  "name": "mourningwood",
+  "icon": "waypoint-normal.png",
+  "x": -2259,
+  "y": 66,
+  "z": -6118,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

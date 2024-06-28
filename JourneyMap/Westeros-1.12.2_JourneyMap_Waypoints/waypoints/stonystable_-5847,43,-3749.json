@@ -1,0 +1,18 @@
+{
+  "id": "stonystable_-5847,43,-3749",
+  "name": "stonystable",
+  "icon": "waypoint-normal.png",
+  "x": -5847,
+  "y": 43,
+  "z": -3749,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

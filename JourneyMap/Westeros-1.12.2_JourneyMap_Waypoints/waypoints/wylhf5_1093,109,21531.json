@@ -1,0 +1,18 @@
+{
+  "id": "wylhf5_1093,109,21531",
+  "name": "wylhf5",
+  "icon": "waypoint-normal.png",
+  "x": 1093,
+  "y": 109,
+  "z": 21531,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

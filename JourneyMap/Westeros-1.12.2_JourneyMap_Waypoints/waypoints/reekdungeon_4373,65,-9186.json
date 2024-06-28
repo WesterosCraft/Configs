@@ -1,0 +1,18 @@
+{
+  "id": "reekdungeon_4373,65,-9186",
+  "name": "reekdungeon",
+  "icon": "waypoint-normal.png",
+  "x": 4373,
+  "y": 65,
+  "z": -9186,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

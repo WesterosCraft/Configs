@@ -1,0 +1,18 @@
+{
+  "id": "bellyofthewhale_3102,53,-201",
+  "name": "bellyofthewhale",
+  "icon": "waypoint-normal.png",
+  "x": 3102,
+  "y": 53,
+  "z": -201,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

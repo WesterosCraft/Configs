@@ -1,0 +1,18 @@
+{
+  "id": "Giftham2_750,90,-15617",
+  "name": "Giftham2",
+  "icon": "waypoint-normal.png",
+  "x": 750,
+  "y": 90,
+  "z": -15617,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

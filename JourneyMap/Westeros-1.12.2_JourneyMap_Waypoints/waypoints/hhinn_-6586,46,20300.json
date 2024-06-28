@@ -1,0 +1,18 @@
+{
+  "id": "hhinn_-6586,46,20300",
+  "name": "hhinn",
+  "icon": "waypoint-normal.png",
+  "x": -6586,
+  "y": 46,
+  "z": 20300,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

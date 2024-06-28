@@ -1,0 +1,18 @@
+{
+  "id": "bearislandvillage3_-3828,54,-13331",
+  "name": "bearislandvillage3",
+  "icon": "waypoint-normal.png",
+  "x": -3828,
+  "y": 54,
+  "z": -13331,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

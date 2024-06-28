@@ -1,0 +1,18 @@
+{
+  "id": "Torcastle_5214,55,23237",
+  "name": "Torcastle",
+  "icon": "waypoint-normal.png",
+  "x": 5214,
+  "y": 55,
+  "z": 23237,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sablehall1_4057,123,-16119",
+  "name": "sablehall1",
+  "icon": "waypoint-normal.png",
+  "x": 4057,
+  "y": 123,
+  "z": -16119,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "hardy_8977,81,7712",
+  "name": "hardy",
+  "icon": "waypoint-normal.png",
+  "x": 8977,
+  "y": 81,
+  "z": 7712,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

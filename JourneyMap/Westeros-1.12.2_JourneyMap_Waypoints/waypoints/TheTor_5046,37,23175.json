@@ -1,0 +1,18 @@
+{
+  "id": "TheTor_5046,37,23175",
+  "name": "TheTor",
+  "icon": "waypoint-normal.png",
+  "x": 5046,
+  "y": 37,
+  "z": 23175,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

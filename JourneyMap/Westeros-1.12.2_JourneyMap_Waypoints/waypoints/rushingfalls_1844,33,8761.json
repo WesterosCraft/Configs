@@ -1,0 +1,18 @@
+{
+  "id": "rushingfalls_1844,33,8761",
+  "name": "rushingfalls",
+  "icon": "waypoint-normal.png",
+  "x": 1844,
+  "y": 33,
+  "z": 8761,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "csbrew_-740,55,18875",
+  "name": "csbrew",
+  "icon": "waypoint-normal.png",
+  "x": -740,
+  "y": 55,
+  "z": 18875,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

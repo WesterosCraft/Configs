@@ -1,0 +1,18 @@
+{
+  "id": "hawthorneseptry_-2268,61,13416",
+  "name": "hawthorneseptry",
+  "icon": "waypoint-normal.png",
+  "x": -2268,
+  "y": 61,
+  "z": 13416,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

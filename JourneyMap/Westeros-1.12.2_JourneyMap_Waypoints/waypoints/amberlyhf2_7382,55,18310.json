@@ -1,0 +1,18 @@
+{
+  "id": "amberlyhf2_7382,55,18310",
+  "name": "amberlyhf2",
+  "icon": "waypoint-normal.png",
+  "x": 7382,
+  "y": 55,
+  "z": 18310,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

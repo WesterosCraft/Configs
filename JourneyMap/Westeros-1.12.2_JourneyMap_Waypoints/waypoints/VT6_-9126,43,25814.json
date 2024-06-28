@@ -1,0 +1,18 @@
+{
+  "id": "VT6_-9126,43,25814",
+  "name": "VT6",
+  "icon": "waypoint-normal.png",
+  "x": -9126,
+  "y": 43,
+  "z": 25814,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

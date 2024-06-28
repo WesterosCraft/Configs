@@ -1,0 +1,18 @@
+{
+  "id": "andover_6505,63,16781",
+  "name": "andover",
+  "icon": "waypoint-normal.png",
+  "x": 6505,
+  "y": 63,
+  "z": 16781,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

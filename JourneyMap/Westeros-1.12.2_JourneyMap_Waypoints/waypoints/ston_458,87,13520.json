@@ -1,0 +1,18 @@
+{
+  "id": "ston_458,87,13520",
+  "name": "ston",
+  "icon": "waypoint-normal.png",
+  "x": 458,
+  "y": 87,
+  "z": 13520,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

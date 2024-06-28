@@ -1,0 +1,18 @@
+{
+  "id": "vyrvillage_-2047,60,19098",
+  "name": "vyrvillage",
+  "icon": "waypoint-normal.png",
+  "x": -2047,
+  "y": 60,
+  "z": 19098,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

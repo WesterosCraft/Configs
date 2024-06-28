@@ -1,0 +1,18 @@
+{
+  "id": "ockley_-4106,50,16390",
+  "name": "ockley",
+  "icon": "waypoint-normal.png",
+  "x": -4106,
+  "y": 50,
+  "z": 16390,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "lemonwood_7936,46,25561",
+  "name": "lemonwood",
+  "icon": "waypoint-normal.png",
+  "x": 7936,
+  "y": 46,
+  "z": 25561,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

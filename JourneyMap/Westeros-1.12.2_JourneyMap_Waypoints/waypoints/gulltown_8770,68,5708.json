@@ -1,0 +1,18 @@
+{
+  "id": "gulltown_8770,68,5708",
+  "name": "gulltown",
+  "icon": "waypoint-normal.png",
+  "x": 8770,
+  "y": 68,
+  "z": 5708,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ssruinedseptry_-199,48,10968",
+  "name": "ssruinedseptry",
+  "icon": "waypoint-normal.png",
+  "x": -199,
+  "y": 48,
+  "z": 10968,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

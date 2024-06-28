@@ -1,0 +1,18 @@
+{
+  "id": "highhermh4_-3533,62,23074",
+  "name": "highhermh4",
+  "icon": "waypoint-normal.png",
+  "x": -3533,
+  "y": 62,
+  "z": 23074,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

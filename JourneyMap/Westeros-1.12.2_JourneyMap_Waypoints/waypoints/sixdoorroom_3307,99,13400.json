@@ -1,0 +1,18 @@
+{
+  "id": "sixdoorroom_3307,99,13400",
+  "name": "sixdoorroom",
+  "icon": "waypoint-normal.png",
+  "x": 3307,
+  "y": 99,
+  "z": 13400,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

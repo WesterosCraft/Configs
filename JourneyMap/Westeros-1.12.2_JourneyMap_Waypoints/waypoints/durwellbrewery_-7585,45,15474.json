@@ -1,0 +1,18 @@
+{
+  "id": "durwellbrewery_-7585,45,15474",
+  "name": "durwellbrewery",
+  "icon": "waypoint-normal.png",
+  "x": -7585,
+  "y": 45,
+  "z": 15474,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

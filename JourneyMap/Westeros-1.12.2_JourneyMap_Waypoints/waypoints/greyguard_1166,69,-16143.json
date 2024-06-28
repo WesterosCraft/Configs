@@ -1,0 +1,18 @@
+{
+  "id": "greyguard_1166,69,-16143",
+  "name": "greyguard",
+  "icon": "waypoint-normal.png",
+  "x": 1166,
+  "y": 69,
+  "z": -16143,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

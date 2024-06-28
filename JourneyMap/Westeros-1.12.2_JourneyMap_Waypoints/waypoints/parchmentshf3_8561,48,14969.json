@@ -1,0 +1,18 @@
+{
+  "id": "parchmentshf3_8561,48,14969",
+  "name": "parchmentshf3",
+  "icon": "waypoint-normal.png",
+  "x": 8561,
+  "y": 48,
+  "z": 14969,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Spiderwood_-2367,48,10534",
+  "name": "Spiderwood",
+  "icon": "waypoint-normal.png",
+  "x": -2367,
+  "y": 48,
+  "z": 10534,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

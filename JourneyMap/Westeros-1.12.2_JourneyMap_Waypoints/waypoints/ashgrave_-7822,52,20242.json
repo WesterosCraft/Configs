@@ -1,0 +1,18 @@
+{
+  "id": "ashgrave_-7822,52,20242",
+  "name": "ashgrave",
+  "icon": "waypoint-normal.png",
+  "x": -7822,
+  "y": 52,
+  "z": 20242,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

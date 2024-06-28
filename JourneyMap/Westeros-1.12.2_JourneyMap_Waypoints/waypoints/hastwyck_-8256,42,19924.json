@@ -1,0 +1,18 @@
+{
+  "id": "hastwyck_-8256,42,19924",
+  "name": "hastwyck",
+  "icon": "waypoint-normal.png",
+  "x": -8256,
+  "y": 42,
+  "z": 19924,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

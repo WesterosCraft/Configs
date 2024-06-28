@@ -1,0 +1,18 @@
+{
+  "id": "mpseptry_3494,98,9309",
+  "name": "mpseptry",
+  "icon": "waypoint-normal.png",
+  "x": 3494,
+  "y": 98,
+  "z": 9309,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

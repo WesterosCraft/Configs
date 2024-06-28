@@ -1,0 +1,18 @@
+{
+  "id": "pthamlet_7654,34,25129",
+  "name": "pthamlet",
+  "icon": "waypoint-normal.png",
+  "x": 7654,
+  "y": 34,
+  "z": 25129,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

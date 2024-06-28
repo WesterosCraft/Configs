@@ -1,0 +1,18 @@
+{
+  "id": "rhhamlet1_9799,42,18547",
+  "name": "rhhamlet1",
+  "icon": "waypoint-normal.png",
+  "x": 9799,
+  "y": 42,
+  "z": 18547,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

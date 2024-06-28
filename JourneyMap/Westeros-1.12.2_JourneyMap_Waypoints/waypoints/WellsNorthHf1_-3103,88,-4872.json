@@ -1,0 +1,18 @@
+{
+  "id": "WellsNorthHf1_-3103,88,-4872",
+  "name": "WellsNorthHf1",
+  "icon": "waypoint-normal.png",
+  "x": -3103,
+  "y": 88,
+  "z": -4872,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ambroseham1_-2913,48,16966",
+  "name": "ambroseham1",
+  "icon": "waypoint-normal.png",
+  "x": -2913,
+  "y": 48,
+  "z": 16966,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

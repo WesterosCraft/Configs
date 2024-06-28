@@ -1,0 +1,18 @@
+{
+  "id": "csdinn_850,45,13109",
+  "name": "csdinn",
+  "icon": "waypoint-normal.png",
+  "x": 850,
+  "y": 45,
+  "z": 13109,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

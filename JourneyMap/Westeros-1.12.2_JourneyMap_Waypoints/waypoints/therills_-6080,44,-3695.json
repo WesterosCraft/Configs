@@ -1,0 +1,18 @@
+{
+  "id": "therills_-6080,44,-3695",
+  "name": "therills",
+  "icon": "waypoint-normal.png",
+  "x": -6080,
+  "y": 44,
+  "z": -3695,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

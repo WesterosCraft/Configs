@@ -1,0 +1,18 @@
+{
+  "id": "nvmanse_-3360,40,17845",
+  "name": "nvmanse",
+  "icon": "waypoint-normal.png",
+  "x": -3360,
+  "y": 40,
+  "z": 17845,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

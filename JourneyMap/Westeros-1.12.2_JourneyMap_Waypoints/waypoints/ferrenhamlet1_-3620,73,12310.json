@@ -1,0 +1,18 @@
+{
+  "id": "ferrenhamlet1_-3620,73,12310",
+  "name": "ferrenhamlet1",
+  "icon": "waypoint-normal.png",
+  "x": -3620,
+  "y": 73,
+  "z": 12310,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

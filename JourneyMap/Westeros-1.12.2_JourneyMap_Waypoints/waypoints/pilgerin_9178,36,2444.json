@@ -1,0 +1,18 @@
+{
+  "id": "pilgerin_9178,36,2444",
+  "name": "pilgerin",
+  "icon": "waypoint-normal.png",
+  "x": 9178,
+  "y": 36,
+  "z": 2444,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

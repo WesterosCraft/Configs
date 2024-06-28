@@ -1,0 +1,18 @@
+{
+  "id": "tarthport_9621,37,17028",
+  "name": "tarthport",
+  "icon": "waypoint-normal.png",
+  "x": 9621,
+  "y": 37,
+  "z": 17028,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

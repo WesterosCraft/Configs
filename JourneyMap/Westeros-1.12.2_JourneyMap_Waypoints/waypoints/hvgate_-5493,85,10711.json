@@ -1,0 +1,18 @@
+{
+  "id": "hvgate_-5493,85,10711",
+  "name": "hvgate",
+  "icon": "waypoint-normal.png",
+  "x": -5493,
+  "y": 85,
+  "z": 10711,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

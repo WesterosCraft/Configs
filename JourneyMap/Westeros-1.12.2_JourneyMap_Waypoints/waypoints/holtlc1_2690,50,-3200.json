@@ -1,0 +1,18 @@
+{
+  "id": "holtlc1_2690,50,-3200",
+  "name": "holtlc1",
+  "icon": "waypoint-normal.png",
+  "x": 2690,
+  "y": 50,
+  "z": -3200,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "cnh2_6384,87,19054",
+  "name": "cnh2",
+  "icon": "waypoint-normal.png",
+  "x": 6384,
+  "y": 87,
+  "z": 19054,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

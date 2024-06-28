@@ -1,0 +1,18 @@
+{
+  "id": "boggsbridge_6583,101,9737",
+  "name": "boggsbridge",
+  "icon": "waypoint-normal.png",
+  "x": 6583,
+  "y": 101,
+  "z": 9737,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

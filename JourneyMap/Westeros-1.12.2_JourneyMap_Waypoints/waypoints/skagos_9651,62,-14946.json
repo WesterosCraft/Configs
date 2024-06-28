@@ -1,0 +1,18 @@
+{
+  "id": "skagos_9651,62,-14946",
+  "name": "skagos",
+  "icon": "waypoint-normal.png",
+  "x": 9651,
+  "y": 62,
+  "z": -14946,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

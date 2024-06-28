@@ -1,0 +1,18 @@
+{
+  "id": "hhhamlet1_5137,37,3613",
+  "name": "hhhamlet1",
+  "icon": "waypoint-normal.png",
+  "x": 5137,
+  "y": 37,
+  "z": 3613,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

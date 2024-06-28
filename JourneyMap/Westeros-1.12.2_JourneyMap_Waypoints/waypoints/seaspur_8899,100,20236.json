@@ -1,0 +1,18 @@
+{
+  "id": "seaspur_8899,100,20236",
+  "name": "seaspur",
+  "icon": "waypoint-normal.png",
+  "x": 8899,
+  "y": 100,
+  "z": 20236,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

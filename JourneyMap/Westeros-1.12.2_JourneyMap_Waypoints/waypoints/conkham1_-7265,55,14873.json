@@ -1,0 +1,18 @@
+{
+  "id": "conkham1_-7265,55,14873",
+  "name": "conkham1",
+  "icon": "waypoint-normal.png",
+  "x": -7265,
+  "y": 55,
+  "z": 14873,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

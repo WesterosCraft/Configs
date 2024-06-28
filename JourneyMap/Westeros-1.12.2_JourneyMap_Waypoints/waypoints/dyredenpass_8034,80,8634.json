@@ -1,0 +1,18 @@
+{
+  "id": "dyredenpass_8034,80,8634",
+  "name": "dyredenpass",
+  "icon": "waypoint-normal.png",
+  "x": 8034,
+  "y": 80,
+  "z": 8634,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

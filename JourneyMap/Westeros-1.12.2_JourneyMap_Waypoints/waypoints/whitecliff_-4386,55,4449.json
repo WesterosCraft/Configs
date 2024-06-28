@@ -1,0 +1,18 @@
+{
+  "id": "whitecliff_-4386,55,4449",
+  "name": "whitecliff",
+  "icon": "waypoint-normal.png",
+  "x": -4386,
+  "y": 55,
+  "z": 4449,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

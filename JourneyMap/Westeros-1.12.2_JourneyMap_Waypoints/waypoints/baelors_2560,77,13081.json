@@ -1,0 +1,18 @@
+{
+  "id": "baelors_2560,77,13081",
+  "name": "baelors",
+  "icon": "waypoint-normal.png",
+  "x": 2560,
+  "y": 77,
+  "z": 13081,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

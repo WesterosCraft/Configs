@@ -1,0 +1,18 @@
+{
+  "id": "whispers_8823,67,8847",
+  "name": "whispers",
+  "icon": "waypoint-normal.png",
+  "x": 8823,
+  "y": 67,
+  "z": 8847,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

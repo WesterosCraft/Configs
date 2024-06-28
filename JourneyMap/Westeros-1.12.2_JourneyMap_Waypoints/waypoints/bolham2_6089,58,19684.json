@@ -1,0 +1,18 @@
+{
+  "id": "bolham2_6089,58,19684",
+  "name": "bolham2",
+  "icon": "waypoint-normal.png",
+  "x": 6089,
+  "y": 58,
+  "z": 19684,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

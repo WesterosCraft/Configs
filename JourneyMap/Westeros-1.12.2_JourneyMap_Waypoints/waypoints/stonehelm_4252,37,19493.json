@@ -1,0 +1,18 @@
+{
+  "id": "stonehelm_4252,37,19493",
+  "name": "stonehelm",
+  "icon": "waypoint-normal.png",
+  "x": 4252,
+  "y": 37,
+  "z": 19493,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

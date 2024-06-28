@@ -1,0 +1,18 @@
+{
+  "id": "weepingfarm_7468,50,20517",
+  "name": "weepingfarm",
+  "icon": "waypoint-normal.png",
+  "x": 7468,
+  "y": 50,
+  "z": 20517,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

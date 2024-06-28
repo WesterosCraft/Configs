@@ -1,0 +1,18 @@
+{
+  "id": "drox_-6911,48,10031",
+  "name": "drox",
+  "icon": "waypoint-normal.png",
+  "x": -6911,
+  "y": 48,
+  "z": 10031,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

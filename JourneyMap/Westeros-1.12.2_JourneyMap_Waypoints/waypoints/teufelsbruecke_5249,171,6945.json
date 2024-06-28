@@ -1,0 +1,18 @@
+{
+  "id": "teufelsbruecke_5249,171,6945",
+  "name": "teufelsbruecke",
+  "icon": "waypoint-normal.png",
+  "x": 5249,
+  "y": 171,
+  "z": 6945,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

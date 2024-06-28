@@ -1,0 +1,18 @@
+{
+  "id": "wallt_-2900,80,-11514",
+  "name": "wallt",
+  "icon": "waypoint-normal.png",
+  "x": -2900,
+  "y": 80,
+  "z": -11514,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

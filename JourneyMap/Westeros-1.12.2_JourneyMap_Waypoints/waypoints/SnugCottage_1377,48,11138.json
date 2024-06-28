@@ -1,0 +1,18 @@
+{
+  "id": "SnugCottage_1377,48,11138",
+  "name": "SnugCottage",
+  "icon": "waypoint-normal.png",
+  "x": 1377,
+  "y": 48,
+  "z": 11138,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

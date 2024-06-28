@@ -1,0 +1,18 @@
+{
+  "id": "vyprenbrickworks2_-157,43,6064",
+  "name": "vyprenbrickworks2",
+  "icon": "waypoint-normal.png",
+  "x": -157,
+  "y": 43,
+  "z": 6064,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

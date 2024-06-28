@@ -1,0 +1,18 @@
+{
+  "id": "Stonecliff_5842,68,9315",
+  "name": "Stonecliff",
+  "icon": "waypoint-normal.png",
+  "x": 5842,
+  "y": 68,
+  "z": 9315,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

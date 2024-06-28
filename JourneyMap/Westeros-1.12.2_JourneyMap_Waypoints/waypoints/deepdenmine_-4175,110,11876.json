@@ -1,0 +1,18 @@
+{
+  "id": "deepdenmine_-4175,110,11876",
+  "name": "deepdenmine",
+  "icon": "waypoint-normal.png",
+  "x": -4175,
+  "y": 110,
+  "z": 11876,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

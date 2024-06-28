@@ -1,0 +1,18 @@
+{
+  "id": "gvhaml2_1735,85,16325",
+  "name": "gvhaml2",
+  "icon": "waypoint-normal.png",
+  "x": 1735,
+  "y": 85,
+  "z": 16325,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

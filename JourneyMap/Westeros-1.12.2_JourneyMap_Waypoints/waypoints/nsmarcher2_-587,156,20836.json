@@ -1,0 +1,18 @@
+{
+  "id": "nsmarcher2_-587,156,20836",
+  "name": "nsmarcher2",
+  "icon": "waypoint-normal.png",
+  "x": -587,
+  "y": 156,
+  "z": 20836,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

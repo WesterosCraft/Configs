@@ -1,0 +1,18 @@
+{
+  "id": "barbelpoint_4935,49,12824",
+  "name": "barbelpoint",
+  "icon": "waypoint-normal.png",
+  "x": 4935,
+  "y": 49,
+  "z": 12824,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

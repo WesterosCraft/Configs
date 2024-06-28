@@ -1,0 +1,18 @@
+{
+  "id": "hvseptry_-4807,85,11076",
+  "name": "hvseptry",
+  "icon": "waypoint-normal.png",
+  "x": -4807,
+  "y": 85,
+  "z": 11076,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

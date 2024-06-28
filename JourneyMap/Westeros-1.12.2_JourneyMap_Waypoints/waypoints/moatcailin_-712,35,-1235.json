@@ -1,0 +1,18 @@
+{
+  "id": "moatcailin_-712,35,-1235",
+  "name": "moatcailin",
+  "icon": "waypoint-normal.png",
+  "x": -712,
+  "y": 35,
+  "z": -1235,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

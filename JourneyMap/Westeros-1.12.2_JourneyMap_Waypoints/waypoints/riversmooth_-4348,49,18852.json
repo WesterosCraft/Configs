@@ -1,0 +1,18 @@
+{
+  "id": "riversmooth_-4348,49,18852",
+  "name": "riversmooth",
+  "icon": "waypoint-normal.png",
+  "x": -4348,
+  "y": 49,
+  "z": 18852,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

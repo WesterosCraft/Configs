@@ -1,0 +1,18 @@
+{
+  "id": "bbhamlet1_-1111,37,15392",
+  "name": "bbhamlet1",
+  "icon": "waypoint-normal.png",
+  "x": -1111,
+  "y": 37,
+  "z": 15392,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ttquarry_1334,47,14049",
+  "name": "ttquarry",
+  "icon": "waypoint-normal.png",
+  "x": 1334,
+  "y": 47,
+  "z": 14049,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

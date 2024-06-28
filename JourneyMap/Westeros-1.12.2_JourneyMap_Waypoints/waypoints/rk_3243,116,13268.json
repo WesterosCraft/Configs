@@ -1,0 +1,18 @@
+{
+  "id": "rk_3243,116,13268",
+  "name": "rk",
+  "icon": "waypoint-normal.png",
+  "x": 3243,
+  "y": 116,
+  "z": 13268,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

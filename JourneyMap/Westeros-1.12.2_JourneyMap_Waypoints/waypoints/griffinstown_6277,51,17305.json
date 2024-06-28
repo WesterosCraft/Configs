@@ -1,0 +1,18 @@
+{
+  "id": "griffinstown_6277,51,17305",
+  "name": "griffinstown",
+  "icon": "waypoint-normal.png",
+  "x": 6277,
+  "y": 51,
+  "z": 17305,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

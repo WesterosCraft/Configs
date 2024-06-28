@@ -1,0 +1,18 @@
+{
+  "id": "bollogging1_6730,89,19282",
+  "name": "bollogging1",
+  "icon": "waypoint-normal.png",
+  "x": 6730,
+  "y": 89,
+  "z": 19282,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

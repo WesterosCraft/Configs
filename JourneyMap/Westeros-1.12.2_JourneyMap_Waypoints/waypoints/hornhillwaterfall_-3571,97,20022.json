@@ -1,0 +1,18 @@
+{
+  "id": "hornhillwaterfall_-3571,97,20022",
+  "name": "hornhillwaterfall",
+  "icon": "waypoint-normal.png",
+  "x": -3571,
+  "y": 97,
+  "z": 20022,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

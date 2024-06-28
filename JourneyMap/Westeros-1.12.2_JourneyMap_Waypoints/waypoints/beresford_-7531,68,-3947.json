@@ -1,0 +1,18 @@
+{
+  "id": "beresford_-7531,68,-3947",
+  "name": "beresford",
+  "icon": "waypoint-normal.png",
+  "x": -7531,
+  "y": 68,
+  "z": -3947,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sfhamlet7_-4899,55,25816",
+  "name": "sfhamlet7",
+  "icon": "waypoint-normal.png",
+  "x": -4899,
+  "y": 55,
+  "z": 25816,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

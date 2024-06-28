@@ -1,0 +1,18 @@
+{
+  "id": "brindlewood_2569,48,11976",
+  "name": "brindlewood",
+  "icon": "waypoint-normal.png",
+  "x": 2569,
+  "y": 48,
+  "z": 11976,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

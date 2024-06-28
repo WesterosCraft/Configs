@@ -1,0 +1,18 @@
+{
+  "id": "strangersept_3077,51,12909",
+  "name": "strangersept",
+  "icon": "waypoint-normal.png",
+  "x": 3077,
+  "y": 51,
+  "z": 12909,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

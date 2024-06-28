@@ -1,0 +1,18 @@
+{
+  "id": "silverhall_-4336,116,13607",
+  "name": "silverhall",
+  "icon": "waypoint-normal.png",
+  "x": -4336,
+  "y": 116,
+  "z": 13607,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

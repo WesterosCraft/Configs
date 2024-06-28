@@ -1,0 +1,18 @@
+{
+  "id": "hwbanditcamp_3199,50,-7752",
+  "name": "hwbanditcamp",
+  "icon": "waypoint-normal.png",
+  "x": 3199,
+  "y": 50,
+  "z": -7752,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

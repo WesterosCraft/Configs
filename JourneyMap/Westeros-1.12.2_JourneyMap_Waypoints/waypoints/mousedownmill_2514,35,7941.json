@@ -1,0 +1,18 @@
+{
+  "id": "mousedownmill_2514,35,7941",
+  "name": "mousedownmill",
+  "icon": "waypoint-normal.png",
+  "x": 2514,
+  "y": 35,
+  "z": 7941,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

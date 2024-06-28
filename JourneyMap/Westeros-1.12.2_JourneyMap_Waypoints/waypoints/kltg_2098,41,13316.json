@@ -1,0 +1,18 @@
+{
+  "id": "kltg_2098,41,13316",
+  "name": "kltg",
+  "icon": "waypoint-normal.png",
+  "x": 2098,
+  "y": 41,
+  "z": 13316,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

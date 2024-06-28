@@ -1,0 +1,18 @@
+{
+  "id": "longtable_-1491,114,16726",
+  "name": "longtable",
+  "icon": "waypoint-normal.png",
+  "x": -1491,
+  "y": 114,
+  "z": 16726,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

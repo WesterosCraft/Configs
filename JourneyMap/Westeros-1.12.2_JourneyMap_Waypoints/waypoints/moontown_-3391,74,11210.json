@@ -1,0 +1,18 @@
+{
+  "id": "moontown_-3391,74,11210",
+  "name": "moontown",
+  "icon": "waypoint-normal.png",
+  "x": -3391,
+  "y": 74,
+  "z": 11210,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "whiteharbour_2044,39,-2388",
+  "name": "whiteharbour",
+  "icon": "waypoint-normal.png",
+  "x": 2044,
+  "y": 39,
+  "z": -2388,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

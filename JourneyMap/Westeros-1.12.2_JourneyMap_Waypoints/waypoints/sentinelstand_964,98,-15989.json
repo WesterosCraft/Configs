@@ -1,0 +1,18 @@
+{
+  "id": "sentinelstand_964,98,-15989",
+  "name": "sentinelstand",
+  "icon": "waypoint-normal.png",
+  "x": 964,
+  "y": 98,
+  "z": -15989,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

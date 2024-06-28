@@ -1,0 +1,18 @@
+{
+  "id": "rivercrossing_-7243,35,-5950",
+  "name": "rivercrossing",
+  "icon": "waypoint-normal.png",
+  "x": -7243,
+  "y": 35,
+  "z": -5950,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

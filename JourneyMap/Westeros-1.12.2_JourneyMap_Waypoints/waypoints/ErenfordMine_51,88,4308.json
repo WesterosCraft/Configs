@@ -1,0 +1,18 @@
+{
+  "id": "ErenfordMine_51,88,4308",
+  "name": "ErenfordMine",
+  "icon": "waypoint-normal.png",
+  "x": 51,
+  "y": 88,
+  "z": 4308,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

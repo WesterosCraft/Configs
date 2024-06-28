@@ -1,0 +1,18 @@
+{
+  "id": "sppeachfarm_-3000,58,19047",
+  "name": "sppeachfarm",
+  "icon": "waypoint-normal.png",
+  "x": -3000,
+  "y": 58,
+  "z": 19047,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

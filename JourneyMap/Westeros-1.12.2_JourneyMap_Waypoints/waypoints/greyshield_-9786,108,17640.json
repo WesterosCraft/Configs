@@ -1,0 +1,18 @@
+{
+  "id": "greyshield_-9786,108,17640",
+  "name": "greyshield",
+  "icon": "waypoint-normal.png",
+  "x": -9786,
+  "y": 108,
+  "z": 17640,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

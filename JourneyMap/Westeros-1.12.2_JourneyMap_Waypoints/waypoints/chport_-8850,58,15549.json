@@ -1,0 +1,18 @@
+{
+  "id": "chport_-8850,58,15549",
+  "name": "chport",
+  "icon": "waypoint-normal.png",
+  "x": -8850,
+  "y": 58,
+  "z": 15549,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

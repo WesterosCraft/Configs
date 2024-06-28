@@ -1,0 +1,18 @@
+{
+  "id": "HuntHoldFast_-5658,120,21012",
+  "name": "HuntHoldFast",
+  "icon": "waypoint-normal.png",
+  "x": -5658,
+  "y": 120,
+  "z": 21012,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

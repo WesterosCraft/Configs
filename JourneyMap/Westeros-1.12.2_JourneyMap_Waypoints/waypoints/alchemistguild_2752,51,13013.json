@@ -1,0 +1,18 @@
+{
+  "id": "alchemistguild_2752,51,13013",
+  "name": "alchemistguild",
+  "icon": "waypoint-normal.png",
+  "x": 2752,
+  "y": 51,
+  "z": 13013,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

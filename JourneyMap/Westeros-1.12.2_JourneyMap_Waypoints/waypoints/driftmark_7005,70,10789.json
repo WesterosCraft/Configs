@@ -1,0 +1,18 @@
+{
+  "id": "driftmark_7005,70,10789",
+  "name": "driftmark",
+  "icon": "waypoint-normal.png",
+  "x": 7005,
+  "y": 70,
+  "z": 10789,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

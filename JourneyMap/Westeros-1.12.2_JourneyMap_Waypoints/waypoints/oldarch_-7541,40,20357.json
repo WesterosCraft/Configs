@@ -1,0 +1,18 @@
+{
+  "id": "oldarch_-7541,40,20357",
+  "name": "oldarch",
+  "icon": "waypoint-normal.png",
+  "x": -7541,
+  "y": 40,
+  "z": 20357,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Pyle_3188,50,11765",
+  "name": "Pyle",
+  "icon": "waypoint-normal.png",
+  "x": 3188,
+  "y": 50,
+  "z": 11765,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

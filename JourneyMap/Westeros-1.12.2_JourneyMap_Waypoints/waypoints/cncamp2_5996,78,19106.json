@@ -1,0 +1,18 @@
+{
+  "id": "cncamp2_5996,78,19106",
+  "name": "cncamp2",
+  "icon": "waypoint-normal.png",
+  "x": 5996,
+  "y": 78,
+  "z": 19106,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

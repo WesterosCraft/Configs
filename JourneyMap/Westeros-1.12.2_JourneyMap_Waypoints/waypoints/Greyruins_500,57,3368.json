@@ -1,0 +1,18 @@
+{
+  "id": "Greyruins_500,57,3368",
+  "name": "Greyruins",
+  "icon": "waypoint-normal.png",
+  "x": 500,
+  "y": 57,
+  "z": 3368,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

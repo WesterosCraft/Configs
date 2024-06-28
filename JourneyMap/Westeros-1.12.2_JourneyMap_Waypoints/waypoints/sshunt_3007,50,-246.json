@@ -1,0 +1,18 @@
+{
+  "id": "sshunt_3007,50,-246",
+  "name": "sshunt",
+  "icon": "waypoint-normal.png",
+  "x": 3007,
+  "y": 50,
+  "z": -246,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

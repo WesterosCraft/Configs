@@ -1,0 +1,18 @@
+{
+  "id": "ladybrightold_10061,44,23656",
+  "name": "ladybrightold",
+  "icon": "waypoint-normal.png",
+  "x": 10061,
+  "y": 44,
+  "z": 23656,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

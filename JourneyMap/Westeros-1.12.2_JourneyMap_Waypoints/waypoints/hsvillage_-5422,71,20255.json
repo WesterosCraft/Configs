@@ -1,0 +1,18 @@
+{
+  "id": "hsvillage_-5422,71,20255",
+  "name": "hsvillage",
+  "icon": "waypoint-normal.png",
+  "x": -5422,
+  "y": 71,
+  "z": 20255,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

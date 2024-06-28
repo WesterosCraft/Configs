@@ -1,0 +1,18 @@
+{
+  "id": "ahholdfast1_-1751,52,9892",
+  "name": "ahholdfast1",
+  "icon": "waypoint-normal.png",
+  "x": -1751,
+  "y": 52,
+  "z": 9892,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "harvesthhm1_34,117,19239",
+  "name": "harvesthhm1",
+  "icon": "waypoint-normal.png",
+  "x": 34,
+  "y": 117,
+  "z": 19239,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

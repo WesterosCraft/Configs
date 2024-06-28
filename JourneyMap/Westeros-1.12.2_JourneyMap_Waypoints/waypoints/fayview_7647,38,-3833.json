@@ -1,0 +1,18 @@
+{
+  "id": "fayview_7647,38,-3833",
+  "name": "fayview",
+  "icon": "waypoint-normal.png",
+  "x": 7647,
+  "y": 38,
+  "z": -3833,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

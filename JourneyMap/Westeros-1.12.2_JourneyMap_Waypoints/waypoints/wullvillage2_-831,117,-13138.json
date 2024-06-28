@@ -1,0 +1,18 @@
+{
+  "id": "wullvillage2_-831,117,-13138",
+  "name": "wullvillage2",
+  "icon": "waypoint-normal.png",
+  "x": -831,
+  "y": 117,
+  "z": -13138,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

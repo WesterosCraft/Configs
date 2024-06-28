@@ -1,0 +1,18 @@
+{
+  "id": "malleryhf1_4330,40,11422",
+  "name": "malleryhf1",
+  "icon": "waypoint-normal.png",
+  "x": 4330,
+  "y": 40,
+  "z": 11422,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

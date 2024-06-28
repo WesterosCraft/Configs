@@ -1,0 +1,18 @@
+{
+  "id": "mistcave4_7365,55,19570",
+  "name": "mistcave4",
+  "icon": "waypoint-normal.png",
+  "x": 7365,
+  "y": 55,
+  "z": 19570,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

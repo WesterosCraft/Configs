@@ -1,0 +1,18 @@
+{
+  "id": "fmpro3_-734,39,6036",
+  "name": "fmpro3",
+  "icon": "waypoint-normal.png",
+  "x": -734,
+  "y": 39,
+  "z": 6036,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

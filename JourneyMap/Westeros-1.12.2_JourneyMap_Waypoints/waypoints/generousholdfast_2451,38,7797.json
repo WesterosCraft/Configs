@@ -1,0 +1,18 @@
+{
+  "id": "generousholdfast_2451,38,7797",
+  "name": "generousholdfast",
+  "icon": "waypoint-normal.png",
+  "x": 2451,
+  "y": 38,
+  "z": 7797,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

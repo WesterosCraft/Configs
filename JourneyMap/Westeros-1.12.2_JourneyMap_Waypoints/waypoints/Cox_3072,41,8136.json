@@ -1,0 +1,18 @@
+{
+  "id": "Cox_3072,41,8136",
+  "name": "Cox",
+  "icon": "waypoint-normal.png",
+  "x": 3072,
+  "y": 41,
+  "z": 8136,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

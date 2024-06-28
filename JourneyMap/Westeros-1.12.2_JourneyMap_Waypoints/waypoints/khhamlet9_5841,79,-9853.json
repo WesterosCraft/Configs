@@ -1,0 +1,18 @@
+{
+  "id": "khhamlet9_5841,79,-9853",
+  "name": "khhamlet9",
+  "icon": "waypoint-normal.png",
+  "x": 5841,
+  "y": 79,
+  "z": -9853,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

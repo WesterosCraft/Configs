@@ -1,0 +1,18 @@
+{
+  "id": "roxtonvillage_-7699,108,18870",
+  "name": "roxtonvillage",
+  "icon": "waypoint-normal.png",
+  "x": -7699,
+  "y": 108,
+  "z": 18870,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "condonhf1_-132,35,-6434",
+  "name": "condonhf1",
+  "icon": "waypoint-normal.png",
+  "x": -132,
+  "y": 35,
+  "z": -6434,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

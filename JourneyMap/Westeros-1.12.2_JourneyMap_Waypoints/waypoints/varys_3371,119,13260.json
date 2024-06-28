@@ -1,0 +1,18 @@
+{
+  "id": "varys_3371,119,13260",
+  "name": "varys",
+  "icon": "waypoint-normal.png",
+  "x": 3371,
+  "y": 119,
+  "z": 13260,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

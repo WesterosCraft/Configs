@@ -1,0 +1,18 @@
+{
+  "id": "littlefingerbrothel_2973,47,13389",
+  "name": "littlefingerbrothel",
+  "icon": "waypoint-normal.png",
+  "x": 2973,
+  "y": 47,
+  "z": 13389,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

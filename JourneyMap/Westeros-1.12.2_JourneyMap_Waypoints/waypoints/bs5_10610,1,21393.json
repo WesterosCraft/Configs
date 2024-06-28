@@ -1,0 +1,18 @@
+{
+  "id": "bs5_10610,1,21393",
+  "name": "bs5",
+  "icon": "waypoint-normal.png",
+  "x": 10610,
+  "y": 1,
+  "z": 21393,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

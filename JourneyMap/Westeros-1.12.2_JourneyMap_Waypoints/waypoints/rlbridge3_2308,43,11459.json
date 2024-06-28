@@ -1,0 +1,18 @@
+{
+  "id": "rlbridge3_2308,43,11459",
+  "name": "rlbridge3",
+  "icon": "waypoint-normal.png",
+  "x": 2308,
+  "y": 43,
+  "z": 11459,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "lollistonh1_1583,46,7105",
+  "name": "lollistonh1",
+  "icon": "waypoint-normal.png",
+  "x": 1583,
+  "y": 46,
+  "z": 7105,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

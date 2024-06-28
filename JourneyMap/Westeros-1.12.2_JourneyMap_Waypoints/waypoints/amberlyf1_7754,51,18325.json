@@ -1,0 +1,18 @@
+{
+  "id": "amberlyf1_7754,51,18325",
+  "name": "amberlyf1",
+  "icon": "waypoint-normal.png",
+  "x": 7754,
+  "y": 51,
+  "z": 18325,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

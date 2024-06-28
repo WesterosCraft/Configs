@@ -1,0 +1,18 @@
+{
+  "id": "ofhf1_-5440,79,19770",
+  "name": "ofhf1",
+  "icon": "waypoint-normal.png",
+  "x": -5440,
+  "y": 79,
+  "z": 19770,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "dyrwood_8275,85,8407",
+  "name": "dyrwood",
+  "icon": "waypoint-normal.png",
+  "x": 8275,
+  "y": 85,
+  "z": 8407,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

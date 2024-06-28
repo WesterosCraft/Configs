@@ -1,0 +1,18 @@
+{
+  "id": "nshamlet1_1993,50,3615",
+  "name": "nshamlet1",
+  "icon": "waypoint-normal.png",
+  "x": 1993,
+  "y": 50,
+  "z": 3615,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

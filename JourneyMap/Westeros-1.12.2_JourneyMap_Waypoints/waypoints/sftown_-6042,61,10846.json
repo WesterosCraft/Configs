@@ -1,0 +1,18 @@
+{
+  "id": "sftown_-6042,61,10846",
+  "name": "sftown",
+  "icon": "waypoint-normal.png",
+  "x": -6042,
+  "y": 61,
+  "z": 10846,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

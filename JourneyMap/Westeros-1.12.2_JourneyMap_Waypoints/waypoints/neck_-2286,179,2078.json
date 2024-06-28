@@ -1,0 +1,18 @@
+{
+  "id": "neck_-2286,179,2078",
+  "name": "neck",
+  "icon": "waypoint-normal.png",
+  "x": -2286,
+  "y": 179,
+  "z": 2078,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

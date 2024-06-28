@@ -1,0 +1,18 @@
+{
+  "id": "Harlenton_-4594,50,18751",
+  "name": "Harlenton",
+  "icon": "waypoint-normal.png",
+  "x": -4594,
+  "y": 50,
+  "z": 18751,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

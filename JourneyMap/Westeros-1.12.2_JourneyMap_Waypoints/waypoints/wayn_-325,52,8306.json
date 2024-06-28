@@ -1,0 +1,18 @@
+{
+  "id": "wayn_-325,52,8306",
+  "name": "wayn",
+  "icon": "waypoint-normal.png",
+  "x": -325,
+  "y": 52,
+  "z": 8306,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

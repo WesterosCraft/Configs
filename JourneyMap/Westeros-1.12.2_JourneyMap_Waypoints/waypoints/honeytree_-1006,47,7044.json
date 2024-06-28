@@ -1,0 +1,18 @@
+{
+  "id": "honeytree_-1006,47,7044",
+  "name": "honeytree",
+  "icon": "waypoint-normal.png",
+  "x": -1006,
+  "y": 47,
+  "z": 7044,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

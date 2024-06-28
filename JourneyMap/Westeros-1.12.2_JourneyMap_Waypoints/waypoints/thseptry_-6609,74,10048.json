@@ -1,0 +1,18 @@
+{
+  "id": "thseptry_-6609,74,10048",
+  "name": "thseptry",
+  "icon": "waypoint-normal.png",
+  "x": -6609,
+  "y": 74,
+  "z": 10048,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "moorebeacon1_9490,37,2861",
+  "name": "moorebeacon1",
+  "icon": "waypoint-normal.png",
+  "x": 9490,
+  "y": 37,
+  "z": 2861,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

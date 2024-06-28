@@ -1,0 +1,18 @@
+{
+  "id": "oldlorch_-3907,79,8514",
+  "name": "oldlorch",
+  "icon": "waypoint-normal.png",
+  "x": -3907,
+  "y": 79,
+  "z": 8514,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "musgood_3304,124,17526",
+  "name": "musgood",
+  "icon": "waypoint-normal.png",
+  "x": 3304,
+  "y": 124,
+  "z": 17526,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

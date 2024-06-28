@@ -1,0 +1,18 @@
+{
+  "id": "feldeffen_-1638,62,10641",
+  "name": "feldeffen",
+  "icon": "waypoint-normal.png",
+  "x": -1638,
+  "y": 62,
+  "z": 10641,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

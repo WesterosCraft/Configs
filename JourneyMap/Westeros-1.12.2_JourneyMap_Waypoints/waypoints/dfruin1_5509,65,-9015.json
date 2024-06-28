@@ -1,0 +1,18 @@
+{
+  "id": "dfruin1_5509,65,-9015",
+  "name": "dfruin1",
+  "icon": "waypoint-normal.png",
+  "x": 5509,
+  "y": 65,
+  "z": -9015,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

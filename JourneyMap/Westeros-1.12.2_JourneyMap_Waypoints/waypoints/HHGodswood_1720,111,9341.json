@@ -1,0 +1,18 @@
+{
+  "id": "HHGodswood_1720,111,9341",
+  "name": "HHGodswood",
+  "icon": "waypoint-normal.png",
+  "x": 1720,
+  "y": 111,
+  "z": 9341,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "CrossedElms_1017,36,9477",
+  "name": "CrossedElms",
+  "icon": "waypoint-normal.png",
+  "x": 1017,
+  "y": 36,
+  "z": 9477,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

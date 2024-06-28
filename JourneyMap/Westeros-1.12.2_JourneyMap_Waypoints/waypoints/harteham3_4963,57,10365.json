@@ -1,0 +1,18 @@
+{
+  "id": "harteham3_4963,57,10365",
+  "name": "harteham3",
+  "icon": "waypoint-normal.png",
+  "x": 4963,
+  "y": 57,
+  "z": 10365,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

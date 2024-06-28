@@ -1,0 +1,18 @@
+{
+  "id": "khfcsh47_7349,50,-8186",
+  "name": "khfcsh47",
+  "icon": "waypoint-normal.png",
+  "x": 7349,
+  "y": 50,
+  "z": -8186,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

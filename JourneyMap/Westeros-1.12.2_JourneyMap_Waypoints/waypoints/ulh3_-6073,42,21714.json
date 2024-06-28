@@ -1,0 +1,18 @@
+{
+  "id": "ulh3_-6073,42,21714",
+  "name": "ulh3",
+  "icon": "waypoint-normal.png",
+  "x": -6073,
+  "y": 42,
+  "z": 21714,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "otnorthernfirewood_-8960,52,21679",
+  "name": "otnorthernfirewood",
+  "icon": "waypoint-normal.png",
+  "x": -8960,
+  "y": 52,
+  "z": 21679,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

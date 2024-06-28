@@ -1,0 +1,18 @@
+{
+  "id": "northshore_5915,35,-14",
+  "name": "northshore",
+  "icon": "waypoint-normal.png",
+  "x": 5915,
+  "y": 35,
+  "z": -14,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

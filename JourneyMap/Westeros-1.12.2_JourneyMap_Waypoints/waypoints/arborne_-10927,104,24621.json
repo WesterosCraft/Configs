@@ -1,0 +1,18 @@
+{
+  "id": "arborne_-10927,104,24621",
+  "name": "arborne",
+  "icon": "waypoint-normal.png",
+  "x": -10927,
+  "y": 104,
+  "z": 24621,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

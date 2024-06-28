@@ -1,0 +1,18 @@
+{
+  "id": "oldgate_2903,43,12618",
+  "name": "oldgate",
+  "icon": "waypoint-normal.png",
+  "x": 2903,
+  "y": 43,
+  "z": 12618,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

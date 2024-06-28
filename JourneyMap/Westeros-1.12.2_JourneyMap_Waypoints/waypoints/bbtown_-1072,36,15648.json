@@ -1,0 +1,18 @@
+{
+  "id": "bbtown_-1072,36,15648",
+  "name": "bbtown",
+  "icon": "waypoint-normal.png",
+  "x": -1072,
+  "y": 36,
+  "z": 15648,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

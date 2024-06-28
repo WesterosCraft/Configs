@@ -1,0 +1,18 @@
+{
+  "id": "spham1_-6225,45,7829",
+  "name": "spham1",
+  "icon": "waypoint-normal.png",
+  "x": -6225,
+  "y": 45,
+  "z": 7829,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

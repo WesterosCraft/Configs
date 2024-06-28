@@ -1,0 +1,18 @@
+{
+  "id": "reeve_3381,45,10258",
+  "name": "reeve",
+  "icon": "waypoint-normal.png",
+  "x": 3381,
+  "y": 45,
+  "z": 10258,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

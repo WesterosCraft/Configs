@@ -1,0 +1,18 @@
+{
+  "id": "ladybright_-3043,49,26450",
+  "name": "ladybright",
+  "icon": "waypoint-normal.png",
+  "x": -3043,
+  "y": 49,
+  "z": 26450,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

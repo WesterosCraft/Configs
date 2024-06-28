@@ -1,0 +1,18 @@
+{
+  "id": "starpikehf1_-3422,59,19360",
+  "name": "starpikehf1",
+  "icon": "waypoint-normal.png",
+  "x": -3422,
+  "y": 59,
+  "z": 19360,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "bucklerbay_-7390,37,17109",
+  "name": "bucklerbay",
+  "icon": "waypoint-normal.png",
+  "x": -7390,
+  "y": 37,
+  "z": 17109,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

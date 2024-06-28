@@ -1,0 +1,18 @@
+{
+  "id": "silverhill_-4502,217,13606",
+  "name": "silverhill",
+  "icon": "waypoint-normal.png",
+  "x": -4502,
+  "y": 217,
+  "z": 13606,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

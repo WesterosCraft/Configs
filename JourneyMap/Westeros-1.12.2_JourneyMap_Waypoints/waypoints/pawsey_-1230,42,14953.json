@@ -1,0 +1,18 @@
+{
+  "id": "pawsey_-1230,42,14953",
+  "name": "pawsey",
+  "icon": "waypoint-normal.png",
+  "x": -1230,
+  "y": 42,
+  "z": 14953,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

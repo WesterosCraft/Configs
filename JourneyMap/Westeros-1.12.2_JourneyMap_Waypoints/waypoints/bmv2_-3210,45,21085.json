@@ -1,0 +1,18 @@
+{
+  "id": "bmv2_-3210,45,21085",
+  "name": "bmv2",
+  "icon": "waypoint-normal.png",
+  "x": -3210,
+  "y": 45,
+  "z": 21085,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

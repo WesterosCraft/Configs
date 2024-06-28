@@ -1,0 +1,18 @@
+{
+  "id": "wfmills_-1347,96,-8212",
+  "name": "wfmills",
+  "icon": "waypoint-normal.png",
+  "x": -1347,
+  "y": 96,
+  "z": -8212,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

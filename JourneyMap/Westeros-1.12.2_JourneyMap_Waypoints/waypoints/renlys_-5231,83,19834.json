@@ -1,0 +1,18 @@
+{
+  "id": "renlys_-5231,83,19834",
+  "name": "renlys",
+  "icon": "waypoint-normal.png",
+  "x": -5231,
+  "y": 83,
+  "z": 19834,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

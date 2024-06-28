@@ -1,0 +1,18 @@
+{
+  "id": "karhold_7562,91,-11041",
+  "name": "karhold",
+  "icon": "waypoint-normal.png",
+  "x": 7562,
+  "y": 91,
+  "z": -11041,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

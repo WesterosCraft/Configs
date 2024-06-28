@@ -1,0 +1,18 @@
+{
+  "id": "gaunt_3481,43,11429",
+  "name": "gaunt",
+  "icon": "waypoint-normal.png",
+  "x": 3481,
+  "y": 43,
+  "z": 11429,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

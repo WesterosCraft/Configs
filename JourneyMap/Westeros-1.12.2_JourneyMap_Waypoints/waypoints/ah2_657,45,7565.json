@@ -1,0 +1,18 @@
+{
+  "id": "ah2_657,45,7565",
+  "name": "ah2",
+  "icon": "waypoint-normal.png",
+  "x": 657,
+  "y": 45,
+  "z": 7565,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

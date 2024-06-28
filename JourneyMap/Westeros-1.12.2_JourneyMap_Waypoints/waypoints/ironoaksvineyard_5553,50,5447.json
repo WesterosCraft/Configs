@@ -1,0 +1,18 @@
+{
+  "id": "ironoaksvineyard_5553,50,5447",
+  "name": "ironoaksvineyard",
+  "icon": "waypoint-normal.png",
+  "x": 5553,
+  "y": 50,
+  "z": 5447,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

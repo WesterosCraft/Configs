@@ -1,0 +1,18 @@
+{
+  "id": "stonyfort_-8539,51,-7736",
+  "name": "stonyfort",
+  "icon": "waypoint-normal.png",
+  "x": -8539,
+  "y": 51,
+  "z": -7736,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "queenscrown_2489,35,-15157",
+  "name": "queenscrown",
+  "icon": "waypoint-normal.png",
+  "x": 2489,
+  "y": 35,
+  "z": -15157,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

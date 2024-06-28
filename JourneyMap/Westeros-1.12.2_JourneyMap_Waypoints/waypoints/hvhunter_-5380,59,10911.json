@@ -1,0 +1,18 @@
+{
+  "id": "hvhunter_-5380,59,10911",
+  "name": "hvhunter",
+  "icon": "waypoint-normal.png",
+  "x": -5380,
+  "y": 59,
+  "z": 10911,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

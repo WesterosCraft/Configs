@@ -1,0 +1,18 @@
+{
+  "id": "wbhold1_-6037,67,17197",
+  "name": "wbhold1",
+  "icon": "waypoint-normal.png",
+  "x": -6037,
+  "y": 67,
+  "z": 17197,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "moorehamlet2_9530,37,3268",
+  "name": "moorehamlet2",
+  "icon": "waypoint-normal.png",
+  "x": 9530,
+  "y": 37,
+  "z": 3268,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

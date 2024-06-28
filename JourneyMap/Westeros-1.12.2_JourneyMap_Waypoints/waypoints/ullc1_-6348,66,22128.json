@@ -1,0 +1,18 @@
+{
+  "id": "ullc1_-6348,66,22128",
+  "name": "ullc1",
+  "icon": "waypoint-normal.png",
+  "x": -6348,
+  "y": 66,
+  "z": 22128,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

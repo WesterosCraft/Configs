@@ -1,0 +1,18 @@
+{
+  "id": "wfcrofters1_-1600,69,-8062",
+  "name": "wfcrofters1",
+  "icon": "waypoint-normal.png",
+  "x": -1600,
+  "y": 69,
+  "z": -8062,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

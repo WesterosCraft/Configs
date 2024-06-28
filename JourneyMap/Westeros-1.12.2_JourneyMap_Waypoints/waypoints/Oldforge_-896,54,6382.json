@@ -1,0 +1,18 @@
+{
+  "id": "Oldforge_-896,54,6382",
+  "name": "Oldforge",
+  "icon": "waypoint-normal.png",
+  "x": -896,
+  "y": 54,
+  "z": 6382,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

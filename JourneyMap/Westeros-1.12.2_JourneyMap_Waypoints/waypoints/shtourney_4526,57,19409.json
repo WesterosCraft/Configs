@@ -1,0 +1,18 @@
+{
+  "id": "shtourney_4526,57,19409",
+  "name": "shtourney",
+  "icon": "waypoint-normal.png",
+  "x": 4526,
+  "y": 57,
+  "z": 19409,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "fwcamp3_5256,42,16293",
+  "name": "fwcamp3",
+  "icon": "waypoint-normal.png",
+  "x": 5256,
+  "y": 42,
+  "z": 16293,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

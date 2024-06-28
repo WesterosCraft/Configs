@@ -1,0 +1,18 @@
+{
+  "id": "goldengallery_-7671,106,11886",
+  "name": "goldengallery",
+  "icon": "waypoint-normal.png",
+  "x": -7671,
+  "y": 106,
+  "z": 11886,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

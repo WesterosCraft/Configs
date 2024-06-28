@@ -1,0 +1,18 @@
+{
+  "id": "blackpool_-451,66,-5307",
+  "name": "blackpool",
+  "icon": "waypoint-normal.png",
+  "x": -451,
+  "y": 66,
+  "z": -5307,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

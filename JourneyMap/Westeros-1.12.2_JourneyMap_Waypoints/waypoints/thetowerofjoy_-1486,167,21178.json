@@ -1,0 +1,18 @@
+{
+  "id": "thetowerofjoy_-1486,167,21178",
+  "name": "thetowerofjoy",
+  "icon": "waypoint-normal.png",
+  "x": -1486,
+  "y": 167,
+  "z": 21178,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

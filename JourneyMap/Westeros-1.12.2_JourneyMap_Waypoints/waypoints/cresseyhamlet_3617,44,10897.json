@@ -1,0 +1,18 @@
+{
+  "id": "cresseyhamlet_3617,44,10897",
+  "name": "cresseyhamlet",
+  "icon": "waypoint-normal.png",
+  "x": 3617,
+  "y": 44,
+  "z": 10897,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

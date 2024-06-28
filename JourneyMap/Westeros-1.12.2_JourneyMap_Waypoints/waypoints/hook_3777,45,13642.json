@@ -1,0 +1,18 @@
+{
+  "id": "hook_3777,45,13642",
+  "name": "hook",
+  "icon": "waypoint-normal.png",
+  "x": 3777,
+  "y": 45,
+  "z": 13642,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

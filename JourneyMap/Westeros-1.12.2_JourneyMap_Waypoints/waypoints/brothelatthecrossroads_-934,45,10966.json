@@ -1,0 +1,18 @@
+{
+  "id": "brothelatthecrossroads_-934,45,10966",
+  "name": "brothelatthecrossroads",
+  "icon": "waypoint-normal.png",
+  "x": -934,
+  "y": 45,
+  "z": 10966,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

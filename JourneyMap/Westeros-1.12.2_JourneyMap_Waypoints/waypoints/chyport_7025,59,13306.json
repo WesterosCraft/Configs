@@ -1,0 +1,18 @@
+{
+  "id": "chyport_7025,59,13306",
+  "name": "chyport",
+  "icon": "waypoint-normal.png",
+  "x": 7025,
+  "y": 59,
+  "z": 13306,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

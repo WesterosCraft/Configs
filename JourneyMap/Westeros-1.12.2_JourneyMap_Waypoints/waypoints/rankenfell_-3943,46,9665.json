@@ -1,0 +1,18 @@
+{
+  "id": "rankenfell_-3943,46,9665",
+  "name": "rankenfell",
+  "icon": "waypoint-normal.png",
+  "x": -3943,
+  "y": 46,
+  "z": 9665,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

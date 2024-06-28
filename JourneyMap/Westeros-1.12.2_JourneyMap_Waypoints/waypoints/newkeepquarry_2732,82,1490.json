@@ -1,0 +1,18 @@
+{
+  "id": "newkeepquarry_2732,82,1490",
+  "name": "newkeepquarry",
+  "icon": "waypoint-normal.png",
+  "x": 2732,
+  "y": 82,
+  "z": 1490,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

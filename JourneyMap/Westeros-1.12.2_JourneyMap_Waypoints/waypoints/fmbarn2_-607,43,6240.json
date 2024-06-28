@@ -1,0 +1,18 @@
+{
+  "id": "fmbarn2_-607,43,6240",
+  "name": "fmbarn2",
+  "icon": "waypoint-normal.png",
+  "x": -607,
+  "y": 43,
+  "z": 6240,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

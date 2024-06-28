@@ -1,0 +1,18 @@
+{
+  "id": "Wydmanhamlet_8470,41,1521",
+  "name": "Wydmanhamlet",
+  "icon": "waypoint-normal.png",
+  "x": 8470,
+  "y": 41,
+  "z": 1521,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

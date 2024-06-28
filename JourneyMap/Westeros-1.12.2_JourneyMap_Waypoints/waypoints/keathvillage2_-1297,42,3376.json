@@ -1,0 +1,18 @@
+{
+  "id": "keathvillage2_-1297,42,3376",
+  "name": "keathvillage2",
+  "icon": "waypoint-normal.png",
+  "x": -1297,
+  "y": 42,
+  "z": 3376,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

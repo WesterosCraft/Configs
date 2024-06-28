@@ -1,0 +1,18 @@
+{
+  "id": "HollowHill_-2410,74,11288",
+  "name": "HollowHill",
+  "icon": "waypoint-normal.png",
+  "x": -2410,
+  "y": 74,
+  "z": 11288,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

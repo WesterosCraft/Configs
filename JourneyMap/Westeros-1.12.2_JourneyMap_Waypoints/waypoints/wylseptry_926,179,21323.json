@@ -1,0 +1,18 @@
+{
+  "id": "wylseptry_926,179,21323",
+  "name": "wylseptry",
+  "icon": "waypoint-normal.png",
+  "x": 926,
+  "y": 179,
+  "z": 21323,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

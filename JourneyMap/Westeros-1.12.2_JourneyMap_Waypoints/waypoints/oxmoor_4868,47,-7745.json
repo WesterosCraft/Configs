@@ -1,0 +1,18 @@
+{
+  "id": "oxmoor_4868,47,-7745",
+  "name": "oxmoor",
+  "icon": "waypoint-normal.png",
+  "x": 4868,
+  "y": 47,
+  "z": -7745,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

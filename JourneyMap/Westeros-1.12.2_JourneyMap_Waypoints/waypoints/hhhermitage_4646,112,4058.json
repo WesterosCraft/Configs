@@ -1,0 +1,18 @@
+{
+  "id": "hhhermitage_4646,112,4058",
+  "name": "hhhermitage",
+  "icon": "waypoint-normal.png",
+  "x": 4646,
+  "y": 112,
+  "z": 4058,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

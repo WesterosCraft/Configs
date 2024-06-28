@@ -1,0 +1,18 @@
+{
+  "id": "frostsedge_4668,46,-14093",
+  "name": "frostsedge",
+  "icon": "waypoint-normal.png",
+  "x": 4668,
+  "y": 46,
+  "z": -14093,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

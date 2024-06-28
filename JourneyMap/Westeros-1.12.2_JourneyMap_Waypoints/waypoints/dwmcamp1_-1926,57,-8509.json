@@ -1,0 +1,18 @@
+{
+  "id": "dwmcamp1_-1926,57,-8509",
+  "name": "dwmcamp1",
+  "icon": "waypoint-normal.png",
+  "x": -1926,
+  "y": 57,
+  "z": -8509,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

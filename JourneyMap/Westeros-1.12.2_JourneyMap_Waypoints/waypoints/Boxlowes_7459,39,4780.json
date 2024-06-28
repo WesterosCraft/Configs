@@ -1,0 +1,18 @@
+{
+  "id": "Boxlowes_7459,39,4780",
+  "name": "Boxlowes",
+  "icon": "waypoint-normal.png",
+  "x": 7459,
+  "y": 39,
+  "z": 4780,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

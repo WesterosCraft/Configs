@@ -1,0 +1,18 @@
+{
+  "id": "HayfordFarm3_2047,43,11879",
+  "name": "HayfordFarm3",
+  "icon": "waypoint-normal.png",
+  "x": 2047,
+  "y": 43,
+  "z": 11879,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

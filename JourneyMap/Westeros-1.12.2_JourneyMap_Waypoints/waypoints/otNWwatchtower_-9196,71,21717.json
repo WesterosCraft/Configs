@@ -1,0 +1,18 @@
+{
+  "id": "otNWwatchtower_-9196,71,21717",
+  "name": "otNWwatchtower",
+  "icon": "waypoint-normal.png",
+  "x": -9196,
+  "y": 71,
+  "z": 21717,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

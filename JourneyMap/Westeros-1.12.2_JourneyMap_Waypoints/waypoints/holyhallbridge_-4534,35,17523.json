@@ -1,0 +1,18 @@
+{
+  "id": "holyhallbridge_-4534,35,17523",
+  "name": "holyhallbridge",
+  "icon": "waypoint-normal.png",
+  "x": -4534,
+  "y": 35,
+  "z": 17523,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

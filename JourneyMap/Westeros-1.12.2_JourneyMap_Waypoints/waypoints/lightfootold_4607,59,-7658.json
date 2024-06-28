@@ -1,0 +1,18 @@
+{
+  "id": "lightfootold_4607,59,-7658",
+  "name": "lightfootold",
+  "icon": "waypoint-normal.png",
+  "x": 4607,
+  "y": 59,
+  "z": -7658,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

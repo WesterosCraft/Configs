@@ -1,0 +1,18 @@
+{
+  "id": "oakdale_-3084,60,15078",
+  "name": "oakdale",
+  "icon": "waypoint-normal.png",
+  "x": -3084,
+  "y": 60,
+  "z": 15078,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

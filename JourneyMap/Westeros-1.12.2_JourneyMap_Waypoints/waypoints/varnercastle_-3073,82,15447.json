@@ -1,0 +1,18 @@
+{
+  "id": "varnercastle_-3073,82,15447",
+  "name": "varnercastle",
+  "icon": "waypoint-normal.png",
+  "x": -3073,
+  "y": 82,
+  "z": 15447,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

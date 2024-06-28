@@ -1,0 +1,18 @@
+{
+  "id": "cuy_-6709,50,24996",
+  "name": "cuy",
+  "icon": "waypoint-normal.png",
+  "x": -6709,
+  "y": 50,
+  "z": 24996,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

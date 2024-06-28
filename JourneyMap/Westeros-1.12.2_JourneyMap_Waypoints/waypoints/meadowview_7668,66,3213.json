@@ -1,0 +1,18 @@
+{
+  "id": "meadowview_7668,66,3213",
+  "name": "meadowview",
+  "icon": "waypoint-normal.png",
+  "x": 7668,
+  "y": 66,
+  "z": 3213,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

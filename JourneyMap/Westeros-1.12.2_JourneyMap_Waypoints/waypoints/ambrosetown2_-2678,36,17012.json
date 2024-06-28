@@ -1,0 +1,18 @@
+{
+  "id": "ambrosetown2_-2678,36,17012",
+  "name": "ambrosetown2",
+  "icon": "waypoint-normal.png",
+  "x": -2678,
+  "y": 36,
+  "z": 17012,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

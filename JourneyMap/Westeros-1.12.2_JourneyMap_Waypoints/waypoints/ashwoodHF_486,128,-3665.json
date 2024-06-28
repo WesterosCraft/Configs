@@ -1,0 +1,18 @@
+{
+  "id": "ashwoodHF_486,128,-3665",
+  "name": "ashwoodHF",
+  "icon": "waypoint-normal.png",
+  "x": 486,
+  "y": 128,
+  "z": -3665,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

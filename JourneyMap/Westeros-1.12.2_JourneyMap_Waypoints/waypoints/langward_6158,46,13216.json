@@ -1,0 +1,18 @@
+{
+  "id": "langward_6158,46,13216",
+  "name": "langward",
+  "icon": "waypoint-normal.png",
+  "x": 6158,
+  "y": 46,
+  "z": 13216,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

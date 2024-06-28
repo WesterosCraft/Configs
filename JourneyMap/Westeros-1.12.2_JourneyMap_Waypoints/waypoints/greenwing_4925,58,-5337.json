@@ -1,0 +1,18 @@
+{
+  "id": "greenwing_4925,58,-5337",
+  "name": "greenwing",
+  "icon": "waypoint-normal.png",
+  "x": 4925,
+  "y": 58,
+  "z": -5337,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

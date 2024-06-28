@@ -1,0 +1,18 @@
+{
+  "id": "IsleofFaces_1404,35,9870",
+  "name": "IsleofFaces",
+  "icon": "waypoint-normal.png",
+  "x": 1404,
+  "y": 35,
+  "z": 9870,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

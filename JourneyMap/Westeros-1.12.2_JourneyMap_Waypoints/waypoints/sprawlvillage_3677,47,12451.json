@@ -1,0 +1,18 @@
+{
+  "id": "sprawlvillage_3677,47,12451",
+  "name": "sprawlvillage",
+  "icon": "waypoint-normal.png",
+  "x": 3677,
+  "y": 47,
+  "z": 12451,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

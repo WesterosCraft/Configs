@@ -1,0 +1,18 @@
+{
+  "id": "wayfarersrest_-1603,86,10172",
+  "name": "wayfarersrest",
+  "icon": "waypoint-normal.png",
+  "x": -1603,
+  "y": 86,
+  "z": 10172,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

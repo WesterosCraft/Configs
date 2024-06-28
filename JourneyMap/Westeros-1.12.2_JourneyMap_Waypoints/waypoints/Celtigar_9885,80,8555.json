@@ -1,0 +1,18 @@
+{
+  "id": "Celtigar_9885,80,8555",
+  "name": "Celtigar",
+  "icon": "waypoint-normal.png",
+  "x": 9885,
+  "y": 80,
+  "z": 8555,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

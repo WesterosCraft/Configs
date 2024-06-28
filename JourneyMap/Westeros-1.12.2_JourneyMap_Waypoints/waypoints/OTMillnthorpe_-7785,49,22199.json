@@ -1,0 +1,18 @@
+{
+  "id": "OTMillnthorpe_-7785,49,22199",
+  "name": "OTMillnthorpe",
+  "icon": "waypoint-normal.png",
+  "x": -7785,
+  "y": 49,
+  "z": 22199,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

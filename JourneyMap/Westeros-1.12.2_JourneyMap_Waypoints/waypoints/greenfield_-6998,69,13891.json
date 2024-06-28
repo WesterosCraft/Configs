@@ -1,0 +1,18 @@
+{
+  "id": "greenfield_-6998,69,13891",
+  "name": "greenfield",
+  "icon": "waypoint-normal.png",
+  "x": -6998,
+  "y": 69,
+  "z": 13891,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

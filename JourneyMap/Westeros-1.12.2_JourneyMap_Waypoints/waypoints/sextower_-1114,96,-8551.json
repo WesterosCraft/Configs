@@ -1,0 +1,18 @@
+{
+  "id": "sextower_-1114,96,-8551",
+  "name": "sextower",
+  "icon": "waypoint-normal.png",
+  "x": -1114,
+  "y": 96,
+  "z": -8551,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

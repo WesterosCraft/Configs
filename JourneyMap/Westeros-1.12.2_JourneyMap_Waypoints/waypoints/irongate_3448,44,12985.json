@@ -1,0 +1,18 @@
+{
+  "id": "irongate_3448,44,12985",
+  "name": "irongate",
+  "icon": "waypoint-normal.png",
+  "x": 3448,
+  "y": 44,
+  "z": 12985,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "northpoint_-3411,42,-6481",
+  "name": "northpoint",
+  "icon": "waypoint-normal.png",
+  "x": -3411,
+  "y": 42,
+  "z": -6481,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

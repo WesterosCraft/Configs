@@ -1,0 +1,18 @@
+{
+  "id": "arsenal_-9247,59,25450",
+  "name": "arsenal",
+  "icon": "waypoint-normal.png",
+  "x": -9247,
+  "y": 59,
+  "z": 25450,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

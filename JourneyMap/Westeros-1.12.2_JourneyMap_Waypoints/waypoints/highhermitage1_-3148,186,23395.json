@@ -1,0 +1,18 @@
+{
+  "id": "highhermitage1_-3148,186,23395",
+  "name": "highhermitage1",
+  "icon": "waypoint-normal.png",
+  "x": -3148,
+  "y": 186,
+  "z": 23395,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

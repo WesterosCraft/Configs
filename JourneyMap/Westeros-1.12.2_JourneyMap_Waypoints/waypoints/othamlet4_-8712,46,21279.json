@@ -1,0 +1,18 @@
+{
+  "id": "othamlet4_-8712,46,21279",
+  "name": "othamlet4",
+  "icon": "waypoint-normal.png",
+  "x": -8712,
+  "y": 46,
+  "z": 21279,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

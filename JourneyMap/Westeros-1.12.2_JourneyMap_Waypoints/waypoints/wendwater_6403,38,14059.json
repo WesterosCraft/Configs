@@ -1,0 +1,18 @@
+{
+  "id": "wendwater_6403,38,14059",
+  "name": "wendwater",
+  "icon": "waypoint-normal.png",
+  "x": 6403,
+  "y": 38,
+  "z": 14059,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

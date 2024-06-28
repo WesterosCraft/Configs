@@ -1,0 +1,18 @@
+{
+  "id": "bolling_6577,68,19350",
+  "name": "bolling",
+  "icon": "waypoint-normal.png",
+  "x": 6577,
+  "y": 68,
+  "z": 19350,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

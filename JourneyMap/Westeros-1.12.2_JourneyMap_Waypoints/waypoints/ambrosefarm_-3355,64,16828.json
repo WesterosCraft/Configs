@@ -1,0 +1,18 @@
+{
+  "id": "ambrosefarm_-3355,64,16828",
+  "name": "ambrosefarm",
+  "icon": "waypoint-normal.png",
+  "x": -3355,
+  "y": 64,
+  "z": 16828,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

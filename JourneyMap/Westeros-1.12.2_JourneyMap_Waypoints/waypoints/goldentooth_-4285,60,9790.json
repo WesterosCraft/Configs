@@ -1,0 +1,18 @@
+{
+  "id": "goldentooth_-4285,60,9790",
+  "name": "goldentooth",
+  "icon": "waypoint-normal.png",
+  "x": -4285,
+  "y": 60,
+  "z": 9790,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

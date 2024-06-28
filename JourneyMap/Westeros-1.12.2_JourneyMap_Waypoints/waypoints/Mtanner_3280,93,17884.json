@@ -1,0 +1,18 @@
+{
+  "id": "Mtanner_3280,93,17884",
+  "name": "Mtanner",
+  "icon": "waypoint-normal.png",
+  "x": 3280,
+  "y": 93,
+  "z": 17884,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

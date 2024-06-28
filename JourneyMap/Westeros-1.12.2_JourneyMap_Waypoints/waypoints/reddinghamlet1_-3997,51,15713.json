@@ -1,0 +1,18 @@
+{
+  "id": "reddinghamlet1_-3997,51,15713",
+  "name": "reddinghamlet1",
+  "icon": "waypoint-normal.png",
+  "x": -3997,
+  "y": 51,
+  "z": 15713,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

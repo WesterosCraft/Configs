@@ -1,0 +1,18 @@
+{
+  "id": "mernswood_-2042,44,16205",
+  "name": "mernswood",
+  "icon": "waypoint-normal.png",
+  "x": -2042,
+  "y": 44,
+  "z": 16205,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

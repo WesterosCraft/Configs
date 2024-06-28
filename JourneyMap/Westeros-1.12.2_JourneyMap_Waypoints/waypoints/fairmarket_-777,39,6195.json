@@ -1,0 +1,18 @@
+{
+  "id": "fairmarket_-777,39,6195",
+  "name": "fairmarket",
+  "icon": "waypoint-normal.png",
+  "x": -777,
+  "y": 39,
+  "z": 6195,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

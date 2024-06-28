@@ -1,0 +1,18 @@
+{
+  "id": "dwmhamlet2_-3581,80,-8953",
+  "name": "dwmhamlet2",
+  "icon": "waypoint-normal.png",
+  "x": -3581,
+  "y": 80,
+  "z": -8953,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

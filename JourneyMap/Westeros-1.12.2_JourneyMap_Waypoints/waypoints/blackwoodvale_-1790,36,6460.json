@@ -1,0 +1,18 @@
+{
+  "id": "blackwoodvale_-1790,36,6460",
+  "name": "blackwoodvale",
+  "icon": "waypoint-normal.png",
+  "x": -1790,
+  "y": 36,
+  "z": 6460,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "Pemford_-1813,43,8174",
+  "name": "Pemford",
+  "icon": "waypoint-normal.png",
+  "x": -1813,
+  "y": 43,
+  "z": 8174,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

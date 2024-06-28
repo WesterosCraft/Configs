@@ -1,0 +1,18 @@
+{
+  "id": "cnhamlet3_56,72,-14862",
+  "name": "cnhamlet3",
+  "icon": "waypoint-normal.png",
+  "x": 56,
+  "y": 72,
+  "z": -14862,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

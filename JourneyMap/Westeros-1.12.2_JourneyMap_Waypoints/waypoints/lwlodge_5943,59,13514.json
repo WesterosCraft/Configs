@@ -1,0 +1,18 @@
+{
+  "id": "lwlodge_5943,59,13514",
+  "name": "lwlodge",
+  "icon": "waypoint-normal.png",
+  "x": 5943,
+  "y": 59,
+  "z": 13514,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

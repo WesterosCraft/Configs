@@ -1,0 +1,18 @@
+{
+  "id": "tarthv1_9398,76,16414",
+  "name": "tarthv1",
+  "icon": "waypoint-normal.png",
+  "x": 9398,
+  "y": 76,
+  "z": 16414,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

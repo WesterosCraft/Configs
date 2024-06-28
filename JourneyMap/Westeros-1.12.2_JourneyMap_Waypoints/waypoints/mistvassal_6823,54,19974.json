@@ -1,0 +1,18 @@
+{
+  "id": "mistvassal_6823,54,19974",
+  "name": "mistvassal",
+  "icon": "waypoint-normal.png",
+  "x": 6823,
+  "y": 54,
+  "z": 19974,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

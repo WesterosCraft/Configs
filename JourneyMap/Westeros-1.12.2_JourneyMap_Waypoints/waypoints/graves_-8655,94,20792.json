@@ -1,0 +1,18 @@
+{
+  "id": "graves_-8655,94,20792",
+  "name": "graves",
+  "icon": "waypoint-normal.png",
+  "x": -8655,
+  "y": 94,
+  "z": 20792,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

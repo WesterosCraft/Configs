@@ -1,0 +1,18 @@
+{
+  "id": "wfquarry1_-1426,95,-8344",
+  "name": "wfquarry1",
+  "icon": "waypoint-normal.png",
+  "x": -1426,
+  "y": 95,
+  "z": -8344,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

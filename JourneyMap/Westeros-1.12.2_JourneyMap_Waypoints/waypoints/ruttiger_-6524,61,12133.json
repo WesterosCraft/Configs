@@ -1,0 +1,18 @@
+{
+  "id": "ruttiger_-6524,61,12133",
+  "name": "ruttiger",
+  "icon": "waypoint-normal.png",
+  "x": -6524,
+  "y": 61,
+  "z": 12133,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ironoakshamlet2_5460,35,4989",
+  "name": "ironoakshamlet2",
+  "icon": "waypoint-normal.png",
+  "x": 5460,
+  "y": 35,
+  "z": 4989,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

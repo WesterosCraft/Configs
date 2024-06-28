@@ -1,0 +1,18 @@
+{
+  "id": "lchamlet1_-1424,39,7399",
+  "name": "lchamlet1",
+  "icon": "waypoint-normal.png",
+  "x": -1424,
+  "y": 39,
+  "z": 7399,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "hawthornefarm2_-2203,52,13120",
+  "name": "hawthornefarm2",
+  "icon": "waypoint-normal.png",
+  "x": -2203,
+  "y": 52,
+  "z": 13120,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

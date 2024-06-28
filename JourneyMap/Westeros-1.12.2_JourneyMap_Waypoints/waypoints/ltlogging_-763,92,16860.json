@@ -1,0 +1,18 @@
+{
+  "id": "ltlogging_-763,92,16860",
+  "name": "ltlogging",
+  "icon": "waypoint-normal.png",
+  "x": -763,
+  "y": 92,
+  "z": 16860,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

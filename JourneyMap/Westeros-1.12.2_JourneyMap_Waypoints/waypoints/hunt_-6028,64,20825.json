@@ -1,0 +1,18 @@
+{
+  "id": "hunt_-6028,64,20825",
+  "name": "hunt",
+  "icon": "waypoint-normal.png",
+  "x": -6028,
+  "y": 64,
+  "z": 20825,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

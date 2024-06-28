@@ -1,0 +1,18 @@
+{
+  "id": "WHDocks_1959,40,-2573",
+  "name": "WHDocks",
+  "icon": "waypoint-normal.png",
+  "x": 1959,
+  "y": 40,
+  "z": -2573,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

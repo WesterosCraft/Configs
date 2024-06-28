@@ -1,0 +1,18 @@
+{
+  "id": "norham_7134,61,6939",
+  "name": "norham",
+  "icon": "waypoint-normal.png",
+  "x": 7134,
+  "y": 61,
+  "z": 6939,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

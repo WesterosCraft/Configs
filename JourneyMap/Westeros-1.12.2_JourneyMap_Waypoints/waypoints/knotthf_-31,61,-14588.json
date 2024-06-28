@@ -1,0 +1,18 @@
+{
+  "id": "knotthf_-31,61,-14588",
+  "name": "knotthf",
+  "icon": "waypoint-normal.png",
+  "x": -31,
+  "y": 61,
+  "z": -14588,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

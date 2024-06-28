@@ -1,0 +1,18 @@
+{
+  "id": "VT11_-9354,93,25524",
+  "name": "VT11",
+  "icon": "waypoint-normal.png",
+  "x": -9354,
+  "y": 93,
+  "z": 25524,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "bloodygate_2569,156,6824",
+  "name": "bloodygate",
+  "icon": "waypoint-normal.png",
+  "x": 2569,
+  "y": 156,
+  "z": 6824,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

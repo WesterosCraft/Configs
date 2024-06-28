@@ -1,0 +1,18 @@
+{
+  "id": "poole_-1207,86,-8482",
+  "name": "poole",
+  "icon": "waypoint-normal.png",
+  "x": -1207,
+  "y": 86,
+  "z": -8482,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

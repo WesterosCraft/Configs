@@ -1,0 +1,18 @@
+{
+  "id": "rgfarm_4971,42,-4449",
+  "name": "rgfarm",
+  "icon": "waypoint-normal.png",
+  "x": 4971,
+  "y": 42,
+  "z": -4449,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

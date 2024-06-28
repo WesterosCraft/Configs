@@ -1,0 +1,18 @@
+{
+  "id": "tarrenmure_6451,46,-7198",
+  "name": "tarrenmure",
+  "icon": "waypoint-normal.png",
+  "x": 6451,
+  "y": 46,
+  "z": -7198,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

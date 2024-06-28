@@ -1,0 +1,18 @@
+{
+  "id": "glham3_-5743,76,-6126",
+  "name": "glham3",
+  "icon": "waypoint-normal.png",
+  "x": -5743,
+  "y": 76,
+  "z": -6126,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ufflogging_-5355,62,17886",
+  "name": "ufflogging",
+  "icon": "waypoint-normal.png",
+  "x": -5355,
+  "y": 62,
+  "z": 17886,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

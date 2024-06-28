@@ -1,0 +1,18 @@
+{
+  "id": "watergardens_9135,70,24555",
+  "name": "watergardens",
+  "icon": "waypoint-normal.png",
+  "x": 9135,
+  "y": 70,
+  "z": 24555,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

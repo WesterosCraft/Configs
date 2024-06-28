@@ -1,0 +1,18 @@
+{
+  "id": "briarwhite_2447,44,11464",
+  "name": "briarwhite",
+  "icon": "waypoint-normal.png",
+  "x": 2447,
+  "y": 44,
+  "z": 11464,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

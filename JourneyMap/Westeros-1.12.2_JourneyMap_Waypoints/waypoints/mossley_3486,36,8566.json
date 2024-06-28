@@ -1,0 +1,18 @@
+{
+  "id": "mossley_3486,36,8566",
+  "name": "mossley",
+  "icon": "waypoint-normal.png",
+  "x": 3486,
+  "y": 36,
+  "z": 8566,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

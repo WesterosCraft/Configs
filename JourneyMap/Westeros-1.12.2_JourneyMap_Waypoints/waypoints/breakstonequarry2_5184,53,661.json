@@ -1,0 +1,18 @@
+{
+  "id": "breakstonequarry2_5184,53,661",
+  "name": "breakstonequarry2",
+  "icon": "waypoint-normal.png",
+  "x": 5184,
+  "y": 53,
+  "z": 661,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

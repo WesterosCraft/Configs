@@ -1,0 +1,18 @@
+{
+  "id": "torrhenssquare_-3156,40,-6137",
+  "name": "torrhenssquare",
+  "icon": "waypoint-normal.png",
+  "x": -3156,
+  "y": 40,
+  "z": -6137,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

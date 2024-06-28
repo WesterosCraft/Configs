@@ -1,0 +1,18 @@
+{
+  "id": "vyprenlumbercamp_-377,44,5687",
+  "name": "vyprenlumbercamp",
+  "icon": "waypoint-normal.png",
+  "x": -377,
+  "y": 44,
+  "z": 5687,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

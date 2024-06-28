@@ -1,0 +1,18 @@
+{
+  "id": "norreymine_502,79,-14758",
+  "name": "norreymine",
+  "icon": "waypoint-normal.png",
+  "x": 502,
+  "y": 79,
+  "z": -14758,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

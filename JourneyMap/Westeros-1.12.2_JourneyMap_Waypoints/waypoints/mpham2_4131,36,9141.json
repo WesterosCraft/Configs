@@ -1,0 +1,18 @@
+{
+  "id": "mpham2_4131,36,9141",
+  "name": "mpham2",
+  "icon": "waypoint-normal.png",
+  "x": 4131,
+  "y": 36,
+  "z": 9141,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "jonquilspool_4433,46,9028",
+  "name": "jonquilspool",
+  "icon": "waypoint-normal.png",
+  "x": 4433,
+  "y": 46,
+  "z": 9028,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rivermill_-6095,40,-2751",
+  "name": "rivermill",
+  "icon": "waypoint-normal.png",
+  "x": -6095,
+  "y": 40,
+  "z": -2751,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

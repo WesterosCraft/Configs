@@ -1,0 +1,18 @@
+{
+  "id": "gower_8325,52,20487",
+  "name": "gower",
+  "icon": "waypoint-normal.png",
+  "x": 8325,
+  "y": 52,
+  "z": 20487,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

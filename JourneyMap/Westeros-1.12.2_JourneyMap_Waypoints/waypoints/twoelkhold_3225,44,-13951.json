@@ -1,0 +1,18 @@
+{
+  "id": "twoelkhold_3225,44,-13951",
+  "name": "twoelkhold",
+  "icon": "waypoint-normal.png",
+  "x": 3225,
+  "y": 44,
+  "z": -13951,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

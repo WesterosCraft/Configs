@@ -1,0 +1,18 @@
+{
+  "id": "townattarbeckhall_-6053,59,10282",
+  "name": "townattarbeckhall",
+  "icon": "waypoint-normal.png",
+  "x": -6053,
+  "y": 59,
+  "z": 10282,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

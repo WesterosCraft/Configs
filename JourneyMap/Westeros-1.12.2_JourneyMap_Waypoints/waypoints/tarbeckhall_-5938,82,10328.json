@@ -1,0 +1,18 @@
+{
+  "id": "tarbeckhall_-5938,82,10328",
+  "name": "tarbeckhall",
+  "icon": "waypoint-normal.png",
+  "x": -5938,
+  "y": 82,
+  "z": 10328,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

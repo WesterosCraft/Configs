@@ -1,0 +1,18 @@
+{
+  "id": "uplandskeep_-6346,80,21886",
+  "name": "uplandskeep",
+  "icon": "waypoint-normal.png",
+  "x": -6346,
+  "y": 80,
+  "z": 21886,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

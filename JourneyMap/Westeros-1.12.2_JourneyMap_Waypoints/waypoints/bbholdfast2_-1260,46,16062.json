@@ -1,0 +1,18 @@
+{
+  "id": "bbholdfast2_-1260,46,16062",
+  "name": "bbholdfast2",
+  "icon": "waypoint-normal.png",
+  "x": -1260,
+  "y": 46,
+  "z": 16062,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

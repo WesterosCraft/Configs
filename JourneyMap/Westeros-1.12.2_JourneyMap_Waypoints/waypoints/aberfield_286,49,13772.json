@@ -1,0 +1,18 @@
+{
+  "id": "aberfield_286,49,13772",
+  "name": "aberfield",
+  "icon": "waypoint-normal.png",
+  "x": 286,
+  "y": 49,
+  "z": 13772,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

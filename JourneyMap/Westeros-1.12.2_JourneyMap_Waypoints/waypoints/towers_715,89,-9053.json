@@ -1,0 +1,18 @@
+{
+  "id": "towers_715,89,-9053",
+  "name": "towers",
+  "icon": "waypoint-normal.png",
+  "x": 715,
+  "y": 89,
+  "z": -9053,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

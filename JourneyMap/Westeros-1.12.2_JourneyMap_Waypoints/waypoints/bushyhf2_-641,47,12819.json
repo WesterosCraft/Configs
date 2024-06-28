@@ -1,0 +1,18 @@
+{
+  "id": "bushyhf2_-641,47,12819",
+  "name": "bushyhf2",
+  "icon": "waypoint-normal.png",
+  "x": -641,
+  "y": 47,
+  "z": 12819,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

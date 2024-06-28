@@ -1,0 +1,18 @@
+{
+  "id": "Rosebridge_-4410,41,18322",
+  "name": "Rosebridge",
+  "icon": "waypoint-normal.png",
+  "x": -4410,
+  "y": 41,
+  "z": 18322,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

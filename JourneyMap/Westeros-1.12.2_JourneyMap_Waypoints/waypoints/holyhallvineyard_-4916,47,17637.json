@@ -1,0 +1,18 @@
+{
+  "id": "holyhallvineyard_-4916,47,17637",
+  "name": "holyhallvineyard",
+  "icon": "waypoint-normal.png",
+  "x": -4916,
+  "y": 47,
+  "z": 17637,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

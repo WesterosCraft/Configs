@@ -1,0 +1,18 @@
+{
+  "id": "baelish_7655,48,642",
+  "name": "baelish",
+  "icon": "waypoint-normal.png",
+  "x": 7655,
+  "y": 48,
+  "z": 642,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

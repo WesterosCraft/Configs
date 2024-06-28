@@ -1,0 +1,18 @@
+{
+  "id": "ForesterCabin_1308,38,11011",
+  "name": "ForesterCabin",
+  "icon": "waypoint-normal.png",
+  "x": 1308,
+  "y": 38,
+  "z": 11011,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

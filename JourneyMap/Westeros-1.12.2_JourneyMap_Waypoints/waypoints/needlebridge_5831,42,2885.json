@@ -1,0 +1,18 @@
+{
+  "id": "needlebridge_5831,42,2885",
+  "name": "needlebridge",
+  "icon": "waypoint-normal.png",
+  "x": 5831,
+  "y": 42,
+  "z": 2885,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

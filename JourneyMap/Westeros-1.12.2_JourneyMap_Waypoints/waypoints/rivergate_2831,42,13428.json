@@ -1,0 +1,18 @@
+{
+  "id": "rivergate_2831,42,13428",
+  "name": "rivergate",
+  "icon": "waypoint-normal.png",
+  "x": 2831,
+  "y": 42,
+  "z": 13428,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

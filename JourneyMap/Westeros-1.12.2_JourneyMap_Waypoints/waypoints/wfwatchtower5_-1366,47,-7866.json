@@ -1,0 +1,18 @@
+{
+  "id": "wfwatchtower5_-1366,47,-7866",
+  "name": "wfwatchtower5",
+  "icon": "waypoint-normal.png",
+  "x": -1366,
+  "y": 47,
+  "z": -7866,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

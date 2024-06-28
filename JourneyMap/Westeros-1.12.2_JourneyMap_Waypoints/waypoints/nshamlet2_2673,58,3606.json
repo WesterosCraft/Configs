@@ -1,0 +1,18 @@
+{
+  "id": "nshamlet2_2673,58,3606",
+  "name": "nshamlet2",
+  "icon": "waypoint-normal.png",
+  "x": 2673,
+  "y": 58,
+  "z": 3606,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

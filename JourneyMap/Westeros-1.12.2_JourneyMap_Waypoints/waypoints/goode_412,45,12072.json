@@ -1,0 +1,18 @@
+{
+  "id": "goode_412,45,12072",
+  "name": "goode",
+  "icon": "waypoint-normal.png",
+  "x": 412,
+  "y": 45,
+  "z": 12072,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

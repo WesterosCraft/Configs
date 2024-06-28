@@ -1,0 +1,18 @@
+{
+  "id": "battlevalley_-1063,46,6561",
+  "name": "battlevalley",
+  "icon": "waypoint-normal.png",
+  "x": -1063,
+  "y": 46,
+  "z": 6561,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "bayofseals_5982,34,-13598",
+  "name": "bayofseals",
+  "icon": "waypoint-normal.png",
+  "x": 5982,
+  "y": 34,
+  "z": -13598,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "fmhovel3_-775,56,6478",
+  "name": "fmhovel3",
+  "icon": "waypoint-normal.png",
+  "x": -775,
+  "y": 56,
+  "z": 6478,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

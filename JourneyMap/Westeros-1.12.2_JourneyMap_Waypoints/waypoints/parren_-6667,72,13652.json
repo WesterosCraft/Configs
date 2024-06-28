@@ -1,0 +1,18 @@
+{
+  "id": "parren_-6667,72,13652",
+  "name": "parren",
+  "icon": "waypoint-normal.png",
+  "x": -6667,
+  "y": 72,
+  "z": 13652,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

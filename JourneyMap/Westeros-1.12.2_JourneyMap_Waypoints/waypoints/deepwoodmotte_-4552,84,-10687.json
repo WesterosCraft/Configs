@@ -1,0 +1,18 @@
+{
+  "id": "deepwoodmotte_-4552,84,-10687",
+  "name": "deepwoodmotte",
+  "icon": "waypoint-normal.png",
+  "x": -4552,
+  "y": 84,
+  "z": -10687,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

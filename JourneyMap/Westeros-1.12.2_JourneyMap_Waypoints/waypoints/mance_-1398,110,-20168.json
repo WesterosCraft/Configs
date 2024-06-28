@@ -1,0 +1,18 @@
+{
+  "id": "mance_-1398,110,-20168",
+  "name": "mance",
+  "icon": "waypoint-normal.png",
+  "x": -1398,
+  "y": 110,
+  "z": -20168,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

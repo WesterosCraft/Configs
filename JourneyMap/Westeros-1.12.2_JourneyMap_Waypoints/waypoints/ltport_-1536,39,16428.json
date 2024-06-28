@@ -1,0 +1,18 @@
+{
+  "id": "ltport_-1536,39,16428",
+  "name": "ltport",
+  "icon": "waypoint-normal.png",
+  "x": -1536,
+  "y": 39,
+  "z": 16428,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

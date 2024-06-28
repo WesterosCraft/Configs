@@ -1,0 +1,18 @@
+{
+  "id": "heartshome_4898,43,3539",
+  "name": "heartshome",
+  "icon": "waypoint-normal.png",
+  "x": 4898,
+  "y": 43,
+  "z": 3539,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "conkmanor_-7247,42,15490",
+  "name": "conkmanor",
+  "icon": "waypoint-normal.png",
+  "x": -7247,
+  "y": 42,
+  "z": 15490,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

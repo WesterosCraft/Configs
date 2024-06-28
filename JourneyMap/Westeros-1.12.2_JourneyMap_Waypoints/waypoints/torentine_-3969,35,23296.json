@@ -1,0 +1,18 @@
+{
+  "id": "torentine_-3969,35,23296",
+  "name": "torentine",
+  "icon": "waypoint-normal.png",
+  "x": -3969,
+  "y": 35,
+  "z": 23296,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

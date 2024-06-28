@@ -1,0 +1,18 @@
+{
+  "id": "ramsford_-1261,35,5687",
+  "name": "ramsford",
+  "icon": "waypoint-normal.png",
+  "x": -1261,
+  "y": 35,
+  "z": 5687,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

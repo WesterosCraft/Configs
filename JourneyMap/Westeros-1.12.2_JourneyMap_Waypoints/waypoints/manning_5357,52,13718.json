@@ -1,0 +1,18 @@
+{
+  "id": "manning_5357,52,13718",
+  "name": "manning",
+  "icon": "waypoint-normal.png",
+  "x": 5357,
+  "y": 52,
+  "z": 13718,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

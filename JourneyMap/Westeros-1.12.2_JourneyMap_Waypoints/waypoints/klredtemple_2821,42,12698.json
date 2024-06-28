@@ -1,0 +1,18 @@
+{
+  "id": "klredtemple_2821,42,12698",
+  "name": "klredtemple",
+  "icon": "waypoint-normal.png",
+  "x": 2821,
+  "y": 42,
+  "z": 12698,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

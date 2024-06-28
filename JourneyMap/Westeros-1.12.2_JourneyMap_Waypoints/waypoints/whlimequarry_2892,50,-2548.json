@@ -1,0 +1,18 @@
+{
+  "id": "whlimequarry_2892,50,-2548",
+  "name": "whlimequarry",
+  "icon": "waypoint-normal.png",
+  "x": 2892,
+  "y": 50,
+  "z": -2548,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

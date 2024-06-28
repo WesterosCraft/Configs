@@ -1,0 +1,18 @@
+{
+  "id": "hhlumbermill_4780,57,3320",
+  "name": "hhlumbermill",
+  "icon": "waypoint-normal.png",
+  "x": 4780,
+  "y": 57,
+  "z": 3320,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "bfhf1_-5968,69,7097",
+  "name": "bfhf1",
+  "icon": "waypoint-normal.png",
+  "x": -5968,
+  "y": 69,
+  "z": 7097,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

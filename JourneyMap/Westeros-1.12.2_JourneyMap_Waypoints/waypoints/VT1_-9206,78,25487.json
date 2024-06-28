@@ -1,0 +1,18 @@
+{
+  "id": "VT1_-9206,78,25487",
+  "name": "VT1",
+  "icon": "waypoint-normal.png",
+  "x": -9206,
+  "y": 78,
+  "z": 25487,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

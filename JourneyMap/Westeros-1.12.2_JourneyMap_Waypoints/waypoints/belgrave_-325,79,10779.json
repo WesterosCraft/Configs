@@ -1,0 +1,18 @@
+{
+  "id": "belgrave_-325,79,10779",
+  "name": "belgrave",
+  "icon": "waypoint-normal.png",
+  "x": -325,
+  "y": 79,
+  "z": 10779,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

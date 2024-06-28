@@ -1,0 +1,18 @@
+{
+  "id": "stonecrows1_4171,78,6775",
+  "name": "stonecrows1",
+  "icon": "waypoint-normal.png",
+  "x": 4171,
+  "y": 78,
+  "z": 6775,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

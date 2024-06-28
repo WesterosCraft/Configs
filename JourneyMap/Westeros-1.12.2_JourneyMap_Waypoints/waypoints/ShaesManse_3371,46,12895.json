@@ -1,0 +1,18 @@
+{
+  "id": "ShaesManse_3371,46,12895",
+  "name": "ShaesManse",
+  "icon": "waypoint-normal.png",
+  "x": 3371,
+  "y": 46,
+  "z": 12895,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

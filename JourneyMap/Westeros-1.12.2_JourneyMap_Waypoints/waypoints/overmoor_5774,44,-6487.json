@@ -1,0 +1,18 @@
+{
+  "id": "overmoor_5774,44,-6487",
+  "name": "overmoor",
+  "icon": "waypoint-normal.png",
+  "x": 5774,
+  "y": 44,
+  "z": -6487,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

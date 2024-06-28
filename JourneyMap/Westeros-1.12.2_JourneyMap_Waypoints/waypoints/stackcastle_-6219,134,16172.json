@@ -1,0 +1,18 @@
+{
+  "id": "stackcastle_-6219,134,16172",
+  "name": "stackcastle",
+  "icon": "waypoint-normal.png",
+  "x": -6219,
+  "y": 134,
+  "z": 16172,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "sfmine1_-3656,75,23645",
+  "name": "sfmine1",
+  "icon": "waypoint-normal.png",
+  "x": -3656,
+  "y": 75,
+  "z": 23645,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

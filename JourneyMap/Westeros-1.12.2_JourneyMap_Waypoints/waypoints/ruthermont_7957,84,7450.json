@@ -1,0 +1,18 @@
+{
+  "id": "ruthermont_7957,84,7450",
+  "name": "ruthermont",
+  "icon": "waypoint-normal.png",
+  "x": 7957,
+  "y": 84,
+  "z": 7450,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "ghosthilltown_7178,50,23621",
+  "name": "ghosthilltown",
+  "icon": "waypoint-normal.png",
+  "x": 7178,
+  "y": 50,
+  "z": 23621,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "breakwaterkeep_3105,56,-557",
+  "name": "breakwaterkeep",
+  "icon": "waypoint-normal.png",
+  "x": 3105,
+  "y": 56,
+  "z": -557,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

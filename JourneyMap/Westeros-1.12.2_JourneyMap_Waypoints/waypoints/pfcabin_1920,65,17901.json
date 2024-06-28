@@ -1,0 +1,18 @@
+{
+  "id": "pfcabin_1920,65,17901",
+  "name": "pfcabin",
+  "icon": "waypoint-normal.png",
+  "x": 1920,
+  "y": 65,
+  "z": 17901,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

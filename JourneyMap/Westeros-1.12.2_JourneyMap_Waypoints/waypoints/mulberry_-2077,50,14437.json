@@ -1,0 +1,18 @@
+{
+  "id": "mulberry_-2077,50,14437",
+  "name": "mulberry",
+  "icon": "waypoint-normal.png",
+  "x": -2077,
+  "y": 50,
+  "z": 14437,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

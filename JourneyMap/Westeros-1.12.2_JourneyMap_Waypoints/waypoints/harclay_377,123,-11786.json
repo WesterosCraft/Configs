@@ -1,0 +1,18 @@
+{
+  "id": "harclay_377,123,-11786",
+  "name": "harclay",
+  "icon": "waypoint-normal.png",
+  "x": 377,
+  "y": 123,
+  "z": -11786,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

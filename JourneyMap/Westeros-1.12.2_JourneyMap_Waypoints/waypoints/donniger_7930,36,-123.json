@@ -1,0 +1,18 @@
+{
+  "id": "donniger_7930,36,-123",
+  "name": "donniger",
+  "icon": "waypoint-normal.png",
+  "x": 7930,
+  "y": 36,
+  "z": -123,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

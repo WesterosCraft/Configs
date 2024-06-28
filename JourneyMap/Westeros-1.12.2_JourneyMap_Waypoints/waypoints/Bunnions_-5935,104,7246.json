@@ -1,0 +1,18 @@
+{
+  "id": "Bunnions_-5935,104,7246",
+  "name": "Bunnions",
+  "icon": "waypoint-normal.png",
+  "x": -5935,
+  "y": 104,
+  "z": 7246,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

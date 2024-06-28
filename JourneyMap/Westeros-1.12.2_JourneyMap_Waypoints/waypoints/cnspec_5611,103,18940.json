@@ -1,0 +1,18 @@
+{
+  "id": "cnspec_5611,103,18940",
+  "name": "cnspec",
+  "icon": "waypoint-normal.png",
+  "x": 5611,
+  "y": 103,
+  "z": 18940,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

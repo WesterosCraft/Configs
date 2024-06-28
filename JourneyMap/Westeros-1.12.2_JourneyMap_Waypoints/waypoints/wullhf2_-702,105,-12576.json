@@ -1,0 +1,18 @@
+{
+  "id": "wullhf2_-702,105,-12576",
+  "name": "wullhf2",
+  "icon": "waypoint-normal.png",
+  "x": -702,
+  "y": 105,
+  "z": -12576,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

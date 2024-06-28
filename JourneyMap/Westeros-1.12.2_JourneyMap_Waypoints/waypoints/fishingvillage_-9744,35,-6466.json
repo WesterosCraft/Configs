@@ -1,0 +1,18 @@
+{
+  "id": "fishingvillage_-9744,35,-6466",
+  "name": "fishingvillage",
+  "icon": "waypoint-normal.png",
+  "x": -9744,
+  "y": 35,
+  "z": -6466,
+  "r": 54,
+  "g": 181,
+  "b": 84,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
