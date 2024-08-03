@@ -1,0 +1,44 @@
+# Frequently Asked Questions
+## General Questions
+
+- **What is WesterosCraft?**
+
+Our mission is to recreate the universe imagined by author George RR Martin in his book series A Song of Ice and Fire (ASoIaF) as accurately and precisely as possible within the confines of Minecraft, in an effort to custom create a world which will be the stage for a roleplaying game. In pursuit of this endeavor we aim to provide a friendly and encouraging atmosphere for our creative community at all times. To accomplish this we use our Forums , these Docs, a Dynamic Map , Discord , a Custom Modpack , and the Song of Ice and Fire books in addition to hundreds of online resources that we use to learn as much as possible about the world we are building. Most importantly, we are a community of people dedicated to both our loves for Minecraft and the ASoIaF series, and use this project as a way to explore our relevant interests.
+
+- **Can I download the map?**
+Unfortunately the map is not available for download. One reason would be the large file size of the map, another is the project isn't completed, and another is that the map is and always will be free to visit.
+I am having difficulty logging onto the server - what can I do?
+
+Head over to our Troubleshooting Guide. It answers the most frequent issues users had in the past, and is likely to contain the answer to your problem as well. If your problem persists you may contact us via the Support Forum or on Discord.
+When can I roleplay on the map?
+
+We're working on this project since late 2011. So far, we've done and redone our map a couple of times, at present we are roughly at 60% -70% completion. We can not make a reliable prediction about when we would be able to finish this, but we're getting closer with every house and every castle that's built.
+Wheres Essos?
+
+While the immediate goal is to finish Westeros, there is a great deal of interest in Essos and its creation. It is more than likely we will create all of Essos, but it will still be quite some time before we get there.
+How do I apply to build?
+
+Read the Application Guidelines carefully, they are very important. Then fill out the application form completely. As a word of advice, be sure to explore our server thoroughly before submitting your application so that you know what kinds of builds we are looking for. If you do not submit any images of builds, your application will be rejected. Check out our Basic Building Guide for Applicants for more helpful advice.
+Gameplay
+What can I do on the server?
+
+If you are a new visitor, you are free to explore the server and it's builds at your leisure. Please check our Server Rules before going online. Unfortunately you will not be able to build until you have put in an application on our forums and been accepted. For more info about this, check out our Basic Building Guide for Applicants before making an application.
+How do I visit a location?
+
+If you know the name of the place you want to visit, type /warp [location] in the chat. Replace [location] with the name of your destination. For example, to warp to King's Landing type /warp kingslanding in chat. If you don't know the name or you are unsure about the spelling you are welcome to ask. A great way to explore new locations is /warp map in game. To see all of our warps in one place, or just to check out the scale of our map, check out our dynamic map . You can focus it on your character to follow your journey through Westeros, as well as enable and disable different layers of information, such as player names or warps (this can be useful to find out where you are - but beware, there is a lot of warps! Enabling this layer while zoomed out may cause your browser to freeze or crash.)
+The World
+How big is the map?
+
+The map is currently several dozen gigs in file size. If you're wondering about the dimensions, it's roughly 22,000 x 59,000 blocks. About 1298 sq km / 501.14 sq mi, roughly the size of Los Angeles.
+How did you make the map?
+
+We used a program called WorldPainter to shape the map and do basic terraforming. In-game we use a mixture of hand work, WorldEdit and VoxelSniper to refine the terrain further.
+What cities are currently finished?
+
+You can check out all our projects by visiting our livemap or our progress page. We have quite a lot of the most famous landmarks done though, including Winterfell, Castle Black, The Wall and King's Landing.
+Is the server based on books or tv show?
+
+Our builds are based on the books, but we do use the HBO show as inspiration.
+What book is the server set in?
+
+The server is set on 3/3/299 according to this timeline. This puts us at the start of A Clash of Kings, specifically the first Davos chapter. Explore with caution, Westeroscraft has destinations that contain show spoilers.
