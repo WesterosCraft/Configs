@@ -39,4 +39,6 @@ This mod aims to add a few tools to help make your building experience easier. F
 - `/wctools paint <blockset>`
 A paint tool that can paint over any block set with another block set.  Use the command to select from all available blocksets and use right click to paint!  You can also left click on a blockset to switch your palette.
 
-### GriefDefender
+### [GriefDefender](https://docs.griefdefender.com/)
+
+GriefDefender is our
