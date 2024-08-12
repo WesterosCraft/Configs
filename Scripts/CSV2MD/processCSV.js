@@ -11,23 +11,31 @@ async function processCSV(inputFile) {
     // Clean up the JSON data
     const cleanedData = cleanData(jsonData);
 
-     // Save the cleaned JSON data to a file
-     const jsonOutputFile = inputFile.replace('.csv', '.json');
-     await fs.writeFile(jsonOutputFile, JSON.stringify(cleanedData, null, 2));
-     console.log(`Cleaned JSON data has been saved to ${jsonOutputFile}`);
+    // Group the cleaned data by field3
+    const groupedData = cleanedData.reduce((acc, item) => {
+      const key = item['Region'].toLowerCase();
+      if (!acc[key]) {
+        acc[key] = [];
+      }
+      acc[key].push(item);
+      return acc;
+    }, {});
 
-    // Convert cleaned JSON back to CSV
-    const parser = new Parser();
-    const csvData = parser.parse(cleanedData);
+    // Save each group to its own markdown file
+    for (const [key, value] of Object.entries(groupedData)) {
+      // Convert JSON back to CSV
+      const parser = new Parser();
+      const csvData = parser.parse(value);
 
-    // Convert CSV to Markdown table
-    const markdownTable = csvToMarkdown(csvData, ',', true);
+      // Convert CSV to Markdown table
+      const markdownTable = csvToMarkdown(csvData, ',', true);
 
-    // Write the Markdown table to a new file
-    const outputFile = inputFile.replace('.csv', '.md');
-    await fs.writeFile(outputFile, markdownTable);
+      // Write the Markdown table to a new file
+      const outputFile = `../../LauncherContent/Projects/${key.replace(/ /g,"_")}.md`;
+      await fs.writeFile(outputFile, markdownTable);
 
-    console.log(`Markdown table has been saved to ${outputFile}`);
+      console.log(`Markdown table has been saved to ${outputFile}`);
+    }
   } catch (error) {
     console.error('Error processing the file:', error);
   }
@@ -61,7 +69,6 @@ function cleanData(jsonData) {
     return newItem;
   });
 }
-
 
 // Check if the input file is provided
 if (process.argv.length < 3) {
