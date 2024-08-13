@@ -23,4 +23,4 @@ jobs:
       run: cd Scripts/CSV2MD && npm ci
 
     - name: Run script
-      run: node Scripts/CSV2MD/processCSV.js westeros_project_tracker.csv
+      run: cd Scripts/CSV2MD && node processCSV.js westeros_project_tracker.csv
