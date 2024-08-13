@@ -20,7 +20,7 @@ jobs:
         node-version: latest
 
     - name: Install dependencies
-      run: npm ci
+      run: cd Scripts/CSV2MD && npm ci
 
     - name: Run script
       run: node Scripts/CSV2MD/processCSV.js westeros_project_tracker.csv
