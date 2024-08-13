@@ -1,8 +1,10 @@
 name: Weekly CSV Processing
 
 on:
-  schedule:
-    - cron: "*/5 * * * *"  # Runs at 00:00 on Sunday
+  push:
+    branches:
+      - main
+    # - cron: '0 0 * * 0'  # Runs at 00:00 on Sunday
 
 jobs:
   build:
