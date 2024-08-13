@@ -14,6 +14,10 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v4
 
+    - name: Set up Git user
+      run: |
+        git config --local user.email "jacobgranberry@gmail.com"
+
     - name: Use Node.js
       uses: actions/setup-node@v4
       with:
@@ -24,3 +28,9 @@ jobs:
 
     - name: Run script
       run: cd Scripts/CSV2MD && node processCSV.js westeros_project_tracker.csv
+
+    - name: Commit and push if it changed
+      run: |
+        git add .
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update project data"
+        git push
