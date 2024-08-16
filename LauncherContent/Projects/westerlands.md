@@ -1,55 +1,320 @@
-| "Region"      | "Project Name"              | "Status"      | "Size" | "Priority"    | 
-|---------------|-----------------------------|---------------|--------|---------------| 
-| "Westerlands" | "Algood"                    | "Not Started" | "M"    | "High"        | 
-| "Westerlands" | "Ashemark"                  | "Completed"   | "S"    | "Low"         | 
-| "Westerlands" | "Banefort"                  | "Completed"   | "M"    | "Low"         | 
-| "Westerlands" | "Bettley"                   | "Not Started" | "S"    | "High"        | 
-| "Westerlands" | "Broom"                     | "Completed"   | "S"    | "Low"         | 
-| "Westerlands" | "Castamere"                 | "Completed"   | "L"    | "Medium"      | 
-| "Westerlands" | "Casterly Rock (Version 1)" | "Completed"   | "XL"   | "No priority" | 
-| "Westerlands" | "Casterly Rock (Version 2)" | "Blocked"     | "XL"   | "High"        | 
-| "Westerlands" | "Hornvale"                  | "In Progress" | "L"    | "No priority" | 
-| "Westerlands" | "Sarsfield"                 | "In Progress" | "S"    | "No priority" | 
-| "Westerlands" | "Oxcross"                   | "In Progress" | "S"    | "No priority" | 
-| "Westerlands" | "Tarbeck Hall"              | "In Progress" | "M"    | "No priority" | 
-| "Westerlands" | "Clegane Hall"              | "Completed"   | "S"    | "Low"         | 
-| "Westerlands" | "Cornfield"                 | "Completed"   | "S"    | "Low"         | 
-| "Westerlands" | "Deep Den"                  | "Completed"   | "M"    | "Low"         | 
-| "Westerlands" | "Doggett"                   | "Abandoned"   | "M"    | "High"        | 
-| "Westerlands" | "Drox"                      | "Completed"   | "M"    | "Low"         | 
-| "Westerlands" | "Fair Isle"                 | "Completed"   | "L"    | "Medium"      | 
-| "Westerlands" | "Clifton"                   | "Completed"   | "S"    | "Low"         | 
-| "Westerlands" | "Faircastle"                | "Completed"   | "S"    | "Low"         | 
-| "Westerlands" | "Falwell"                   | "Completed"   | "M"    | "Low"         | 
-| "Westerlands" | "Feastfires"                | "Completed"   | "M"    | "Low"         | 
-| "Westerlands" | "Ferren"                    | "Completed"   | "M"    | "Low"         | 
-| "Westerlands" | "Foote"                     | "Abandoned"   | "S"    | "High"        | 
-| "Westerlands" | "Garner"                    | "Completed"   | "S"    | "Low"         | 
-| "Westerlands" | "Golden Tooth"              | "Completed"   | "M"    | "Low"         | 
-| "Westerlands" | "Hamell"                    | "Completed"   | "M"    | "Low"         | 
-| "Westerlands" | "Hawthorne"                 | "Completed"   | "M"    | "Low"         | 
-| "Westerlands" | "Jast"                      | "Completed"   | "S"    | "Low"         | 
-| "Westerlands" | "Kayce"                     | "Completed"   | "S"    | "Low"         | 
-| "Westerlands" | "Kyndall"                   | "Not Started" | "S"    | "No priority" | 
-| "Westerlands" | "Lannisport"                | "Completed"   | "L"    | "No priority" | 
-| "Westerlands" | "Lannisport"                | "Blocked"     | "XL"   | "No priority" | 
-| "Westerlands" | "Greenfield"                | "Blocked"     | "M"    | "High"        | 
-| "Westerlands" | "Hetherspoon (Version 1)"   | "Completed"   | "S"    | "Low"         | 
-| "Westerlands" | "Hetherspoon (Version 2)"   | "Blocked"     | "S"    | "Low"         | 
-| "Westerlands" | "Moreland"                  | "Blocked"     | "M"    | "Low"         | 
-| "Westerlands" | "Ruttiger (Version 1)"      | "Completed"   | "S"    | "Low"         | 
-| "Westerlands" | "Ruttiger (Version 2)"      | "Blocked"     | "S"    | "Low"         | 
-| "Westerlands" | "Lorch"                     | "Abandoned"   | "S"    | "High"        | 
-| "Westerlands" | "Myatt"                     | "Abandoned"   | "M"    | "High"        | 
-| "Westerlands" | "Parren"                    | "Completed"   | "S"    | "Low"         | 
-| "Westerlands" | "Payne"                     | "Completed"   | "S"    | "Low"         | 
-| "Westerlands" | "Peckledon"                 | "Completed"   | "M"    | "Low"         | 
-| "Westerlands" | "Plumm"                     | "Completed"   | "S"    | "Low"         | 
-| "Westerlands" | "Silverhill"                | "In Progress" | "L"    | "No priority" | 
-| "Westerlands" | "Stackspear"                | "Completed"   | "S"    | "No priority" | 
-| "Westerlands" | "The Crag"                  | "Completed"   | "M"    | "Low"         | 
-| "Westerlands" | "Turnberry"                 | "Completed"   | "S"    | "Low"         | 
-| "Westerlands" | "Vikary"                    | "Completed"   | "M"    | "Low"         | 
-| "Westerlands" | "Wyndhall"                  | "Completed"   | "M"    | "Low"         | 
-| "Westerlands" | "Yarwyck"                   | "Completed"   | "S"    | "Low"         | 
-| "Westerlands" | "Yew"                       | "Completed"   | "XS"   | "Low"         | 
+# Westerlands
+
+## Algood
+
+- **Status:** Not Started
+- **Size:**  M
+- **Priority:**  High
+
+## Ashemark
+
+- **Status:** Completed
+- **Size:**  S
+- **Priority:**  Low
+
+## Banefort
+
+- **Status:** Completed
+- **Size:**  M
+- **Priority:**  Low
+
+## Bettley
+
+- **Status:** Not Started
+- **Size:**  S
+- **Priority:**  High
+
+## Broom
+
+- **Status:** Completed
+- **Size:**  S
+- **Priority:**  Low
+
+## Castamere
+
+- **Status:** Completed
+- **Size:**  L
+- **Priority:**  Medium
+
+## Casterly Rock (Version 1)
+
+- **Status:** Completed
+- **Size:**  XL
+- **Priority:**  No priority
+
+## Casterly Rock (Version 2)
+
+- **Status:** Blocked
+- **Size:**  XL
+- **Priority:**  High
+
+## Hornvale
+
+- **Status:** In Progress
+- **Size:**  L
+- **Priority:**  No priority
+
+## Sarsfield
+
+- **Status:** In Progress
+- **Size:**  S
+- **Priority:**  No priority
+
+## Oxcross
+
+- **Status:** In Progress
+- **Size:**  S
+- **Priority:**  No priority
+
+## Tarbeck Hall
+
+- **Status:** In Progress
+- **Size:**  M
+- **Priority:**  No priority
+
+## Clegane Hall
+
+- **Status:** Completed
+- **Size:**  S
+- **Priority:**  Low
+
+## Cornfield
+
+- **Status:** Completed
+- **Size:**  S
+- **Priority:**  Low
+
+## Deep Den
+
+- **Status:** Completed
+- **Size:**  M
+- **Priority:**  Low
+
+## Doggett
+
+- **Status:** Abandoned
+- **Size:**  M
+- **Priority:**  High
+
+## Drox
+
+- **Status:** Completed
+- **Size:**  M
+- **Priority:**  Low
+
+## Fair Isle
+
+- **Status:** Completed
+- **Size:**  L
+- **Priority:**  Medium
+
+## Clifton
+
+- **Status:** Completed
+- **Size:**  S
+- **Priority:**  Low
+
+## Faircastle
+
+- **Status:** Completed
+- **Size:**  S
+- **Priority:**  Low
+
+## Falwell
+
+- **Status:** Completed
+- **Size:**  M
+- **Priority:**  Low
+
+## Feastfires
+
+- **Status:** Completed
+- **Size:**  M
+- **Priority:**  Low
+
+## Ferren
+
+- **Status:** Completed
+- **Size:**  M
+- **Priority:**  Low
+
+## Foote
+
+- **Status:** Abandoned
+- **Size:**  S
+- **Priority:**  High
+
+## Garner
+
+- **Status:** Completed
+- **Size:**  S
+- **Priority:**  Low
+
+## Golden Tooth
+
+- **Status:** Completed
+- **Size:**  M
+- **Priority:**  Low
+
+## Hamell
+
+- **Status:** Completed
+- **Size:**  M
+- **Priority:**  Low
+
+## Hawthorne
+
+- **Status:** Completed
+- **Size:**  M
+- **Priority:**  Low
+
+## Jast
+
+- **Status:** Completed
+- **Size:**  S
+- **Priority:**  Low
+
+## Kayce
+
+- **Status:** Completed
+- **Size:**  S
+- **Priority:**  Low
+
+## Kyndall
+
+- **Status:** Not Started
+- **Size:**  S
+- **Priority:**  No priority
+
+## Lannisport
+
+- **Status:** Completed
+- **Size:**  L
+- **Priority:**  No priority
+
+## Lannisport
+
+- **Status:** Blocked
+- **Size:**  XL
+- **Priority:**  No priority
+
+## Greenfield
+
+- **Status:** Blocked
+- **Size:**  M
+- **Priority:**  High
+
+## Hetherspoon (Version 1)
+
+- **Status:** Completed
+- **Size:**  S
+- **Priority:**  Low
+
+## Hetherspoon (Version 2)
+
+- **Status:** Blocked
+- **Size:**  S
+- **Priority:**  Low
+
+## Moreland
+
+- **Status:** Blocked
+- **Size:**  M
+- **Priority:**  Low
+
+## Ruttiger (Version 1)
+
+- **Status:** Completed
+- **Size:**  S
+- **Priority:**  Low
+
+## Ruttiger (Version 2)
+
+- **Status:** Blocked
+- **Size:**  S
+- **Priority:**  Low
+
+## Lorch
+
+- **Status:** Abandoned
+- **Size:**  S
+- **Priority:**  High
+
+## Myatt
+
+- **Status:** Abandoned
+- **Size:**  M
+- **Priority:**  High
+
+## Parren
+
+- **Status:** Completed
+- **Size:**  S
+- **Priority:**  Low
+
+## Payne
+
+- **Status:** Completed
+- **Size:**  S
+- **Priority:**  Low
+
+## Peckledon
+
+- **Status:** Completed
+- **Size:**  M
+- **Priority:**  Low
+
+## Plumm
+
+- **Status:** Completed
+- **Size:**  S
+- **Priority:**  Low
+
+## Silverhill
+
+- **Status:** In Progress
+- **Size:**  L
+- **Priority:**  No priority
+
+## Stackspear
+
+- **Status:** Completed
+- **Size:**  S
+- **Priority:**  No priority
+
+## The Crag
+
+- **Status:** Completed
+- **Size:**  M
+- **Priority:**  Low
+
+## Turnberry
+
+- **Status:** Completed
+- **Size:**  S
+- **Priority:**  Low
+
+## Vikary
+
+- **Status:** Completed
+- **Size:**  M
+- **Priority:**  Low
+
+## Wyndhall
+
+- **Status:** Completed
+- **Size:**  M
+- **Priority:**  Low
+
+## Yarwyck
+
+- **Status:** Completed
+- **Size:**  S
+- **Priority:**  Low
+
+## Yew
+
+- **Status:** Completed
+- **Size:**  XS
+- **Priority:**  Low
+
