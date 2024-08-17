@@ -30,9 +30,9 @@ function groupBy(data, key) {
 }
 
 function convertToMarkdownList(items) {
-  let markdownList = `# ${items[0]?.field3}\n\n`;
+  let markdownList = `## ${items[0]?.field3} Projects\n\n`;
   items.forEach(item => {
-    markdownList += `## ${item.field4}\n\n`;
+    markdownList += `### ${item.field4}\n\n`;
     markdownList += `- **Status:** ${item.field5}\n`;
     markdownList += `- **Size:**  ${item.field7}\n`;
     markdownList += `- **Priority:**  ${item.field8}\n\n`;
