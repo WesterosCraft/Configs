@@ -1,10 +1,11 @@
 name: Weekly CSV Processing
 
 on:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
     # - cron: '0 0 * * 0'  # Runs at 00:00 on Sunday
+  workflow_dispatch:
 
 jobs:
   build:
