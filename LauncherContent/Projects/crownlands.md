@@ -12,18 +12,11 @@
 - **Size:**  S
 - **Priority:**  No priority
 
-<table>
-    <tr>
-        <td>Foo</td>
-    </tr>
-</table>
-
 ## Boggs
 
 - **Status:** In Progress
 - **Size:**  M
 - **Priority:**  No priority
-
 
 ## Briarwhite
 
