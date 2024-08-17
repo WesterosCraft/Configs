@@ -1,192 +1,192 @@
-# Dorne
+## Dorne Projects
 
-## Blackmont
+### Blackmont
 
 - **Status:** Abandoned
 - **Size:**  M
 - **Priority:**  High
 
-## Caravansery and Linear Oasis
+### Caravansery and Linear Oasis
 
 - **Status:** Completed
 - **Size:**  XS
 - **Priority:**  No priority
 
-## Ghaston Grey
+### Ghaston Grey
 
 - **Status:** Completed
 - **Size:**  S
 - **Priority:**  Medium
 
-## Ghost Hill
+### Ghost Hill
 
 - **Status:** Completed
 - **Size:**  M
 - **Priority:**  No priority
 
-## Godsgrace
+### Godsgrace
 
 - **Status:** Completed
 - **Size:**  M
 - **Priority:**  Medium
 
-## Hellgate Hall
+### Hellgate Hall
 
 - **Status:** Not Started
 - **Size:**  M
 - **Priority:**  No priority
 
-## Hellholt
+### Hellholt
 
 - **Status:** Abandoned
 - **Size:**  L
 - **Priority:**  Medium
 
-## High Hermitage
+### High Hermitage
 
 - **Status:** Completed
 - **Size:**  S
 - **Priority:**  No priority
 
-## Kingsgrave
+### Kingsgrave
 
 - **Status:** Completed
 - **Size:**  S
 - **Priority:**  No priority
 
-## Tower of Joy
+### Tower of Joy
 
 - **Status:** Completed
 - **Size:**  XS
 - **Priority:**  High
 
-## Ladybright
+### Ladybright
 
 - **Status:** In Progress
 - **Size:**  M
 - **Priority:**  No priority
 
-## Lemonwood
+### Lemonwood
 
 - **Status:** Completed
 - **Size:**  S
 - **Priority:**  Medium
 
-## Planky Town
+### Planky Town
 
 - **Status:** Completed
 - **Size:**  L
 - **Priority:**  Medium
 
-## Salt Shore
+### Salt Shore
 
 - **Status:** Completed
 - **Size:**  M
 - **Priority:**  Medium
 
-## Sandstone
+### Sandstone
 
 - **Status:** Completed
 - **Size:**  M
 - **Priority:**  Medium
 
-## Shandystone
+### Shandystone
 
 - **Status:** Completed
 - **Size:**  XS
 - **Priority:**  Medium
 
-## Skyreach
+### Skyreach
 
 - **Status:** Completed
 - **Size:**  S
 - **Priority:**  Medium
 
-## Spottswood
+### Spottswood
 
 - **Status:** In Progress
 - **Size:**  M
 - **Priority:**  No priority
 
-## Starfall
+### Starfall
 
 - **Status:** Completed
 - **Size:**  S
 - **Priority:**  No priority
 
-## Birdstone
+### Birdstone
 
 - **Status:** In Progress
 - **Size:**  XL
 - **Priority:**  No priority
 
-## Bloodstone
+### Bloodstone
 
 - **Status:** In Progress
 - **Size:**  L
 - **Priority:**  No priority
 
-## Grey Gallows
+### Grey Gallows
 
 - **Status:** Completed
 - **Size:**  L
 - **Priority:**  No priority
 
-## Sunspear
+### Sunspear
 
 - **Status:** Not Started
 - **Size:**  L
 - **Priority:**  No priority
 
-## The Tor
+### The Tor
 
 - **Status:** Completed
 - **Size:**  L
 - **Priority:**  No priority
 
-## Vaith
+### Vaith
 
 - **Status:** Completed
 - **Size:**  S
 - **Priority:**  No priority
 
-## Wells
+### Wells
 
 - **Status:** Completed
 - **Size:**  S
 - **Priority:**  No priority
 
-## Wyl
+### Wyl
 
 - **Status:** In Progress
 - **Size:**  L
 - **Priority:**  No priority
 
-## Yronwood
+### Yronwood
 
 - **Status:** Completed
 - **Size:**  L
 - **Priority:**  No priority
 
-## RM Valley
+### RM Valley
 
 - **Status:** Completed
 - **Size:**  L
 - **Priority:**  No priority
 
-## Drinkwater
+### Drinkwater
 
 - **Status:** Completed
 - **Size:**  S
 - **Priority:**  No priority
 
-## Spottswood
+### Spottswood
 
 - **Status:** Completed
 - **Size:**  S
 - **Priority:**  No priority
 
-## The Tor
+### The Tor
 
 - **Status:** Abandoned
 - **Size:**  L

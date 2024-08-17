@@ -1,336 +1,336 @@
-# Vale
+## Vale Projects
 
-## Baelish Keep
+### Baelish Keep
 
 - **Status:** Completed
 - **Size:**  XS
 - **Priority:**  High
 
-## Breakstone
+### Breakstone
 
 - **Status:** Completed
 - **Size:**  S
 - **Priority:**  Medium
 
-## Coldwater Burn
+### Coldwater Burn
 
 - **Status:** Completed
 - **Size:**  S
 - **Priority:**  Medium
 
-## Crayne
+### Crayne
 
 - **Status:** In Progress
 - **Size:**  M
 - **Priority:**  No priority
 
-## Donniger
+### Donniger
 
 - **Status:** Completed
 - **Size:**  M
 - **Priority:**  Medium
 
-## Dutton
+### Dutton
 
 - **Status:** Not Started
 - **Size:**  M
 - **Priority:**  Low
 
-## Egen Hall
+### Egen Hall
 
 - **Status:** Blocked
 - **Size:**  M
 - **Priority:**  Medium
 
-## Grey Glen
+### Grey Glen
 
 - **Status:** Blocked
 - **Size:**  M
 - **Priority:**  High
 
-## Heart's Home
+### Heart's Home
 
 - **Status:** Completed
 - **Size:**  M
 - **Priority:**  High
 
-## Ironoaks
+### Ironoaks
 
 - **Status:** Blocked
 - **Size:**  L
 - **Priority:**  No priority
 
-## Lipps
+### Lipps
 
 - **Status:** Not Started
 - **Size:**  S
 - **Priority:**  No priority
 
-## Longbow Hall
+### Longbow Hall
 
 - **Status:** Blocked
 - **Size:**  M
 - **Priority:**  No priority
 
-## Andal Septry
+### Andal Septry
 
 - **Status:** In Progress
 - **Size:**  M
 - **Priority:**  No priority
 
-## Moore
+### Moore
 
 - **Status:** Completed
 - **Size:**  S
 - **Priority:**  High
 
-## Newkeep (2nd Version)
+### Newkeep (2nd Version)
 
 - **Status:** Not Started
 - **Size:**  M
 - **Priority:**  High
 
-## Ninestars
+### Ninestars
 
 - **Status:** Blocked
 - **Size:**  S
 - **Priority:**  High
 
-## Old Anchor
+### Old Anchor
 
 - **Status:** In Progress
 - **Size:**  L
 - **Priority:**  No priority
 
-## Pebble
+### Pebble
 
 - **Status:** Completed
 - **Size:**  S
 - **Priority:**  High
 
-## Redfort
+### Redfort
 
 - **Status:** In Progress
 - **Size:**  M
 - **Priority:**  No priority
 
-## Hardyng
+### Hardyng
 
 - **Status:** In Progress
 - **Size:**  S
 - **Priority:**  No priority
 
-## Runestone
+### Runestone
 
 - **Status:** Pending
 - **Size:**  M
 - **Priority:**  No priority
 
-## Ruthermont
+### Ruthermont
 
 - **Status:** In Progress
 - **Size:**  L
 - **Priority:**  No priority
 
-## Gulltown (Version 2)
+### Gulltown (Version 2)
 
 - **Status:** Pending
 - **Size:**  L
 - **Priority:**  No priority
 
-## Gull Tower
-
-- **Status:** Pending
-- **Size:**  XS
-- **Priority:**  No priority
-
-## Shett
+### Gull Tower
 
 - **Status:** Pending
 - **Size:**  XS
 - **Priority:**  No priority
 
-## Snakewood  (Version 2)
+### Shett
+
+- **Status:** Pending
+- **Size:**  XS
+- **Priority:**  No priority
+
+### Snakewood  (Version 2)
 
 - **Status:** Blocked
 - **Size:**  S
 - **Priority:**  No priority
 
-## Strongsong  (Version 2)
+### Strongsong  (Version 2)
 
 - **Status:** Blocked
 - **Size:**  S
 - **Priority:**  No priority
 
-## Sweetsister  (Version 2)
+### Sweetsister  (Version 2)
 
 - **Status:** Not Started
 - **Size:**  M
 - **Priority:**  No priority
 
-## Sisterton  (Version 2)
+### Sisterton  (Version 2)
 
 - **Status:** Not Started
 - **Size:**  S
 - **Priority:**  High
 
-## Longsister  (Version 2)
+### Longsister  (Version 2)
 
 - **Status:** Not Started
 - **Size:**  M
 - **Priority:**  High
 
-## Littlesister  (Version 2)
+### Littlesister  (Version 2)
 
 - **Status:** Not Started
 - **Size:**  S
 - **Priority:**  High
 
-## The Eyrie  (Version 2)
+### The Eyrie  (Version 2)
 
 - **Status:** Blocked
 - **Size:**  L
 - **Priority:**  No priority
 
-## The Bloody Gate  (Version 2)
+### The Bloody Gate  (Version 2)
 
 - **Status:** Blocked
 - **Size:**  S
 - **Priority:**  No priority
 
-## Gates of the Moon (Version 2)
+### Gates of the Moon (Version 2)
 
 - **Status:** Blocked
 - **Size:**  M
 - **Priority:**  No priority
 
-## The Paps (Version 2)
+### The Paps (Version 2)
 
 - **Status:** Not Started
 - **Size:**  S
 - **Priority:**  High
 
-## Wickenden
+### Wickenden
 
 - **Status:** Completed
 - **Size:**  M
 - **Priority:**  No priority
 
-## Witch Isle
+### Witch Isle
 
 - **Status:** Completed
 - **Size:**  M
 - **Priority:**  No priority
 
-## Wydman  (Version 2)
+### Wydman  (Version 2)
 
 - **Status:** Not Started
 - **Size:**  M
 - **Priority:**  High
 
-## Wydman  (Version 1)
+### Wydman  (Version 1)
 
 - **Status:** Abandoned
 - **Size:**  M
 - **Priority:**  No priority
 
-## Gates of the Moon (Version 1)
+### Gates of the Moon (Version 1)
 
 - **Status:** Completed
 - **Size:**  M
 - **Priority:**  No priority
 
-## The Paps (Version 1)
+### The Paps (Version 1)
 
 - **Status:** Completed
 - **Size:**  S
 - **Priority:**  High
 
-## The Bloody Gate  (Version 1)
+### The Bloody Gate  (Version 1)
 
 - **Status:** Completed
 - **Size:**  S
 - **Priority:**  No priority
 
-## Gulltown (Version 1)
+### Gulltown (Version 1)
 
 - **Status:** Completed
 - **Size:**  L
 - **Priority:**  No priority
 
-## Snakewood  (Version 1)
+### Snakewood  (Version 1)
 
 - **Status:** Completed
 - **Size:**  S
 - **Priority:**  No priority
 
-## Runestone (Version 1)
+### Runestone (Version 1)
 
 - **Status:** Completed
 - **Size:**  M
 - **Priority:**  No priority
 
-## Ruthermont (Version 1)
+### Ruthermont (Version 1)
 
 - **Status:** Completed
 - **Size:**  M
 - **Priority:**  No priority
 
-## Ninestars
+### Ninestars
 
 - **Status:** Completed
 - **Size:**  S
 - **Priority:**  No priority
 
-## Longbow Hall (1st Version)
+### Longbow Hall (1st Version)
 
 - **Status:** Completed
 - **Size:**  M
 - **Priority:**  High
 
-## Newkeep (1st Version)
+### Newkeep (1st Version)
 
 - **Status:** Abandoned
 - **Size:**  M
 - **Priority:**  No priority
 
-## Old Anchor
+### Old Anchor
 
 - **Status:** Abandoned
 - **Size:**  L
 - **Priority:**  No priority
 
-## Strongsong  (Version 1)
+### Strongsong  (Version 1)
 
 - **Status:** Completed
 - **Size:**  S
 - **Priority:**  No priority
 
-## Sisterton  (Version 1)
+### Sisterton  (Version 1)
 
 - **Status:** Completed
 - **Size:**  S
 - **Priority:**  No priority
 
-## Sweetsister  (Version 1)
+### Sweetsister  (Version 1)
 
 - **Status:** Completed
 - **Size:**  M
 - **Priority:**  High
 
-## The Eyrie  (Version 1)
+### The Eyrie  (Version 1)
 
 - **Status:** Completed
 - **Size:**  M
 - **Priority:**  No priority
 
-## Longsister  (Version 1)
+### Longsister  (Version 1)
 
 - **Status:** Completed
 - **Size:**  S
 - **Priority:**  No priority
 
-## Littlesister  (Version 1)
+### Littlesister  (Version 1)
 
 - **Status:** Completed
 - **Size:**  S
