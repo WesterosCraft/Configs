@@ -1,4 +1,6 @@
-# Resources
+# Quicklinks
+
+A list of resources you may find helpful.
 
 ## Common
 
