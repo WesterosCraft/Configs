@@ -49,11 +49,11 @@ This mod aims to add a few tools to help make your building experience easier. F
 
 GriefDefender is a pretty robust land claiming and anti-griefing plugin used on the WesterosCraft server. It's used primarily to manage plots inside the plot world we call Testeros.
 
-#### Receiving A Plot
+**Receiving A Plot**
 
 If you don't have a plot already, reach out to a moderator or admin to get you one. For now, we are limiting plots to one per builder. This can change in the future.
 
-#### Managing Your Plot
+**Managing Your Plot**
 
 Once you've had a plot made for you, you should have permissions to build on your plot (mods are exempt from this). You have control over several things on your plot, including who can access it. Some useful commands are below:
 
