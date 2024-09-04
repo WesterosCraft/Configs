@@ -14,6 +14,7 @@ A list of resources you may find helpful.
 - Forums: [https://forum.westeroscraft.com](https://forum.westeroscraft.com)
 - Search the books [https://asearchoficeandfire.com](https://asearchoficeandfire.com)
 - Project Tracker: [https://docs.google.com/spreadsheets/d/1sOtwUZZW2ct1vQ-dAhQXdiwZ4U9TGg-T-CSQv-6vgWE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1sOtwUZZW2ct1vQ-dAhQXdiwZ4U9TGg-T-CSQv-6vgWE/edit?usp=sharing)
+- Project Application Repository: [https://drive.google.com/drive/folders/17FTUDJCg8mN5NYThT2TXP1LTqIUMjcpI?usp=drive_link](https://drive.google.com/drive/folders/17FTUDJCg8mN5NYThT2TXP1LTqIUMjcpI?usp=drive_link)
 
 ## Guides
 
